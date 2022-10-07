@@ -1,0 +1,9 @@
+Prison
+Prisoner
+EducationFacilites
+Budget
+Crime
+Rehab
+Education
+Tranquility
+Fatality
