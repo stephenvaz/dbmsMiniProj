@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "sql6.freemysqlhosting.net",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "miniProjDB",
+            "database": "sql6524709",
+            "username": "sql6524709",
+            "password": "Y7WffYwMME"
+        }
+    ]
+}
