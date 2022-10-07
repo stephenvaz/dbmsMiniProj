@@ -11,19 +11,23 @@ SHOW DATABASES;
 CREATE TABLE Education (edq char(20) not NULL, noc int not NULL, nout int not NULL);
 
 --@block
-CREATE TABLE Budget (typ char(20) not NULL, amt int not NULL, st char(20) not NULL);
+
+CREATE TABLE Budget (typ char(20) not NULL, amt int not NULL,  PrisonState VARCHAR(50) references Prison(PrisonState));
 
 --@block
 
-CREATE TABLE Crime (ctyp char(20) not NULL, aggrp char(10) not NULL, sex char(20) not NULL, year int not NULL);
+CREATE TABLE Crime (ctyp char(20) not NULL, agegroup INT NOT NULL references Prison(agegroup)
+, sex VARCHAR(50) references Prisoner(sex), dYear int NOT NULL references Prison(dYear)
+);
 
 --@block
 
 CREATE TABLE Rehab (lap char(20) not NULL, fap char(20) not NULL, nopr int not NULL)
+
+
+
 DROP TABLE Prison;
 DROP TABLE Prisoner;
-
-
 
 
 -- STEPHEN
@@ -55,7 +59,7 @@ CREATE Table Tranquility(
     typeof VARCHAR(50) NOT NULL,
     inmatesinjured INT NOT NULL CHECK (inmatesinjured >= 0),
     inmateskilled INT NOT NULL CHECK (inmateskilled >= 0),
-    dYear INT references Prison(dYear),
+    dYear INT NOT NULL references Prison(dYear),
     PrisonState VARCHAR(50) references Prison(PrisonState)
 
 );
@@ -63,7 +67,7 @@ CREATE Table Tranquility(
 CREATE TABLE Fatality(
     cause VARCHAR(50) NOT NULL,
     sex VARCHAR(50) references Prisoner(sex),
-    dYear INT references Prison(dYear)
+    dYear INT NOT NULL references Prison(dYear)
 );
 
 --@block
@@ -76,3 +80,5 @@ DESC EducationFacilites;
 DROP TABLE Prison;
 DROP TABLE Prisoner;
 DROP TABLE EducationFacilites;
+DROP TABLE Tranquility;
+DROP TABLE Fatality;
