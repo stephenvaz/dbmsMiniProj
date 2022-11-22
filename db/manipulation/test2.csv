@@ -1,0 +1,1781 @@
+state_name,year,course,inmates
+Andhra Pradesh,2001,elementary_education,2699
+Andhra Pradesh,2001,adult_education,2161
+Andhra Pradesh,2001,higher_education,301
+Andhra Pradesh,2001,computer_course,52
+Andhra Pradesh,2002,elementary_education,2420
+Andhra Pradesh,2002,adult_education,4745
+Andhra Pradesh,2002,higher_education,396
+Andhra Pradesh,2002,computer_course,34
+Andhra Pradesh,2003,elementary_education,1606
+Andhra Pradesh,2003,adult_education,7594
+Andhra Pradesh,2003,higher_education,369
+Andhra Pradesh,2003,computer_course,39
+Andhra Pradesh,2004,elementary_education,5950
+Andhra Pradesh,2004,adult_education,8213
+Andhra Pradesh,2004,higher_education,305
+Andhra Pradesh,2004,computer_course,30
+Andhra Pradesh,2005,elementary_education,3720
+Andhra Pradesh,2005,adult_education,10962
+Andhra Pradesh,2005,higher_education,389
+Andhra Pradesh,2005,computer_course,1
+Andhra Pradesh,2006,elementary_education,3622
+Andhra Pradesh,2006,adult_education,22114
+Andhra Pradesh,2006,higher_education,441
+Andhra Pradesh,2006,computer_course,6
+Andhra Pradesh,2007,elementary_education,5570
+Andhra Pradesh,2007,adult_education,25587
+Andhra Pradesh,2007,higher_education,494
+Andhra Pradesh,2007,computer_course,16
+Andhra Pradesh,2008,elementary_education,2453
+Andhra Pradesh,2008,adult_education,18493
+Andhra Pradesh,2008,higher_education,875
+Andhra Pradesh,2008,computer_course,156
+Andhra Pradesh,2009,elementary_education,2162
+Andhra Pradesh,2009,adult_education,19585
+Andhra Pradesh,2009,higher_education,533
+Andhra Pradesh,2009,computer_course,307
+Andhra Pradesh,2010,elementary_education,3457
+Andhra Pradesh,2010,adult_education,11828
+Andhra Pradesh,2010,higher_education,530
+Andhra Pradesh,2010,computer_course,175
+Andhra Pradesh,2011,elementary_education,10108
+Andhra Pradesh,2011,adult_education,19033
+Andhra Pradesh,2011,higher_education,593
+Andhra Pradesh,2011,computer_course,432
+Andhra Pradesh,2012,elementary_education,12189
+Andhra Pradesh,2012,adult_education,19539
+Andhra Pradesh,2012,higher_education,514
+Andhra Pradesh,2012,computer_course,154
+Arunachal Pradesh,2009,elementary_education,0
+Arunachal Pradesh,2009,adult_education,0
+Arunachal Pradesh,2009,higher_education,0
+Arunachal Pradesh,2009,computer_course,0
+Arunachal Pradesh,2010,elementary_education,0
+Arunachal Pradesh,2010,adult_education,0
+Arunachal Pradesh,2010,higher_education,0
+Arunachal Pradesh,2010,computer_course,0
+Arunachal Pradesh,2011,elementary_education,0
+Arunachal Pradesh,2011,adult_education,0
+Arunachal Pradesh,2011,higher_education,0
+Arunachal Pradesh,2011,computer_course,0
+Arunachal Pradesh,2012,elementary_education,0
+Arunachal Pradesh,2012,adult_education,0
+Arunachal Pradesh,2012,higher_education,0
+Arunachal Pradesh,2012,computer_course,0
+Assam,2001,elementary_education,413
+Assam,2001,adult_education,683
+Assam,2001,higher_education,6
+Assam,2001,computer_course,0
+Assam,2002,elementary_education,105
+Assam,2002,adult_education,577
+Assam,2002,higher_education,7
+Assam,2002,computer_course,57
+Assam,2003,elementary_education,489
+Assam,2003,adult_education,1795
+Assam,2003,higher_education,6
+Assam,2003,computer_course,1
+Assam,2004,elementary_education,39
+Assam,2004,adult_education,1313
+Assam,2004,higher_education,8
+Assam,2004,computer_course,0
+Assam,2005,elementary_education,59
+Assam,2005,adult_education,1502
+Assam,2005,higher_education,0
+Assam,2005,computer_course,1
+Assam,2006,elementary_education,196
+Assam,2006,adult_education,1104
+Assam,2006,higher_education,0
+Assam,2006,computer_course,1
+Assam,2007,elementary_education,344
+Assam,2007,adult_education,1699
+Assam,2007,higher_education,0
+Assam,2007,computer_course,0
+Assam,2008,elementary_education,472
+Assam,2008,adult_education,1983
+Assam,2008,higher_education,141
+Assam,2008,computer_course,17
+Assam,2009,elementary_education,460
+Assam,2009,adult_education,1875
+Assam,2009,higher_education,152
+Assam,2009,computer_course,28
+Assam,2010,elementary_education,404
+Assam,2010,adult_education,1222
+Assam,2010,higher_education,25
+Assam,2010,computer_course,5
+Assam,2011,elementary_education,515
+Assam,2011,adult_education,1352
+Assam,2011,higher_education,35
+Assam,2011,computer_course,12
+Assam,2012,elementary_education,576
+Assam,2012,adult_education,1423
+Assam,2012,higher_education,51
+Assam,2012,computer_course,22
+Bihar,2001,elementary_education,0
+Bihar,2001,adult_education,0
+Bihar,2001,higher_education,0
+Bihar,2001,computer_course,0
+Bihar,2002,elementary_education,774
+Bihar,2002,adult_education,742
+Bihar,2002,higher_education,4
+Bihar,2002,computer_course,111
+Bihar,2003,elementary_education,678
+Bihar,2003,adult_education,720
+Bihar,2003,higher_education,8
+Bihar,2003,computer_course,15
+Bihar,2004,elementary_education,496
+Bihar,2004,adult_education,652
+Bihar,2004,higher_education,45
+Bihar,2004,computer_course,0
+Bihar,2005,elementary_education,259
+Bihar,2005,adult_education,922
+Bihar,2005,higher_education,6
+Bihar,2005,computer_course,0
+Bihar,2006,elementary_education,146
+Bihar,2006,adult_education,685
+Bihar,2006,higher_education,0
+Bihar,2006,computer_course,0
+Bihar,2007,elementary_education,103
+Bihar,2007,adult_education,28
+Bihar,2007,higher_education,475
+Bihar,2007,computer_course,0
+Bihar,2008,elementary_education,110
+Bihar,2008,adult_education,173
+Bihar,2008,higher_education,212
+Bihar,2008,computer_course,370
+Bihar,2009,elementary_education,7356
+Bihar,2009,adult_education,685
+Bihar,2009,higher_education,17
+Bihar,2009,computer_course,1025
+Bihar,2010,elementary_education,8072
+Bihar,2010,adult_education,640
+Bihar,2010,higher_education,16
+Bihar,2010,computer_course,1014
+Bihar,2011,elementary_education,1313
+Bihar,2011,adult_education,2755
+Bihar,2011,higher_education,11
+Bihar,2011,computer_course,710
+Bihar,2012,elementary_education,1287
+Bihar,2012,adult_education,2871
+Bihar,2012,higher_education,12
+Bihar,2012,computer_course,616
+Chhattisgarh,2012,elementary_education,1657
+Chhattisgarh,2012,adult_education,839
+Chhattisgarh,2012,higher_education,239
+Chhattisgarh,2012,computer_course,92
+Chhattisgarh,2001,elementary_education,517
+Chhattisgarh,2001,adult_education,335
+Chhattisgarh,2001,higher_education,28
+Chhattisgarh,2001,computer_course,0
+Chhattisgarh,2002,elementary_education,367
+Chhattisgarh,2002,adult_education,428
+Chhattisgarh,2002,higher_education,35
+Chhattisgarh,2002,computer_course,0
+Chhattisgarh,2003,elementary_education,403
+Chhattisgarh,2003,adult_education,512
+Chhattisgarh,2003,higher_education,41
+Chhattisgarh,2003,computer_course,24
+Chhattisgarh,2004,elementary_education,838
+Chhattisgarh,2004,adult_education,254
+Chhattisgarh,2004,higher_education,34
+Chhattisgarh,2004,computer_course,38
+Chhattisgarh,2005,elementary_education,813
+Chhattisgarh,2005,adult_education,600
+Chhattisgarh,2005,higher_education,51
+Chhattisgarh,2005,computer_course,183
+Chhattisgarh,2006,elementary_education,900
+Chhattisgarh,2006,adult_education,918
+Chhattisgarh,2006,higher_education,27
+Chhattisgarh,2006,computer_course,169
+Chhattisgarh,2007,elementary_education,853
+Chhattisgarh,2007,adult_education,484
+Chhattisgarh,2007,higher_education,40
+Chhattisgarh,2007,computer_course,25
+Chhattisgarh,2008,elementary_education,1252
+Chhattisgarh,2008,adult_education,686
+Chhattisgarh,2008,higher_education,78
+Chhattisgarh,2008,computer_course,20
+Chhattisgarh,2009,elementary_education,1039
+Chhattisgarh,2009,adult_education,1024
+Chhattisgarh,2009,higher_education,170
+Chhattisgarh,2009,computer_course,39
+Chhattisgarh,2010,elementary_education,1308
+Chhattisgarh,2010,adult_education,1217
+Chhattisgarh,2010,higher_education,92
+Chhattisgarh,2010,computer_course,80
+Chhattisgarh,2011,elementary_education,1387
+Chhattisgarh,2011,adult_education,1427
+Chhattisgarh,2011,higher_education,136
+Chhattisgarh,2011,computer_course,76
+Goa,2001,elementary_education,0
+Goa,2001,adult_education,0
+Goa,2001,higher_education,0
+Goa,2001,computer_course,0
+Goa,2002,elementary_education,0
+Goa,2002,adult_education,0
+Goa,2002,higher_education,0
+Goa,2002,computer_course,0
+Goa,2003,elementary_education,10
+Goa,2003,adult_education,0
+Goa,2003,higher_education,0
+Goa,2003,computer_course,0
+Goa,2004,elementary_education,10
+Goa,2004,adult_education,0
+Goa,2004,higher_education,0
+Goa,2004,computer_course,0
+Goa,2005,elementary_education,10
+Goa,2005,adult_education,7
+Goa,2005,higher_education,0
+Goa,2005,computer_course,0
+Goa,2006,elementary_education,55
+Goa,2006,adult_education,0
+Goa,2006,higher_education,7
+Goa,2006,computer_course,0
+Goa,2007,elementary_education,0
+Goa,2007,adult_education,0
+Goa,2007,higher_education,11
+Goa,2007,computer_course,0
+Goa,2008,elementary_education,0
+Goa,2008,adult_education,0
+Goa,2008,higher_education,12
+Goa,2008,computer_course,0
+Goa,2009,elementary_education,0
+Goa,2009,adult_education,0
+Goa,2009,higher_education,7
+Goa,2009,computer_course,28
+Goa,2010,elementary_education,0
+Goa,2010,adult_education,0
+Goa,2010,higher_education,4
+Goa,2010,computer_course,36
+Goa,2011,elementary_education,0
+Goa,2011,adult_education,0
+Goa,2011,higher_education,14
+Goa,2011,computer_course,48
+Goa,2012,elementary_education,0
+Goa,2012,adult_education,0
+Goa,2012,higher_education,6
+Goa,2012,computer_course,46
+Gujarat,2001,elementary_education,154
+Gujarat,2001,adult_education,504
+Gujarat,2001,higher_education,23
+Gujarat,2001,computer_course,58
+Gujarat,2002,elementary_education,695
+Gujarat,2002,adult_education,1100
+Gujarat,2002,higher_education,81
+Gujarat,2002,computer_course,44
+Gujarat,2003,elementary_education,146
+Gujarat,2003,adult_education,282
+Gujarat,2003,higher_education,60
+Gujarat,2003,computer_course,68
+Gujarat,2004,elementary_education,265
+Gujarat,2004,adult_education,558
+Gujarat,2004,higher_education,157
+Gujarat,2004,computer_course,181
+Gujarat,2005,elementary_education,255
+Gujarat,2005,adult_education,1069
+Gujarat,2005,higher_education,41
+Gujarat,2005,computer_course,104
+Gujarat,2006,elementary_education,109
+Gujarat,2006,adult_education,1162
+Gujarat,2006,higher_education,46
+Gujarat,2006,computer_course,933
+Gujarat,2007,elementary_education,2017
+Gujarat,2007,adult_education,280
+Gujarat,2007,higher_education,48
+Gujarat,2007,computer_course,86
+Gujarat,2008,elementary_education,0
+Gujarat,2008,adult_education,0
+Gujarat,2008,higher_education,7
+Gujarat,2008,computer_course,0
+Gujarat,2009,elementary_education,667
+Gujarat,2009,adult_education,642
+Gujarat,2009,higher_education,231
+Gujarat,2009,computer_course,650
+Gujarat,2010,elementary_education,2820
+Gujarat,2010,adult_education,966
+Gujarat,2010,higher_education,145
+Gujarat,2010,computer_course,712
+Gujarat,2011,elementary_education,2846
+Gujarat,2011,adult_education,3078
+Gujarat,2011,higher_education,1593
+Gujarat,2011,computer_course,576
+Gujarat,2012,elementary_education,2331
+Gujarat,2012,adult_education,2082
+Gujarat,2012,higher_education,1348
+Gujarat,2012,computer_course,665
+Haryana,2001,elementary_education,185
+Haryana,2001,adult_education,214
+Haryana,2001,higher_education,12
+Haryana,2001,computer_course,14
+Haryana,2002,elementary_education,90
+Haryana,2002,adult_education,155
+Haryana,2002,higher_education,5
+Haryana,2002,computer_course,21
+Haryana,2003,elementary_education,104
+Haryana,2003,adult_education,245
+Haryana,2003,higher_education,3
+Haryana,2003,computer_course,4
+Haryana,2004,elementary_education,24
+Haryana,2004,adult_education,215
+Haryana,2004,higher_education,3
+Haryana,2004,computer_course,0
+Haryana,2005,elementary_education,0
+Haryana,2005,adult_education,0
+Haryana,2005,higher_education,0
+Haryana,2005,computer_course,0
+Haryana,2006,elementary_education,107
+Haryana,2006,adult_education,473
+Haryana,2006,higher_education,4
+Haryana,2006,computer_course,0
+Haryana,2007,elementary_education,82
+Haryana,2007,adult_education,426
+Haryana,2007,higher_education,3
+Haryana,2007,computer_course,0
+Haryana,2008,elementary_education,509
+Haryana,2008,adult_education,396
+Haryana,2008,higher_education,5
+Haryana,2008,computer_course,0
+Haryana,2009,elementary_education,691
+Haryana,2009,adult_education,723
+Haryana,2009,higher_education,159
+Haryana,2009,computer_course,0
+Haryana,2010,elementary_education,557
+Haryana,2010,adult_education,466
+Haryana,2010,higher_education,279
+Haryana,2010,computer_course,0
+Haryana,2011,elementary_education,601
+Haryana,2011,adult_education,768
+Haryana,2011,higher_education,426
+Haryana,2011,computer_course,120
+Haryana,2012,elementary_education,1833
+Haryana,2012,adult_education,605
+Haryana,2012,higher_education,655
+Haryana,2012,computer_course,103
+Himachal Pradesh,2001,elementary_education,0
+Himachal Pradesh,2001,adult_education,0
+Himachal Pradesh,2001,higher_education,0
+Himachal Pradesh,2001,computer_course,0
+Himachal Pradesh,2002,elementary_education,4
+Himachal Pradesh,2002,adult_education,5
+Himachal Pradesh,2002,higher_education,5
+Himachal Pradesh,2002,computer_course,1
+Himachal Pradesh,2003,elementary_education,0
+Himachal Pradesh,2003,adult_education,0
+Himachal Pradesh,2003,higher_education,0
+Himachal Pradesh,2003,computer_course,0
+Himachal Pradesh,2004,elementary_education,0
+Himachal Pradesh,2004,adult_education,0
+Himachal Pradesh,2004,higher_education,0
+Himachal Pradesh,2004,computer_course,0
+Himachal Pradesh,2005,elementary_education,0
+Himachal Pradesh,2005,adult_education,0
+Himachal Pradesh,2005,higher_education,0
+Himachal Pradesh,2005,computer_course,0
+Himachal Pradesh,2006,elementary_education,0
+Himachal Pradesh,2006,adult_education,0
+Himachal Pradesh,2006,higher_education,0
+Himachal Pradesh,2006,computer_course,0
+Himachal Pradesh,2007,elementary_education,18
+Himachal Pradesh,2007,adult_education,4
+Himachal Pradesh,2007,higher_education,2
+Himachal Pradesh,2007,computer_course,0
+Himachal Pradesh,2008,elementary_education,0
+Himachal Pradesh,2008,adult_education,0
+Himachal Pradesh,2008,higher_education,0
+Himachal Pradesh,2008,computer_course,0
+Himachal Pradesh,2009,elementary_education,0
+Himachal Pradesh,2009,adult_education,0
+Himachal Pradesh,2009,higher_education,0
+Himachal Pradesh,2009,computer_course,0
+Himachal Pradesh,2010,elementary_education,12
+Himachal Pradesh,2010,adult_education,2
+Himachal Pradesh,2010,higher_education,0
+Himachal Pradesh,2010,computer_course,0
+Himachal Pradesh,2011,elementary_education,0
+Himachal Pradesh,2011,adult_education,22
+Himachal Pradesh,2011,higher_education,7
+Himachal Pradesh,2011,computer_course,0
+Himachal Pradesh,2012,elementary_education,37
+Himachal Pradesh,2012,adult_education,42
+Himachal Pradesh,2012,higher_education,22
+Himachal Pradesh,2012,computer_course,0
+Jammu & Kashmir,2001,elementary_education,47
+Jammu & Kashmir,2001,adult_education,274
+Jammu & Kashmir,2001,higher_education,14
+Jammu & Kashmir,2001,computer_course,48
+Jammu & Kashmir,2002,elementary_education,82
+Jammu & Kashmir,2002,adult_education,223
+Jammu & Kashmir,2002,higher_education,15
+Jammu & Kashmir,2002,computer_course,37
+Jammu & Kashmir,2003,elementary_education,428
+Jammu & Kashmir,2003,adult_education,79
+Jammu & Kashmir,2003,higher_education,72
+Jammu & Kashmir,2003,computer_course,62
+Jammu & Kashmir,2004,elementary_education,556
+Jammu & Kashmir,2004,adult_education,90
+Jammu & Kashmir,2004,higher_education,23
+Jammu & Kashmir,2004,computer_course,14
+Jammu & Kashmir,2005,elementary_education,73
+Jammu & Kashmir,2005,adult_education,319
+Jammu & Kashmir,2005,higher_education,41
+Jammu & Kashmir,2005,computer_course,24
+Jammu & Kashmir,2006,elementary_education,240
+Jammu & Kashmir,2006,adult_education,231
+Jammu & Kashmir,2006,higher_education,30
+Jammu & Kashmir,2006,computer_course,24
+Jammu & Kashmir,2007,elementary_education,333
+Jammu & Kashmir,2007,adult_education,132
+Jammu & Kashmir,2007,higher_education,43
+Jammu & Kashmir,2007,computer_course,25
+Jammu & Kashmir,2008,elementary_education,232
+Jammu & Kashmir,2008,adult_education,117
+Jammu & Kashmir,2008,higher_education,54
+Jammu & Kashmir,2008,computer_course,18
+Jammu & Kashmir,2009,elementary_education,200
+Jammu & Kashmir,2009,adult_education,87
+Jammu & Kashmir,2009,higher_education,30
+Jammu & Kashmir,2009,computer_course,85
+Jammu & Kashmir,2010,elementary_education,602
+Jammu & Kashmir,2010,adult_education,153
+Jammu & Kashmir,2010,higher_education,63
+Jammu & Kashmir,2010,computer_course,97
+Jammu & Kashmir,2011,elementary_education,618
+Jammu & Kashmir,2011,adult_education,178
+Jammu & Kashmir,2011,higher_education,59
+Jammu & Kashmir,2011,computer_course,87
+Jammu & Kashmir,2012,elementary_education,684
+Jammu & Kashmir,2012,adult_education,182
+Jammu & Kashmir,2012,higher_education,61
+Jammu & Kashmir,2012,computer_course,60
+Jharkhand,2001,elementary_education,260
+Jharkhand,2001,adult_education,518
+Jharkhand,2001,higher_education,0
+Jharkhand,2001,computer_course,0
+Jharkhand,2002,elementary_education,53
+Jharkhand,2002,adult_education,614
+Jharkhand,2002,higher_education,35
+Jharkhand,2002,computer_course,24
+Jharkhand,2003,elementary_education,551
+Jharkhand,2003,adult_education,3035
+Jharkhand,2003,higher_education,52
+Jharkhand,2003,computer_course,45
+Jharkhand,2004,elementary_education,726
+Jharkhand,2004,adult_education,2325
+Jharkhand,2004,higher_education,67
+Jharkhand,2004,computer_course,52
+Jharkhand,2005,elementary_education,805
+Jharkhand,2005,adult_education,2014
+Jharkhand,2005,higher_education,62
+Jharkhand,2005,computer_course,30
+Jharkhand,2006,elementary_education,1050
+Jharkhand,2006,adult_education,3232
+Jharkhand,2006,higher_education,163
+Jharkhand,2006,computer_course,48
+Jharkhand,2007,elementary_education,1273
+Jharkhand,2007,adult_education,3215
+Jharkhand,2007,higher_education,55
+Jharkhand,2007,computer_course,1
+Jharkhand,2008,elementary_education,2896
+Jharkhand,2008,adult_education,3394
+Jharkhand,2008,higher_education,197
+Jharkhand,2008,computer_course,96
+Jharkhand,2009,elementary_education,3172
+Jharkhand,2009,adult_education,3296
+Jharkhand,2009,higher_education,159
+Jharkhand,2009,computer_course,1062
+Jharkhand,2010,elementary_education,3338
+Jharkhand,2010,adult_education,2742
+Jharkhand,2010,higher_education,245
+Jharkhand,2010,computer_course,1206
+Jharkhand,2011,elementary_education,2230
+Jharkhand,2011,adult_education,3163
+Jharkhand,2011,higher_education,171
+Jharkhand,2011,computer_course,601
+Jharkhand,2012,elementary_education,2924
+Jharkhand,2012,adult_education,2540
+Jharkhand,2012,higher_education,55
+Jharkhand,2012,computer_course,734
+Karnataka,2001,elementary_education,271
+Karnataka,2001,adult_education,116
+Karnataka,2001,higher_education,3
+Karnataka,2001,computer_course,0
+Karnataka,2002,elementary_education,76
+Karnataka,2002,adult_education,371
+Karnataka,2002,higher_education,5
+Karnataka,2002,computer_course,57
+Karnataka,2003,elementary_education,312
+Karnataka,2003,adult_education,369
+Karnataka,2003,higher_education,11
+Karnataka,2003,computer_course,22
+Karnataka,2004,elementary_education,327
+Karnataka,2004,adult_education,422
+Karnataka,2004,higher_education,8
+Karnataka,2004,computer_course,6
+Karnataka,2005,elementary_education,381
+Karnataka,2005,adult_education,494
+Karnataka,2005,higher_education,17
+Karnataka,2005,computer_course,3
+Karnataka,2006,elementary_education,473
+Karnataka,2006,adult_education,612
+Karnataka,2006,higher_education,16
+Karnataka,2006,computer_course,7
+Karnataka,2007,elementary_education,633
+Karnataka,2007,adult_education,798
+Karnataka,2007,higher_education,43
+Karnataka,2007,computer_course,11
+Karnataka,2008,elementary_education,719
+Karnataka,2008,adult_education,855
+Karnataka,2008,higher_education,47
+Karnataka,2008,computer_course,10
+Karnataka,2009,elementary_education,736
+Karnataka,2009,adult_education,628
+Karnataka,2009,higher_education,46
+Karnataka,2009,computer_course,12
+Karnataka,2010,elementary_education,911
+Karnataka,2010,adult_education,785
+Karnataka,2010,higher_education,85
+Karnataka,2010,computer_course,12
+Karnataka,2011,elementary_education,1027
+Karnataka,2011,adult_education,847
+Karnataka,2011,higher_education,130
+Karnataka,2011,computer_course,8
+Karnataka,2012,elementary_education,1746
+Karnataka,2012,adult_education,1032
+Karnataka,2012,higher_education,147
+Karnataka,2012,computer_course,32
+Kerala,2001,elementary_education,16
+Kerala,2001,adult_education,197
+Kerala,2001,higher_education,2
+Kerala,2001,computer_course,10
+Kerala,2002,elementary_education,12
+Kerala,2002,adult_education,168
+Kerala,2002,higher_education,1
+Kerala,2002,computer_course,12
+Kerala,2003,elementary_education,138
+Kerala,2003,adult_education,35
+Kerala,2003,higher_education,6
+Kerala,2003,computer_course,0
+Kerala,2004,elementary_education,158
+Kerala,2004,adult_education,35
+Kerala,2004,higher_education,6
+Kerala,2004,computer_course,0
+Kerala,2005,elementary_education,0
+Kerala,2005,adult_education,0
+Kerala,2005,higher_education,0
+Kerala,2005,computer_course,0
+Kerala,2006,elementary_education,25
+Kerala,2006,adult_education,11
+Kerala,2006,higher_education,13
+Kerala,2006,computer_course,25
+Kerala,2007,elementary_education,30
+Kerala,2007,adult_education,15
+Kerala,2007,higher_education,10
+Kerala,2007,computer_course,100
+Kerala,2008,elementary_education,60
+Kerala,2008,adult_education,100
+Kerala,2008,higher_education,10
+Kerala,2008,computer_course,700
+Kerala,2009,elementary_education,60
+Kerala,2009,adult_education,100
+Kerala,2009,higher_education,10
+Kerala,2009,computer_course,700
+Kerala,2010,elementary_education,100
+Kerala,2010,adult_education,125
+Kerala,2010,higher_education,25
+Kerala,2010,computer_course,850
+Kerala,2011,elementary_education,75
+Kerala,2011,adult_education,118
+Kerala,2011,higher_education,18
+Kerala,2011,computer_course,750
+Kerala,2012,elementary_education,104
+Kerala,2012,adult_education,85
+Kerala,2012,higher_education,16
+Kerala,2012,computer_course,350
+Madhya Pradesh,2001,elementary_education,2648
+Madhya Pradesh,2001,adult_education,1111
+Madhya Pradesh,2001,higher_education,656
+Madhya Pradesh,2001,computer_course,86
+Madhya Pradesh,2002,elementary_education,2896
+Madhya Pradesh,2002,adult_education,2078
+Madhya Pradesh,2002,higher_education,110
+Madhya Pradesh,2002,computer_course,76
+Madhya Pradesh,2003,elementary_education,3254
+Madhya Pradesh,2003,adult_education,2964
+Madhya Pradesh,2003,higher_education,114
+Madhya Pradesh,2003,computer_course,71
+Madhya Pradesh,2004,elementary_education,1694
+Madhya Pradesh,2004,adult_education,5002
+Madhya Pradesh,2004,higher_education,115
+Madhya Pradesh,2004,computer_course,51
+Madhya Pradesh,2005,elementary_education,6100
+Madhya Pradesh,2005,adult_education,2447
+Madhya Pradesh,2005,higher_education,160
+Madhya Pradesh,2005,computer_course,103
+Madhya Pradesh,2006,elementary_education,6231
+Madhya Pradesh,2006,adult_education,4894
+Madhya Pradesh,2006,higher_education,107
+Madhya Pradesh,2006,computer_course,205
+Madhya Pradesh,2007,elementary_education,3115
+Madhya Pradesh,2007,adult_education,7029
+Madhya Pradesh,2007,higher_education,131
+Madhya Pradesh,2007,computer_course,447
+Madhya Pradesh,2008,elementary_education,2712
+Madhya Pradesh,2008,adult_education,5556
+Madhya Pradesh,2008,higher_education,91
+Madhya Pradesh,2008,computer_course,50
+Madhya Pradesh,2009,elementary_education,2938
+Madhya Pradesh,2009,adult_education,4666
+Madhya Pradesh,2009,higher_education,366
+Madhya Pradesh,2009,computer_course,35
+Madhya Pradesh,2010,elementary_education,3084
+Madhya Pradesh,2010,adult_education,6189
+Madhya Pradesh,2010,higher_education,314
+Madhya Pradesh,2010,computer_course,122
+Madhya Pradesh,2011,elementary_education,2375
+Madhya Pradesh,2011,adult_education,5186
+Madhya Pradesh,2011,higher_education,435
+Madhya Pradesh,2011,computer_course,124
+Madhya Pradesh,2012,elementary_education,1252
+Madhya Pradesh,2012,adult_education,9643
+Madhya Pradesh,2012,higher_education,121
+Madhya Pradesh,2012,computer_course,108
+Maharashtra,2001,elementary_education,563
+Maharashtra,2001,adult_education,2850
+Maharashtra,2001,higher_education,90
+Maharashtra,2001,computer_course,32
+Maharashtra,2002,elementary_education,551
+Maharashtra,2002,adult_education,2162
+Maharashtra,2002,higher_education,62
+Maharashtra,2002,computer_course,39
+Maharashtra,2003,elementary_education,1129
+Maharashtra,2003,adult_education,1871
+Maharashtra,2003,higher_education,98
+Maharashtra,2003,computer_course,89
+Maharashtra,2004,elementary_education,714
+Maharashtra,2004,adult_education,1869
+Maharashtra,2004,higher_education,144
+Maharashtra,2004,computer_course,218
+Maharashtra,2005,elementary_education,654
+Maharashtra,2005,adult_education,1547
+Maharashtra,2005,higher_education,219
+Maharashtra,2005,computer_course,363
+Maharashtra,2006,elementary_education,539
+Maharashtra,2006,adult_education,5520
+Maharashtra,2006,higher_education,348
+Maharashtra,2006,computer_course,483
+Maharashtra,2007,elementary_education,396
+Maharashtra,2007,adult_education,2722
+Maharashtra,2007,higher_education,518
+Maharashtra,2007,computer_course,1480
+Maharashtra,2008,elementary_education,353
+Maharashtra,2008,adult_education,1970
+Maharashtra,2008,higher_education,577
+Maharashtra,2008,computer_course,867
+Maharashtra,2009,elementary_education,425
+Maharashtra,2009,adult_education,1916
+Maharashtra,2009,higher_education,615
+Maharashtra,2009,computer_course,892
+Maharashtra,2010,elementary_education,147
+Maharashtra,2010,adult_education,3160
+Maharashtra,2010,higher_education,548
+Maharashtra,2010,computer_course,596
+Maharashtra,2011,elementary_education,144
+Maharashtra,2011,adult_education,3455
+Maharashtra,2011,higher_education,747
+Maharashtra,2011,computer_course,823
+Maharashtra,2012,elementary_education,383
+Maharashtra,2012,adult_education,3711
+Maharashtra,2012,higher_education,693
+Maharashtra,2012,computer_course,586
+Manipur,2001,elementary_education,0
+Manipur,2001,adult_education,106
+Manipur,2001,higher_education,0
+Manipur,2001,computer_course,0
+Manipur,2002,elementary_education,12
+Manipur,2002,adult_education,6
+Manipur,2002,higher_education,0
+Manipur,2002,computer_course,0
+Manipur,2003,elementary_education,0
+Manipur,2003,adult_education,0
+Manipur,2003,higher_education,0
+Manipur,2003,computer_course,0
+Manipur,2004,elementary_education,0
+Manipur,2004,adult_education,0
+Manipur,2004,higher_education,0
+Manipur,2004,computer_course,0
+Manipur,2005,elementary_education,0
+Manipur,2005,adult_education,0
+Manipur,2005,higher_education,0
+Manipur,2005,computer_course,0
+Manipur,2006,elementary_education,0
+Manipur,2006,adult_education,0
+Manipur,2006,higher_education,0
+Manipur,2006,computer_course,0
+Manipur,2007,elementary_education,5
+Manipur,2007,adult_education,6
+Manipur,2007,higher_education,6
+Manipur,2007,computer_course,0
+Manipur,2008,elementary_education,5
+Manipur,2008,adult_education,6
+Manipur,2008,higher_education,6
+Manipur,2008,computer_course,0
+Manipur,2009,elementary_education,4
+Manipur,2009,adult_education,0
+Manipur,2009,higher_education,0
+Manipur,2009,computer_course,0
+Manipur,2010,elementary_education,3
+Manipur,2010,adult_education,0
+Manipur,2010,higher_education,0
+Manipur,2010,computer_course,0
+Manipur,2011,elementary_education,3
+Manipur,2011,adult_education,2
+Manipur,2011,higher_education,0
+Manipur,2011,computer_course,0
+Manipur,2012,elementary_education,1
+Manipur,2012,adult_education,4
+Manipur,2012,higher_education,0
+Manipur,2012,computer_course,0
+Meghalaya,2001,elementary_education,0
+Meghalaya,2001,adult_education,0
+Meghalaya,2001,higher_education,0
+Meghalaya,2001,computer_course,0
+Meghalaya,2002,elementary_education,0
+Meghalaya,2002,adult_education,0
+Meghalaya,2002,higher_education,0
+Meghalaya,2002,computer_course,0
+Meghalaya,2003,elementary_education,0
+Meghalaya,2003,adult_education,0
+Meghalaya,2003,higher_education,0
+Meghalaya,2003,computer_course,0
+Meghalaya,2004,elementary_education,0
+Meghalaya,2004,adult_education,0
+Meghalaya,2004,higher_education,0
+Meghalaya,2004,computer_course,0
+Meghalaya,2005,elementary_education,12
+Meghalaya,2005,adult_education,28
+Meghalaya,2005,higher_education,0
+Meghalaya,2005,computer_course,0
+Meghalaya,2006,elementary_education,12
+Meghalaya,2006,adult_education,30
+Meghalaya,2006,higher_education,0
+Meghalaya,2006,computer_course,0
+Meghalaya,2007,elementary_education,0
+Meghalaya,2007,adult_education,15
+Meghalaya,2007,higher_education,0
+Meghalaya,2007,computer_course,0
+Meghalaya,2008,elementary_education,0
+Meghalaya,2008,adult_education,20
+Meghalaya,2008,higher_education,0
+Meghalaya,2008,computer_course,0
+Meghalaya,2009,elementary_education,0
+Meghalaya,2009,adult_education,0
+Meghalaya,2009,higher_education,0
+Meghalaya,2009,computer_course,0
+Meghalaya,2010,elementary_education,0
+Meghalaya,2010,adult_education,0
+Meghalaya,2010,higher_education,0
+Meghalaya,2010,computer_course,0
+Meghalaya,2011,elementary_education,0
+Meghalaya,2011,adult_education,15
+Meghalaya,2011,higher_education,0
+Meghalaya,2011,computer_course,0
+Meghalaya,2012,elementary_education,0
+Meghalaya,2012,adult_education,38
+Meghalaya,2012,higher_education,0
+Meghalaya,2012,computer_course,0
+Mizoram,2001,elementary_education,0
+Mizoram,2001,adult_education,131
+Mizoram,2001,higher_education,0
+Mizoram,2001,computer_course,0
+Mizoram,2002,elementary_education,0
+Mizoram,2002,adult_education,135
+Mizoram,2002,higher_education,0
+Mizoram,2002,computer_course,0
+Mizoram,2003,elementary_education,0
+Mizoram,2003,adult_education,53
+Mizoram,2003,higher_education,0
+Mizoram,2003,computer_course,0
+Mizoram,2004,elementary_education,0
+Mizoram,2004,adult_education,24
+Mizoram,2004,higher_education,0
+Mizoram,2004,computer_course,0
+Mizoram,2005,elementary_education,0
+Mizoram,2005,adult_education,109
+Mizoram,2005,higher_education,0
+Mizoram,2005,computer_course,0
+Mizoram,2006,elementary_education,0
+Mizoram,2006,adult_education,35
+Mizoram,2006,higher_education,0
+Mizoram,2006,computer_course,0
+Mizoram,2007,elementary_education,0
+Mizoram,2007,adult_education,30
+Mizoram,2007,higher_education,0
+Mizoram,2007,computer_course,0
+Mizoram,2008,elementary_education,5
+Mizoram,2008,adult_education,6
+Mizoram,2008,higher_education,6
+Mizoram,2008,computer_course,0
+Mizoram,2009,elementary_education,4
+Mizoram,2009,adult_education,0
+Mizoram,2009,higher_education,0
+Mizoram,2009,computer_course,0
+Mizoram,2010,elementary_education,0
+Mizoram,2010,adult_education,65
+Mizoram,2010,higher_education,0
+Mizoram,2010,computer_course,0
+Mizoram,2011,elementary_education,0
+Mizoram,2011,adult_education,40
+Mizoram,2011,higher_education,4
+Mizoram,2011,computer_course,0
+Mizoram,2012,elementary_education,0
+Mizoram,2012,adult_education,20
+Mizoram,2012,higher_education,0
+Mizoram,2012,computer_course,0
+Nagaland,2001,elementary_education,0
+Nagaland,2001,adult_education,0
+Nagaland,2001,higher_education,0
+Nagaland,2001,computer_course,0
+Nagaland,2002,elementary_education,0
+Nagaland,2002,adult_education,0
+Nagaland,2002,higher_education,0
+Nagaland,2002,computer_course,0
+Nagaland,2003,elementary_education,0
+Nagaland,2003,adult_education,0
+Nagaland,2003,higher_education,0
+Nagaland,2003,computer_course,0
+Nagaland,2004,elementary_education,0
+Nagaland,2004,adult_education,0
+Nagaland,2004,higher_education,0
+Nagaland,2004,computer_course,0
+Nagaland,2005,elementary_education,0
+Nagaland,2005,adult_education,0
+Nagaland,2005,higher_education,0
+Nagaland,2005,computer_course,0
+Nagaland,2006,elementary_education,0
+Nagaland,2006,adult_education,0
+Nagaland,2006,higher_education,0
+Nagaland,2006,computer_course,0
+Nagaland,2007,elementary_education,0
+Nagaland,2007,adult_education,0
+Nagaland,2007,higher_education,0
+Nagaland,2007,computer_course,0
+Nagaland,2008,elementary_education,0
+Nagaland,2008,adult_education,0
+Nagaland,2008,higher_education,0
+Nagaland,2008,computer_course,0
+Nagaland,2009,elementary_education,0
+Nagaland,2009,adult_education,0
+Nagaland,2009,higher_education,0
+Nagaland,2009,computer_course,0
+Nagaland,2010,elementary_education,0
+Nagaland,2010,adult_education,0
+Nagaland,2010,higher_education,0
+Nagaland,2010,computer_course,0
+Nagaland,2011,elementary_education,0
+Nagaland,2011,adult_education,0
+Nagaland,2011,higher_education,0
+Nagaland,2011,computer_course,0
+Nagaland,2012,elementary_education,0
+Nagaland,2012,adult_education,0
+Nagaland,2012,higher_education,0
+Nagaland,2012,computer_course,0
+Orissa,2001,elementary_education,653
+Orissa,2001,adult_education,869
+Orissa,2001,higher_education,1
+Orissa,2001,computer_course,0
+Orissa,2002,elementary_education,828
+Orissa,2002,adult_education,239
+Orissa,2002,higher_education,0
+Orissa,2002,computer_course,25
+Orissa,2003,elementary_education,734
+Orissa,2003,adult_education,281
+Orissa,2003,higher_education,2
+Orissa,2003,computer_course,32
+Orissa,2004,elementary_education,255
+Orissa,2004,adult_education,916
+Orissa,2004,higher_education,10
+Orissa,2004,computer_course,37
+Orissa,2005,elementary_education,807
+Orissa,2005,adult_education,1323
+Orissa,2005,higher_education,0
+Orissa,2005,computer_course,22
+Orissa,2006,elementary_education,283
+Orissa,2006,adult_education,1026
+Orissa,2006,higher_education,17
+Orissa,2006,computer_course,25
+Orissa,2007,elementary_education,394
+Orissa,2007,adult_education,648
+Orissa,2007,higher_education,2
+Orissa,2007,computer_course,0
+Orissa,2008,elementary_education,125
+Orissa,2008,adult_education,1256
+Orissa,2008,higher_education,70
+Orissa,2008,computer_course,36
+Orissa,2009,elementary_education,600
+Orissa,2009,adult_education,470
+Orissa,2009,higher_education,46
+Orissa,2009,computer_course,10
+Orissa,2010,elementary_education,727
+Orissa,2010,adult_education,742
+Orissa,2010,higher_education,118
+Orissa,2010,computer_course,90
+Orissa,2011,elementary_education,730
+Orissa,2011,adult_education,750
+Orissa,2011,higher_education,130
+Orissa,2011,computer_course,112
+Orissa,2012,elementary_education,830
+Orissa,2012,adult_education,570
+Orissa,2012,higher_education,118
+Orissa,2012,computer_course,90
+Punjab,2001,elementary_education,83
+Punjab,2001,adult_education,368
+Punjab,2001,higher_education,88
+Punjab,2001,computer_course,0
+Punjab,2002,elementary_education,88
+Punjab,2002,adult_education,310
+Punjab,2002,higher_education,98
+Punjab,2002,computer_course,0
+Punjab,2003,elementary_education,85
+Punjab,2003,adult_education,308
+Punjab,2003,higher_education,94
+Punjab,2003,computer_course,0
+Punjab,2004,elementary_education,7
+Punjab,2004,adult_education,168
+Punjab,2004,higher_education,2
+Punjab,2004,computer_course,0
+Punjab,2005,elementary_education,7
+Punjab,2005,adult_education,168
+Punjab,2005,higher_education,1
+Punjab,2005,computer_course,0
+Punjab,2006,elementary_education,276
+Punjab,2006,adult_education,176
+Punjab,2006,higher_education,1
+Punjab,2006,computer_course,0
+Punjab,2007,elementary_education,291
+Punjab,2007,adult_education,183
+Punjab,2007,higher_education,2
+Punjab,2007,computer_course,0
+Punjab,2008,elementary_education,381
+Punjab,2008,adult_education,524
+Punjab,2008,higher_education,36
+Punjab,2008,computer_course,145
+Punjab,2009,elementary_education,342
+Punjab,2009,adult_education,497
+Punjab,2009,higher_education,33
+Punjab,2009,computer_course,84
+Punjab,2010,elementary_education,365
+Punjab,2010,adult_education,502
+Punjab,2010,higher_education,29
+Punjab,2010,computer_course,92
+Punjab,2011,elementary_education,378
+Punjab,2011,adult_education,514
+Punjab,2011,higher_education,32
+Punjab,2011,computer_course,96
+Punjab,2012,elementary_education,430
+Punjab,2012,adult_education,602
+Punjab,2012,higher_education,90
+Punjab,2012,computer_course,142
+Rajasthan,2001,elementary_education,3168
+Rajasthan,2001,adult_education,679
+Rajasthan,2001,higher_education,345
+Rajasthan,2001,computer_course,84
+Rajasthan,2002,elementary_education,875
+Rajasthan,2002,adult_education,848
+Rajasthan,2002,higher_education,45
+Rajasthan,2002,computer_course,63
+Rajasthan,2003,elementary_education,979
+Rajasthan,2003,adult_education,768
+Rajasthan,2003,higher_education,96
+Rajasthan,2003,computer_course,96
+Rajasthan,2004,elementary_education,223
+Rajasthan,2004,adult_education,821
+Rajasthan,2004,higher_education,113
+Rajasthan,2004,computer_course,54
+Rajasthan,2005,elementary_education,389
+Rajasthan,2005,adult_education,834
+Rajasthan,2005,higher_education,182
+Rajasthan,2005,computer_course,34
+Rajasthan,2006,elementary_education,284
+Rajasthan,2006,adult_education,777
+Rajasthan,2006,higher_education,117
+Rajasthan,2006,computer_course,42
+Rajasthan,2007,elementary_education,308
+Rajasthan,2007,adult_education,437
+Rajasthan,2007,higher_education,45
+Rajasthan,2007,computer_course,36
+Rajasthan,2008,elementary_education,439
+Rajasthan,2008,adult_education,521
+Rajasthan,2008,higher_education,57
+Rajasthan,2008,computer_course,37
+Rajasthan,2009,elementary_education,220
+Rajasthan,2009,adult_education,724
+Rajasthan,2009,higher_education,19
+Rajasthan,2009,computer_course,60
+Rajasthan,2010,elementary_education,528
+Rajasthan,2010,adult_education,729
+Rajasthan,2010,higher_education,20
+Rajasthan,2010,computer_course,95
+Rajasthan,2011,elementary_education,999
+Rajasthan,2011,adult_education,418
+Rajasthan,2011,higher_education,15
+Rajasthan,2011,computer_course,89
+Rajasthan,2012,elementary_education,950
+Rajasthan,2012,adult_education,420
+Rajasthan,2012,higher_education,18
+Rajasthan,2012,computer_course,95
+Sikkim,2001,elementary_education,0
+Sikkim,2001,adult_education,0
+Sikkim,2001,higher_education,11
+Sikkim,2001,computer_course,0
+Sikkim,2002,elementary_education,0
+Sikkim,2002,adult_education,0
+Sikkim,2002,higher_education,8
+Sikkim,2002,computer_course,0
+Sikkim,2003,elementary_education,0
+Sikkim,2003,adult_education,0
+Sikkim,2003,higher_education,0
+Sikkim,2003,computer_course,0
+Sikkim,2004,elementary_education,1
+Sikkim,2004,adult_education,0
+Sikkim,2004,higher_education,0
+Sikkim,2004,computer_course,0
+Sikkim,2005,elementary_education,0
+Sikkim,2005,adult_education,0
+Sikkim,2005,higher_education,0
+Sikkim,2005,computer_course,0
+Sikkim,2006,elementary_education,0
+Sikkim,2006,adult_education,0
+Sikkim,2006,higher_education,0
+Sikkim,2006,computer_course,0
+Sikkim,2007,elementary_education,33
+Sikkim,2007,adult_education,15
+Sikkim,2007,higher_education,2
+Sikkim,2007,computer_course,12
+Sikkim,2008,elementary_education,53
+Sikkim,2008,adult_education,12
+Sikkim,2008,higher_education,2
+Sikkim,2008,computer_course,7
+Sikkim,2009,elementary_education,69
+Sikkim,2009,adult_education,15
+Sikkim,2009,higher_education,3
+Sikkim,2009,computer_course,5
+Sikkim,2010,elementary_education,47
+Sikkim,2010,adult_education,13
+Sikkim,2010,higher_education,2
+Sikkim,2010,computer_course,8
+Sikkim,2011,elementary_education,0
+Sikkim,2011,adult_education,0
+Sikkim,2011,higher_education,0
+Sikkim,2011,computer_course,0
+Sikkim,2012,elementary_education,0
+Sikkim,2012,adult_education,0
+Sikkim,2012,higher_education,0
+Sikkim,2012,computer_course,0
+Tamilnadu,2001,elementary_education,6653
+Tamilnadu,2001,adult_education,7462
+Tamilnadu,2001,higher_education,165
+Tamilnadu,2001,computer_course,145
+Tamilnadu,2002,elementary_education,5602
+Tamilnadu,2002,adult_education,5125
+Tamilnadu,2002,higher_education,191
+Tamilnadu,2002,computer_course,10
+Tamilnadu,2003,elementary_education,5702
+Tamilnadu,2003,adult_education,5215
+Tamilnadu,2003,higher_education,198
+Tamilnadu,2003,computer_course,15
+Tamilnadu,2004,elementary_education,2322
+Tamilnadu,2004,adult_education,2150
+Tamilnadu,2004,higher_education,172
+Tamilnadu,2004,computer_course,149
+Tamilnadu,2005,elementary_education,4844
+Tamilnadu,2005,adult_education,4500
+Tamilnadu,2005,higher_education,185
+Tamilnadu,2005,computer_course,509
+Tamilnadu,2006,elementary_education,4752
+Tamilnadu,2006,adult_education,4600
+Tamilnadu,2006,higher_education,195
+Tamilnadu,2006,computer_course,510
+Tamilnadu,2007,elementary_education,414
+Tamilnadu,2007,adult_education,3120
+Tamilnadu,2007,higher_education,288
+Tamilnadu,2007,computer_course,280
+Tamilnadu,2008,elementary_education,5988
+Tamilnadu,2008,adult_education,6460
+Tamilnadu,2008,higher_education,282
+Tamilnadu,2008,computer_course,337
+Tamilnadu,2009,elementary_education,1000
+Tamilnadu,2009,adult_education,10266
+Tamilnadu,2009,higher_education,370
+Tamilnadu,2009,computer_course,146
+Tamilnadu,2010,elementary_education,1553
+Tamilnadu,2010,adult_education,11041
+Tamilnadu,2010,higher_education,412
+Tamilnadu,2010,computer_course,339
+Tamilnadu,2011,elementary_education,1604
+Tamilnadu,2011,adult_education,12690
+Tamilnadu,2011,higher_education,611
+Tamilnadu,2011,computer_course,426
+Tamilnadu,2012,elementary_education,2738
+Tamilnadu,2012,adult_education,357
+Tamilnadu,2012,higher_education,191
+Tamilnadu,2012,computer_course,509
+Tripura,2001,elementary_education,295
+Tripura,2001,adult_education,732
+Tripura,2001,higher_education,0
+Tripura,2001,computer_course,24
+Tripura,2002,elementary_education,0
+Tripura,2002,adult_education,750
+Tripura,2002,higher_education,0
+Tripura,2002,computer_course,25
+Tripura,2003,elementary_education,0
+Tripura,2003,adult_education,738
+Tripura,2003,higher_education,0
+Tripura,2003,computer_course,10
+Tripura,2004,elementary_education,128
+Tripura,2004,adult_education,38
+Tripura,2004,higher_education,0
+Tripura,2004,computer_course,10
+Tripura,2005,elementary_education,27
+Tripura,2005,adult_education,233
+Tripura,2005,higher_education,1
+Tripura,2005,computer_course,25
+Tripura,2006,elementary_education,105
+Tripura,2006,adult_education,99
+Tripura,2006,higher_education,3
+Tripura,2006,computer_course,62
+Tripura,2007,elementary_education,21
+Tripura,2007,adult_education,43
+Tripura,2007,higher_education,2
+Tripura,2007,computer_course,15
+Tripura,2008,elementary_education,114
+Tripura,2008,adult_education,115
+Tripura,2008,higher_education,1
+Tripura,2008,computer_course,12
+Tripura,2009,elementary_education,88
+Tripura,2009,adult_education,96
+Tripura,2009,higher_education,3
+Tripura,2009,computer_course,13
+Tripura,2010,elementary_education,84
+Tripura,2010,adult_education,98
+Tripura,2010,higher_education,3
+Tripura,2010,computer_course,10
+Tripura,2011,elementary_education,85
+Tripura,2011,adult_education,78
+Tripura,2011,higher_education,4
+Tripura,2011,computer_course,8
+Tripura,2012,elementary_education,73
+Tripura,2012,adult_education,69
+Tripura,2012,higher_education,3
+Tripura,2012,computer_course,0
+Uttar Pradesh,2001,elementary_education,7576
+Uttar Pradesh,2001,adult_education,16967
+Uttar Pradesh,2001,higher_education,4
+Uttar Pradesh,2001,computer_course,115
+Uttar Pradesh,2002,elementary_education,4552
+Uttar Pradesh,2002,adult_education,15970
+Uttar Pradesh,2002,higher_education,58
+Uttar Pradesh,2002,computer_course,15
+Uttar Pradesh,2003,elementary_education,6428
+Uttar Pradesh,2003,adult_education,14292
+Uttar Pradesh,2003,higher_education,140
+Uttar Pradesh,2003,computer_course,175
+Uttar Pradesh,2004,elementary_education,2183
+Uttar Pradesh,2004,adult_education,2665
+Uttar Pradesh,2004,higher_education,0
+Uttar Pradesh,2004,computer_course,5
+Uttar Pradesh,2005,elementary_education,7539
+Uttar Pradesh,2005,adult_education,7742
+Uttar Pradesh,2005,higher_education,4
+Uttar Pradesh,2005,computer_course,125
+Uttar Pradesh,2006,elementary_education,6108
+Uttar Pradesh,2006,adult_education,8350
+Uttar Pradesh,2006,higher_education,0
+Uttar Pradesh,2006,computer_course,130
+Uttar Pradesh,2007,elementary_education,9254
+Uttar Pradesh,2007,adult_education,10008
+Uttar Pradesh,2007,higher_education,0
+Uttar Pradesh,2007,computer_course,78
+Uttar Pradesh,2008,elementary_education,9961
+Uttar Pradesh,2008,adult_education,9309
+Uttar Pradesh,2008,higher_education,5
+Uttar Pradesh,2008,computer_course,69
+Uttar Pradesh,2009,elementary_education,7666
+Uttar Pradesh,2009,adult_education,8077
+Uttar Pradesh,2009,higher_education,180
+Uttar Pradesh,2009,computer_course,505
+Uttar Pradesh,2010,elementary_education,7562
+Uttar Pradesh,2010,adult_education,7968
+Uttar Pradesh,2010,higher_education,141
+Uttar Pradesh,2010,computer_course,398
+Uttar Pradesh,2011,elementary_education,7509
+Uttar Pradesh,2011,adult_education,7912
+Uttar Pradesh,2011,higher_education,138
+Uttar Pradesh,2011,computer_course,417
+Uttar Pradesh,2012,elementary_education,12604
+Uttar Pradesh,2012,adult_education,8135
+Uttar Pradesh,2012,higher_education,1044
+Uttar Pradesh,2012,computer_course,467
+Uttaranchal,2001,elementary_education,518
+Uttaranchal,2001,adult_education,25
+Uttaranchal,2001,higher_education,0
+Uttaranchal,2001,computer_course,0
+Uttaranchal,2002,elementary_education,385
+Uttaranchal,2002,adult_education,91
+Uttaranchal,2002,higher_education,0
+Uttaranchal,2002,computer_course,0
+Uttaranchal,2003,elementary_education,150
+Uttaranchal,2003,adult_education,60
+Uttaranchal,2003,higher_education,0
+Uttaranchal,2003,computer_course,20
+Uttaranchal,2004,elementary_education,150
+Uttaranchal,2004,adult_education,70
+Uttaranchal,2004,higher_education,0
+Uttaranchal,2004,computer_course,20
+Uttaranchal,2005,elementary_education,335
+Uttaranchal,2005,adult_education,145
+Uttaranchal,2005,higher_education,11
+Uttaranchal,2005,computer_course,22
+Uttaranchal,2006,elementary_education,301
+Uttaranchal,2006,adult_education,285
+Uttaranchal,2006,higher_education,11
+Uttaranchal,2006,computer_course,42
+Uttaranchal,2007,elementary_education,202
+Uttaranchal,2007,adult_education,195
+Uttaranchal,2007,higher_education,0
+Uttaranchal,2007,computer_course,40
+Uttaranchal,2008,elementary_education,139
+Uttaranchal,2008,adult_education,178
+Uttaranchal,2008,higher_education,103
+Uttaranchal,2008,computer_course,17
+Uttaranchal,2009,elementary_education,394
+Uttaranchal,2009,adult_education,320
+Uttaranchal,2009,higher_education,224
+Uttaranchal,2009,computer_course,62
+Uttaranchal,2010,elementary_education,140
+Uttaranchal,2010,adult_education,350
+Uttaranchal,2010,higher_education,249
+Uttaranchal,2010,computer_course,38
+Uttaranchal,2011,elementary_education,175
+Uttaranchal,2011,adult_education,402
+Uttaranchal,2011,higher_education,265
+Uttaranchal,2011,computer_course,52
+Uttaranchal,2012,elementary_education,60
+Uttaranchal,2012,adult_education,49
+Uttaranchal,2012,higher_education,66
+Uttaranchal,2012,computer_course,40
+West Bengal,2001,elementary_education,484
+West Bengal,2001,adult_education,301
+West Bengal,2001,higher_education,7
+West Bengal,2001,computer_course,15
+West Bengal,2002,elementary_education,380
+West Bengal,2002,adult_education,241
+West Bengal,2002,higher_education,15
+West Bengal,2002,computer_course,40
+West Bengal,2003,elementary_education,378
+West Bengal,2003,adult_education,275
+West Bengal,2003,higher_education,13
+West Bengal,2003,computer_course,30
+West Bengal,2004,elementary_education,321
+West Bengal,2004,adult_education,244
+West Bengal,2004,higher_education,4
+West Bengal,2004,computer_course,11
+West Bengal,2005,elementary_education,322
+West Bengal,2005,adult_education,291
+West Bengal,2005,higher_education,6
+West Bengal,2005,computer_course,14
+West Bengal,2006,elementary_education,6519
+West Bengal,2006,adult_education,4185
+West Bengal,2006,higher_education,35
+West Bengal,2006,computer_course,13
+West Bengal,2007,elementary_education,1519
+West Bengal,2007,adult_education,2180
+West Bengal,2007,higher_education,30
+West Bengal,2007,computer_course,11
+West Bengal,2008,elementary_education,2828
+West Bengal,2008,adult_education,1994
+West Bengal,2008,higher_education,26
+West Bengal,2008,computer_course,31
+West Bengal,2009,elementary_education,1711
+West Bengal,2009,adult_education,605
+West Bengal,2009,higher_education,10
+West Bengal,2009,computer_course,0
+West Bengal,2010,elementary_education,2520
+West Bengal,2010,adult_education,1240
+West Bengal,2010,higher_education,18
+West Bengal,2010,computer_course,15
+West Bengal,2011,elementary_education,7224
+West Bengal,2011,adult_education,2248
+West Bengal,2011,higher_education,75
+West Bengal,2011,computer_course,124
+West Bengal,2012,elementary_education,2505
+West Bengal,2012,adult_education,1686
+West Bengal,2012,higher_education,141
+West Bengal,2012,computer_course,253
+A & N Islands,2003,elementary_education,22
+A & N Islands,2003,adult_education,25
+A & N Islands,2003,higher_education,0
+A & N Islands,2003,computer_course,6
+A & N Islands,2004,elementary_education,40
+A & N Islands,2004,adult_education,85
+A & N Islands,2004,higher_education,0
+A & N Islands,2004,computer_course,6
+A & N Islands,2005,elementary_education,0
+A & N Islands,2005,adult_education,0
+A & N Islands,2005,higher_education,0
+A & N Islands,2005,computer_course,0
+A & N Islands,2006,elementary_education,40
+A & N Islands,2006,adult_education,85
+A & N Islands,2006,higher_education,0
+A & N Islands,2006,computer_course,5
+A & N Islands,2007,elementary_education,85
+A & N Islands,2007,adult_education,36
+A & N Islands,2007,higher_education,1
+A & N Islands,2007,computer_course,0
+A & N Islands,2008,elementary_education,48
+A & N Islands,2008,adult_education,13
+A & N Islands,2008,higher_education,1
+A & N Islands,2008,computer_course,0
+A & N Islands,2009,elementary_education,92
+A & N Islands,2009,adult_education,29
+A & N Islands,2009,higher_education,0
+A & N Islands,2009,computer_course,0
+A & N Islands,2010,elementary_education,157
+A & N Islands,2010,adult_education,45
+A & N Islands,2010,higher_education,0
+A & N Islands,2010,computer_course,0
+A & N Islands,2011,elementary_education,170
+A & N Islands,2011,adult_education,59
+A & N Islands,2011,higher_education,13
+A & N Islands,2011,computer_course,0
+A & N Islands,2012,elementary_education,142
+A & N Islands,2012,adult_education,98
+A & N Islands,2012,higher_education,13
+A & N Islands,2012,computer_course,0
+Chandigarh,2001,elementary_education,0
+Chandigarh,2001,adult_education,37
+Chandigarh,2001,higher_education,0
+Chandigarh,2001,computer_course,0
+Chandigarh,2002,elementary_education,0
+Chandigarh,2002,adult_education,42
+Chandigarh,2002,higher_education,35
+Chandigarh,2002,computer_course,12
+Chandigarh,2003,elementary_education,15
+Chandigarh,2003,adult_education,32
+Chandigarh,2003,higher_education,42
+Chandigarh,2003,computer_course,35
+Chandigarh,2004,elementary_education,0
+Chandigarh,2004,adult_education,0
+Chandigarh,2004,higher_education,0
+Chandigarh,2004,computer_course,0
+Chandigarh,2005,elementary_education,0
+Chandigarh,2005,adult_education,22
+Chandigarh,2005,higher_education,0
+Chandigarh,2005,computer_course,0
+Chandigarh,2006,elementary_education,0
+Chandigarh,2006,adult_education,18
+Chandigarh,2006,higher_education,19
+Chandigarh,2006,computer_course,0
+Chandigarh,2007,elementary_education,0
+Chandigarh,2007,adult_education,35
+Chandigarh,2007,higher_education,36
+Chandigarh,2007,computer_course,0
+Chandigarh,2008,elementary_education,0
+Chandigarh,2008,adult_education,28
+Chandigarh,2008,higher_education,42
+Chandigarh,2008,computer_course,25
+Chandigarh,2009,elementary_education,0
+Chandigarh,2009,adult_education,36
+Chandigarh,2009,higher_education,39
+Chandigarh,2009,computer_course,31
+Chandigarh,2010,elementary_education,0
+Chandigarh,2010,adult_education,46
+Chandigarh,2010,higher_education,34
+Chandigarh,2010,computer_course,26
+Chandigarh,2011,elementary_education,0
+Chandigarh,2011,adult_education,150
+Chandigarh,2011,higher_education,37
+Chandigarh,2011,computer_course,18
+Chandigarh,2012,elementary_education,0
+Chandigarh,2012,adult_education,225
+Chandigarh,2012,higher_education,96
+Chandigarh,2012,computer_course,15
+D & N Haveli,2001,elementary_education,0
+D & N Haveli,2001,adult_education,0
+D & N Haveli,2001,higher_education,0
+D & N Haveli,2001,computer_course,0
+D & N Haveli,2002,elementary_education,0
+D & N Haveli,2002,adult_education,0
+D & N Haveli,2002,higher_education,0
+D & N Haveli,2002,computer_course,0
+D & N Haveli,2003,elementary_education,0
+D & N Haveli,2003,adult_education,0
+D & N Haveli,2003,higher_education,0
+D & N Haveli,2003,computer_course,0
+D & N Haveli,2004,elementary_education,0
+D & N Haveli,2004,adult_education,0
+D & N Haveli,2004,higher_education,0
+D & N Haveli,2004,computer_course,0
+D & N Haveli,2005,elementary_education,0
+D & N Haveli,2005,adult_education,0
+D & N Haveli,2005,higher_education,0
+D & N Haveli,2005,computer_course,0
+D & N Haveli,2006,elementary_education,0
+D & N Haveli,2006,adult_education,0
+D & N Haveli,2006,higher_education,0
+D & N Haveli,2006,computer_course,0
+D & N Haveli,2007,elementary_education,0
+D & N Haveli,2007,adult_education,0
+D & N Haveli,2007,higher_education,0
+D & N Haveli,2007,computer_course,0
+D & N Haveli,2008,elementary_education,0
+D & N Haveli,2008,adult_education,0
+D & N Haveli,2008,higher_education,0
+D & N Haveli,2008,computer_course,0
+D & N Haveli,2009,elementary_education,0
+D & N Haveli,2009,adult_education,0
+D & N Haveli,2009,higher_education,0
+D & N Haveli,2009,computer_course,0
+D & N Haveli,2010,elementary_education,0
+D & N Haveli,2010,adult_education,0
+D & N Haveli,2010,higher_education,0
+D & N Haveli,2010,computer_course,0
+D & N Haveli,2011,elementary_education,0
+D & N Haveli,2011,adult_education,0
+D & N Haveli,2011,higher_education,0
+D & N Haveli,2011,computer_course,0
+D & N Haveli,2012,elementary_education,0
+D & N Haveli,2012,adult_education,0
+D & N Haveli,2012,higher_education,0
+D & N Haveli,2012,computer_course,0
+Daman & Diu,2001,elementary_education,0
+Daman & Diu,2001,adult_education,0
+Daman & Diu,2001,higher_education,0
+Daman & Diu,2001,computer_course,0
+Daman & Diu,2002,elementary_education,0
+Daman & Diu,2002,adult_education,0
+Daman & Diu,2002,higher_education,0
+Daman & Diu,2002,computer_course,0
+Daman & Diu,2003,elementary_education,0
+Daman & Diu,2003,adult_education,0
+Daman & Diu,2003,higher_education,0
+Daman & Diu,2003,computer_course,0
+Daman & Diu,2004,elementary_education,0
+Daman & Diu,2004,adult_education,0
+Daman & Diu,2004,higher_education,0
+Daman & Diu,2004,computer_course,0
+Daman & Diu,2005,elementary_education,0
+Daman & Diu,2005,adult_education,0
+Daman & Diu,2005,higher_education,0
+Daman & Diu,2005,computer_course,0
+Daman & Diu,2006,elementary_education,0
+Daman & Diu,2006,adult_education,0
+Daman & Diu,2006,higher_education,0
+Daman & Diu,2006,computer_course,0
+Daman & Diu,2007,elementary_education,0
+Daman & Diu,2007,adult_education,0
+Daman & Diu,2007,higher_education,0
+Daman & Diu,2007,computer_course,0
+Daman & Diu,2008,elementary_education,0
+Daman & Diu,2008,adult_education,0
+Daman & Diu,2008,higher_education,0
+Daman & Diu,2008,computer_course,0
+Daman & Diu,2009,elementary_education,0
+Daman & Diu,2009,adult_education,0
+Daman & Diu,2009,higher_education,0
+Daman & Diu,2009,computer_course,0
+Daman & Diu,2010,elementary_education,0
+Daman & Diu,2010,adult_education,0
+Daman & Diu,2010,higher_education,0
+Daman & Diu,2010,computer_course,0
+Daman & Diu,2011,elementary_education,0
+Daman & Diu,2011,adult_education,0
+Daman & Diu,2011,higher_education,0
+Daman & Diu,2011,computer_course,0
+Daman & Diu,2012,elementary_education,0
+Daman & Diu,2012,adult_education,0
+Daman & Diu,2012,higher_education,0
+Daman & Diu,2012,computer_course,0
+Delhi,2001,elementary_education,8356
+Delhi,2001,adult_education,10281
+Delhi,2001,higher_education,487
+Delhi,2001,computer_course,438
+Delhi,2002,elementary_education,20932
+Delhi,2002,adult_education,1594
+Delhi,2002,higher_education,158
+Delhi,2002,computer_course,551
+Delhi,2003,elementary_education,2853
+Delhi,2003,adult_education,1294
+Delhi,2003,higher_education,202
+Delhi,2003,computer_course,142
+Delhi,2004,elementary_education,4487
+Delhi,2004,adult_education,927
+Delhi,2004,higher_education,53
+Delhi,2004,computer_course,118
+Delhi,2005,elementary_education,2679
+Delhi,2005,adult_education,1691
+Delhi,2005,higher_education,274
+Delhi,2005,computer_course,95
+Delhi,2006,elementary_education,2357
+Delhi,2006,adult_education,946
+Delhi,2006,higher_education,244
+Delhi,2006,computer_course,77
+Delhi,2007,elementary_education,1814
+Delhi,2007,adult_education,659
+Delhi,2007,higher_education,270
+Delhi,2007,computer_course,115
+Delhi,2008,elementary_education,1804
+Delhi,2008,adult_education,678
+Delhi,2008,higher_education,245
+Delhi,2008,computer_course,126
+Delhi,2009,elementary_education,1217
+Delhi,2009,adult_education,964
+Delhi,2009,higher_education,251
+Delhi,2009,computer_course,82
+Delhi,2010,elementary_education,694
+Delhi,2010,adult_education,1036
+Delhi,2010,higher_education,313
+Delhi,2010,computer_course,132
+Delhi,2011,elementary_education,1321
+Delhi,2011,adult_education,1005
+Delhi,2011,higher_education,457
+Delhi,2011,computer_course,94
+Delhi,2012,elementary_education,1204
+Delhi,2012,adult_education,1312
+Delhi,2012,higher_education,880
+Delhi,2012,computer_course,172
+Lakshadweep,2001,elementary_education,0
+Lakshadweep,2001,adult_education,0
+Lakshadweep,2001,higher_education,0
+Lakshadweep,2001,computer_course,0
+Lakshadweep,2002,elementary_education,0
+Lakshadweep,2002,adult_education,0
+Lakshadweep,2002,higher_education,0
+Lakshadweep,2002,computer_course,0
+Lakshadweep,2003,elementary_education,0
+Lakshadweep,2003,adult_education,0
+Lakshadweep,2003,higher_education,0
+Lakshadweep,2003,computer_course,0
+Lakshadweep,2004,elementary_education,0
+Lakshadweep,2004,adult_education,0
+Lakshadweep,2004,higher_education,0
+Lakshadweep,2004,computer_course,0
+Lakshadweep,2005,elementary_education,0
+Lakshadweep,2005,adult_education,0
+Lakshadweep,2005,higher_education,0
+Lakshadweep,2005,computer_course,0
+Lakshadweep,2006,elementary_education,0
+Lakshadweep,2006,adult_education,0
+Lakshadweep,2006,higher_education,0
+Lakshadweep,2006,computer_course,0
+Lakshadweep,2007,elementary_education,0
+Lakshadweep,2007,adult_education,0
+Lakshadweep,2007,higher_education,0
+Lakshadweep,2007,computer_course,0
+Lakshadweep,2008,elementary_education,0
+Lakshadweep,2008,adult_education,0
+Lakshadweep,2008,higher_education,0
+Lakshadweep,2008,computer_course,0
+Lakshadweep,2009,elementary_education,0
+Lakshadweep,2009,adult_education,0
+Lakshadweep,2009,higher_education,0
+Lakshadweep,2009,computer_course,0
+Lakshadweep,2010,elementary_education,0
+Lakshadweep,2010,adult_education,0
+Lakshadweep,2010,higher_education,0
+Lakshadweep,2010,computer_course,0
+Lakshadweep,2011,elementary_education,0
+Lakshadweep,2011,adult_education,0
+Lakshadweep,2011,higher_education,0
+Lakshadweep,2011,computer_course,0
+Lakshadweep,2012,elementary_education,0
+Lakshadweep,2012,adult_education,0
+Lakshadweep,2012,higher_education,0
+Lakshadweep,2012,computer_course,0
+Pondicherry,2001,elementary_education,0
+Pondicherry,2001,adult_education,10
+Pondicherry,2001,higher_education,0
+Pondicherry,2001,computer_course,0
+Pondicherry,2002,elementary_education,0
+Pondicherry,2002,adult_education,8
+Pondicherry,2002,higher_education,0
+Pondicherry,2002,computer_course,0
+Pondicherry,2003,elementary_education,0
+Pondicherry,2003,adult_education,10
+Pondicherry,2003,higher_education,0
+Pondicherry,2003,computer_course,0
+Pondicherry,2004,elementary_education,0
+Pondicherry,2004,adult_education,10
+Pondicherry,2004,higher_education,0
+Pondicherry,2004,computer_course,0
+Pondicherry,2005,elementary_education,0
+Pondicherry,2005,adult_education,10
+Pondicherry,2005,higher_education,0
+Pondicherry,2005,computer_course,0
+Pondicherry,2006,elementary_education,0
+Pondicherry,2006,adult_education,10
+Pondicherry,2006,higher_education,0
+Pondicherry,2006,computer_course,0
+Pondicherry,2007,elementary_education,0
+Pondicherry,2007,adult_education,0
+Pondicherry,2007,higher_education,7
+Pondicherry,2007,computer_course,0
+Pondicherry,2008,elementary_education,0
+Pondicherry,2008,adult_education,0
+Pondicherry,2008,higher_education,2
+Pondicherry,2008,computer_course,0
+Pondicherry,2009,elementary_education,0
+Pondicherry,2009,adult_education,0
+Pondicherry,2009,higher_education,2
+Pondicherry,2009,computer_course,0
+Pondicherry,2010,elementary_education,0
+Pondicherry,2010,adult_education,0
+Pondicherry,2010,higher_education,0
+Pondicherry,2010,computer_course,0
+Pondicherry,2011,elementary_education,0
+Pondicherry,2011,adult_education,0
+Pondicherry,2011,higher_education,2
+Pondicherry,2011,computer_course,0
+Pondicherry,2012,elementary_education,0
+Pondicherry,2012,adult_education,0
+Pondicherry,2012,higher_education,0
+Pondicherry,2012,computer_course,0
+Andhra Pradesh,2013,elementary_education,9480
+Andhra Pradesh,2013,adult_education,13758
+Andhra Pradesh,2013,higher_education,672
+Andhra Pradesh,2013,computer_course,170
+Arunachal Pradesh,2013,elementary_education,0
+Arunachal Pradesh,2013,adult_education,0
+Arunachal Pradesh,2013,higher_education,0
+Arunachal Pradesh,2013,computer_course,0
+Assam,2013,elementary_education,676
+Assam,2013,adult_education,750
+Assam,2013,higher_education,14
+Assam,2013,computer_course,30
+Bihar,2013,elementary_education,1693
+Bihar,2013,adult_education,3013
+Bihar,2013,higher_education,125
+Bihar,2013,computer_course,1417
+Chhatisgarh,2013,elementary_education,1664
+Chhatisgarh,2013,adult_education,1803
+Chhatisgarh,2013,higher_education,192
+Chhatisgarh,2013,computer_course,103
+Goa,2013,elementary_education,7
+Goa,2013,adult_education,0
+Goa,2013,higher_education,6
+Goa,2013,computer_course,88
+Gujarat,2013,elementary_education,2310
+Gujarat,2013,adult_education,3133
+Gujarat,2013,higher_education,875
+Gujarat,2013,computer_course,966
+Haryana,2013,elementary_education,1131
+Haryana,2013,adult_education,774
+Haryana,2013,higher_education,1112
+Haryana,2013,computer_course,243
+Himachal Pradesh,2013,elementary_education,33
+Himachal Pradesh,2013,adult_education,80
+Himachal Pradesh,2013,higher_education,26
+Himachal Pradesh,2013,computer_course,0
+Jammu & Kashmir,2013,elementary_education,102
+Jammu & Kashmir,2013,adult_education,124
+Jammu & Kashmir,2013,higher_education,33
+Jammu & Kashmir,2013,computer_course,34
+Jharkhand,2013,elementary_education,3008
+Jharkhand,2013,adult_education,2595
+Jharkhand,2013,higher_education,138
+Jharkhand,2013,computer_course,574
+Karnataka,2013,elementary_education,633
+Karnataka,2013,adult_education,568
+Karnataka,2013,higher_education,170
+Karnataka,2013,computer_course,12
+Kerala,2013,elementary_education,156
+Kerala,2013,adult_education,96
+Kerala,2013,higher_education,24
+Kerala,2013,computer_course,250
+Madhya Pradesh,2013,elementary_education,1978
+Madhya Pradesh,2013,adult_education,9574
+Madhya Pradesh,2013,higher_education,301
+Madhya Pradesh,2013,computer_course,151
+Maharashtra,2013,elementary_education,346
+Maharashtra,2013,adult_education,2743
+Maharashtra,2013,higher_education,882
+Maharashtra,2013,computer_course,1330
+Manipur,2013,elementary_education,0
+Manipur,2013,adult_education,0
+Manipur,2013,higher_education,0
+Manipur,2013,computer_course,0
+Meghalaya,2013,elementary_education,1
+Meghalaya,2013,adult_education,30
+Meghalaya,2013,higher_education,0
+Meghalaya,2013,computer_course,0
+Mizoram,2013,elementary_education,0
+Mizoram,2013,adult_education,25
+Mizoram,2013,higher_education,18
+Mizoram,2013,computer_course,0
+Nagaland,2013,elementary_education,0
+Nagaland,2013,adult_education,0
+Nagaland,2013,higher_education,0
+Nagaland,2013,computer_course,0
+Orissa,2013,elementary_education,622
+Orissa,2013,adult_education,613
+Orissa,2013,higher_education,277
+Orissa,2013,computer_course,384
+Punjab,2013,elementary_education,325
+Punjab,2013,adult_education,606
+Punjab,2013,higher_education,112
+Punjab,2013,computer_course,168
+Rajasthan,2013,elementary_education,1050
+Rajasthan,2013,adult_education,237
+Rajasthan,2013,higher_education,64
+Rajasthan,2013,computer_course,38
+Sikkim,2013,elementary_education,0
+Sikkim,2013,adult_education,0
+Sikkim,2013,higher_education,0
+Sikkim,2013,computer_course,0
+Tamil Nadu,2013,elementary_education,68
+Tamil Nadu,2013,adult_education,1664
+Tamil Nadu,2013,higher_education,757
+Tamil Nadu,2013,computer_course,478
+Tripura,2013,elementary_education,15
+Tripura,2013,adult_education,13
+Tripura,2013,higher_education,4
+Tripura,2013,computer_course,2
+Uttar Pradesh,2013,elementary_education,7876
+Uttar Pradesh,2013,adult_education,8093
+Uttar Pradesh,2013,higher_education,1353
+Uttar Pradesh,2013,computer_course,212
+Uttaranchal,2013,elementary_education,205
+Uttaranchal,2013,adult_education,42
+Uttaranchal,2013,higher_education,29
+Uttaranchal,2013,computer_course,72
+West Bengal,2013,elementary_education,2023
+West Bengal,2013,adult_education,1889
+West Bengal,2013,higher_education,123
+West Bengal,2013,computer_course,460
+A & N Islands,2013,elementary_education,167
+A & N Islands,2013,adult_education,45
+A & N Islands,2013,higher_education,11
+A & N Islands,2013,computer_course,0
+Chandigarh,2013,elementary_education,0
+Chandigarh,2013,adult_education,265
+Chandigarh,2013,higher_education,85
+Chandigarh,2013,computer_course,0
+D & N Haveli,2013,elementary_education,0
+D & N Haveli,2013,adult_education,0
+D & N Haveli,2013,higher_education,0
+D & N Haveli,2013,computer_course,0
+Daman & Diu,2013,elementary_education,0
+Daman & Diu,2013,adult_education,0
+Daman & Diu,2013,higher_education,0
+Daman & Diu,2013,computer_course,0
+Delhi,2013,elementary_education,1458
+Delhi,2013,adult_education,1187
+Delhi,2013,higher_education,908
+Delhi,2013,computer_course,174
+Lakshadweep,2013,elementary_education,0
+Lakshadweep,2013,adult_education,0
+Lakshadweep,2013,higher_education,0
+Lakshadweep,2013,computer_course,0
+Pondicherry,2013,elementary_education,0
+Pondicherry,2013,adult_education,0
+Pondicherry,2013,higher_education,0
+Pondicherry,2013,computer_course,0

@@ -5,13 +5,13 @@
                 "authProtocol": "default"
             },
             "previewLimit": 50,
-            "server": "sql6.freemysqlhosting.net",
+            "server": "localhost",
             "port": 3306,
             "driver": "MySQL",
-            "name": "miniProjDB",
+            "name": "prisonDb",
             "database": "sql6524709",
-            "username": "sql6524709",
-            "password": "Y7WffYwMME"
+            "username": "root",
+            "password": "11F02e2003B"
         }
     ]
 }

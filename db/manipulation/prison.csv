@@ -1,0 +1,4024 @@
+State_UT_name,Year,Jail_Type,Total_Convicts,Total_Under_trial,Total
+Andhra Pradesh,2001,Central Jail,3375,2832,6207
+Andhra Pradesh,2001,District Jail,295,2515,2810
+Andhra Pradesh,2001,Sub_Jail,198,3414,3612
+Andhra Pradesh,2001,Women Jail,88,81,169
+Andhra Pradesh,2001,Borstal School,17,0,17
+Andhra Pradesh,2001,Open Jail,248,0,248
+Andhra Pradesh,2001,Special Jail,0,0,0
+Andhra Pradesh,2001,Others,0,0,0
+Andhra Pradesh,2001,Total,4221,8842,13063
+Andhra Pradesh,2002,Central Jail,4115,3330,7445
+Andhra Pradesh,2002,District Jail,253,2016,2269
+Andhra Pradesh,2002,Sub_Jail,115,3111,3226
+Andhra Pradesh,2002,Women Jail,143,92,235
+Andhra Pradesh,2002,Borstal School,28,0,28
+Andhra Pradesh,2002,Open Jail,218,0,218
+Andhra Pradesh,2002,Special Jail,0,0,0
+Andhra Pradesh,2002,Others,0,0,0
+Andhra Pradesh,2002,Total,4872,8549,13421
+Andhra Pradesh,2003,Central Jail,4316,3482,7798
+Andhra Pradesh,2003,District Jail,269,2092,2361
+Andhra Pradesh,2003,Sub_Jail,125,3193,3318
+Andhra Pradesh,2003,Women Jail,161,152,313
+Andhra Pradesh,2003,Borstal School,22,0,22
+Andhra Pradesh,2003,Open Jail,254,0,254
+Andhra Pradesh,2003,Special Jail,0,0,0
+Andhra Pradesh,2003,Others,0,0,0
+Andhra Pradesh,2003,Total,5147,8919,14066
+Andhra Pradesh,2004,Central Jail,3964,3595,7559
+Andhra Pradesh,2004,District Jail,230,2237,2467
+Andhra Pradesh,2004,Sub_Jail,107,3075,3182
+Andhra Pradesh,2004,Women Jail,174,171,345
+Andhra Pradesh,2004,Borstal School,6,0,6
+Andhra Pradesh,2004,Open Jail,284,0,284
+Andhra Pradesh,2004,Special Jail,0,0,0
+Andhra Pradesh,2004,Others,0,0,0
+Andhra Pradesh,2004,Total,4765,9078,13843
+Andhra Pradesh,2005,Central Jail,4161,4029,8190
+Andhra Pradesh,2005,District Jail,223,2089,2312
+Andhra Pradesh,2005,Sub_Jail,146,3188,3334
+Andhra Pradesh,2005,Women Jail,184,286,470
+Andhra Pradesh,2005,Borstal School,7,0,7
+Andhra Pradesh,2005,Open Jail,290,0,290
+Andhra Pradesh,2005,Special Jail,0,0,0
+Andhra Pradesh,2005,Others,0,0,0
+Andhra Pradesh,2005,Total,5011,9592,14603
+Andhra Pradesh,2006,Central Jail,4279,3824,8103
+Andhra Pradesh,2006,District Jail,374,2436,2810
+Andhra Pradesh,2006,Sub_Jail,93,3643,3736
+Andhra Pradesh,2006,Women Jail,192,179,371
+Andhra Pradesh,2006,Borstal School,14,0,14
+Andhra Pradesh,2006,Open Jail,335,0,335
+Andhra Pradesh,2006,Special Jail,0,0,0
+Andhra Pradesh,2006,Others,0,0,0
+Andhra Pradesh,2006,Total,5287,10082,15369
+Andhra Pradesh,2007,Central Jail,4612,3586,8198
+Andhra Pradesh,2007,District Jail,298,2276,2574
+Andhra Pradesh,2007,Sub_Jail,107,3415,3522
+Andhra Pradesh,2007,Women Jail,195,168,363
+Andhra Pradesh,2007,Borstal School,13,0,13
+Andhra Pradesh,2007,Open Jail,334,0,334
+Andhra Pradesh,2007,Special Jail,0,0,0
+Andhra Pradesh,2007,Others,0,0,0
+Andhra Pradesh,2007,Total,5559,9445,15004
+Andhra Pradesh,2008,Central Jail,4467,3235,7702
+Andhra Pradesh,2008,District Jail,291,2135,2426
+Andhra Pradesh,2008,Sub_Jail,86,3154,3240
+Andhra Pradesh,2008,Women Jail,187,145,332
+Andhra Pradesh,2008,Borstal School,7,0,7
+Andhra Pradesh,2008,Open Jail,340,0,340
+Andhra Pradesh,2008,Special Jail,0,0,0
+Andhra Pradesh,2008,Others,0,0,0
+Andhra Pradesh,2008,Total,5378,8669,14047
+Andhra Pradesh,2009,Central Jail,3803,2790,6593
+Andhra Pradesh,2009,District Jail,242,2074,2316
+Andhra Pradesh,2009,Sub_Jail,78,3224,3302
+Andhra Pradesh,2009,Women Jail,96,129,225
+Andhra Pradesh,2009,Borstal School,12,0,12
+Andhra Pradesh,2009,Open Jail,305,0,305
+Andhra Pradesh,2009,Special Jail,0,0,0
+Andhra Pradesh,2009,Others,0,0,0
+Andhra Pradesh,2009,Total,4536,8217,12753
+Andhra Pradesh,2010,Central Jail,4009,2890,6899
+Andhra Pradesh,2010,District Jail,196,1755,1951
+Andhra Pradesh,2010,Sub_Jail,85,2875,2960
+Andhra Pradesh,2010,Women Jail,157,129,286
+Andhra Pradesh,2010,Borstal School,13,0,13
+Andhra Pradesh,2010,Open Jail,338,0,338
+Andhra Pradesh,2010,Special Jail,0,0,0
+Andhra Pradesh,2010,Others,0,0,0
+Andhra Pradesh,2010,Total,4798,7649,12447
+Andhra Pradesh,2011,Central Jail,3866,3194,7060
+Andhra Pradesh,2011,District Jail,273,2179,2452
+Andhra Pradesh,2011,Sub_Jail,49,3028,3077
+Andhra Pradesh,2011,Women Jail,165,143,308
+Andhra Pradesh,2011,Borstal School,6,0,6
+Andhra Pradesh,2011,Open Jail,279,0,279
+Andhra Pradesh,2011,Special Jail,0,0,0
+Andhra Pradesh,2011,Others,0,0,0
+Andhra Pradesh,2011,Total,4638,8544,13182
+Andhra Pradesh,2012,Central Jail,3925,3000,6925
+Andhra Pradesh,2012,District Jail,252,2068,2320
+Andhra Pradesh,2012,Sub_Jail,49,3340,3389
+Andhra Pradesh,2012,Women Jail,168,143,311
+Andhra Pradesh,2012,Borstal School,5,0,5
+Andhra Pradesh,2012,Open Jail,323,0,323
+Andhra Pradesh,2012,Special Jail,0,0,0
+Andhra Pradesh,2012,Others,0,0,0
+Andhra Pradesh,2012,Total,4722,8551,13273
+Arunachal Pradesh,2009,Central Jail,0,0,0
+Arunachal Pradesh,2009,District Jail,2,60,62
+Arunachal Pradesh,2009,Sub_Jail,0,0,0
+Arunachal Pradesh,2009,Women Jail,0,0,0
+Arunachal Pradesh,2009,Borstal School,0,0,0
+Arunachal Pradesh,2009,Open Jail,0,0,0
+Arunachal Pradesh,2009,Special Jail,0,0,0
+Arunachal Pradesh,2009,Others,0,0,0
+Arunachal Pradesh,2009,Total,2,60,62
+Arunachal Pradesh,2010,Central Jail,0,0,0
+Arunachal Pradesh,2010,District Jail,5,52,57
+Arunachal Pradesh,2010,Sub_Jail,0,0,0
+Arunachal Pradesh,2010,Women Jail,0,0,0
+Arunachal Pradesh,2010,Borstal School,0,0,0
+Arunachal Pradesh,2010,Open Jail,0,0,0
+Arunachal Pradesh,2010,Special Jail,0,0,0
+Arunachal Pradesh,2010,Others,0,0,0
+Arunachal Pradesh,2010,Total,5,52,57
+Arunachal Pradesh,2011,Central Jail,0,0,0
+Arunachal Pradesh,2011,District Jail,6,49,55
+Arunachal Pradesh,2011,Sub_Jail,0,0,0
+Arunachal Pradesh,2011,Women Jail,0,0,0
+Arunachal Pradesh,2011,Borstal School,0,0,0
+Arunachal Pradesh,2011,Open Jail,0,0,0
+Arunachal Pradesh,2011,Special Jail,0,0,0
+Arunachal Pradesh,2011,Others,0,0,0
+Arunachal Pradesh,2011,Total,6,49,55
+Arunachal Pradesh,2012,Central Jail,0,0,0
+Arunachal Pradesh,2012,District Jail,4,67,71
+Arunachal Pradesh,2012,Sub_Jail,0,0,0
+Arunachal Pradesh,2012,Women Jail,0,0,0
+Arunachal Pradesh,2012,Borstal School,0,0,0
+Arunachal Pradesh,2012,Open Jail,0,0,0
+Arunachal Pradesh,2012,Special Jail,0,0,0
+Arunachal Pradesh,2012,Others,0,0,0
+Arunachal Pradesh,2012,Total,4,67,71
+Assam,2001,Central Jail,0,0,0
+Assam,2001,District Jail,2327,3893,6220
+Assam,2001,Sub_Jail,0,0,0
+Assam,2001,Women Jail,0,0,0
+Assam,2001,Borstal School,0,0,0
+Assam,2001,Open Jail,36,0,36
+Assam,2001,Special Jail,38,139,177
+Assam,2001,Others,2,33,35
+Assam,2001,Total,2403,4065,6468
+Assam,2002,Central Jail,1518,1984,3502
+Assam,2002,District Jail,1019,2059,3078
+Assam,2002,Sub_Jail,0,34,34
+Assam,2002,Women Jail,0,0,0
+Assam,2002,Borstal School,0,0,0
+Assam,2002,Open Jail,43,0,43
+Assam,2002,Special Jail,150,242,392
+Assam,2002,Others,0,0,0
+Assam,2002,Total,2730,4319,7049
+Assam,2003,Central Jail,1529,2169,3698
+Assam,2003,District Jail,1293,2132,3425
+Assam,2003,Sub_Jail,1,22,23
+Assam,2003,Women Jail,0,0,0
+Assam,2003,Borstal School,0,0,0
+Assam,2003,Open Jail,43,0,43
+Assam,2003,Special Jail,214,200,414
+Assam,2003,Others,0,0,0
+Assam,2003,Total,3080,4523,7603
+Assam,2004,Central Jail,1645,2032,3677
+Assam,2004,District Jail,1373,1996,3369
+Assam,2004,Sub_Jail,2,27,29
+Assam,2004,Women Jail,0,0,0
+Assam,2004,Borstal School,0,0,0
+Assam,2004,Open Jail,34,0,34
+Assam,2004,Special Jail,214,243,457
+Assam,2004,Others,0,0,0
+Assam,2004,Total,3268,4298,7566
+Assam,2005,Central Jail,1710,2437,4147
+Assam,2005,District Jail,1539,2377,3916
+Assam,2005,Sub_Jail,4,28,32
+Assam,2005,Women Jail,0,0,0
+Assam,2005,Borstal School,0,0,0
+Assam,2005,Open Jail,28,0,28
+Assam,2005,Special Jail,194,158,352
+Assam,2005,Others,0,0,0
+Assam,2005,Total,3475,5000,8475
+Assam,2006,Central Jail,1667,2298,3965
+Assam,2006,District Jail,1698,2436,4134
+Assam,2006,Sub_Jail,2,57,59
+Assam,2006,Women Jail,0,0,0
+Assam,2006,Borstal School,0,0,0
+Assam,2006,Open Jail,43,0,43
+Assam,2006,Special Jail,139,169,308
+Assam,2006,Others,0,0,0
+Assam,2006,Total,3549,4960,8509
+Assam,2007,Central Jail,1629,2392,4021
+Assam,2007,District Jail,1777,2543,4320
+Assam,2007,Sub_Jail,6,49,55
+Assam,2007,Women Jail,0,0,0
+Assam,2007,Borstal School,0,0,0
+Assam,2007,Open Jail,38,0,38
+Assam,2007,Special Jail,130,106,236
+Assam,2007,Others,0,0,0
+Assam,2007,Total,3580,5090,8670
+Assam,2008,Central Jail,1581,2384,3965
+Assam,2008,District Jail,1771,2698,4469
+Assam,2008,Sub_Jail,5,60,65
+Assam,2008,Women Jail,0,0,0
+Assam,2008,Borstal School,0,0,0
+Assam,2008,Open Jail,43,0,43
+Assam,2008,Special Jail,94,96,190
+Assam,2008,Others,0,0,0
+Assam,2008,Total,3494,5238,8732
+Assam,2009,Central Jail,1385,1711,3096
+Assam,2009,District Jail,1841,2901,4742
+Assam,2009,Sub_Jail,2,45,47
+Assam,2009,Women Jail,0,0,0
+Assam,2009,Borstal School,0,0,0
+Assam,2009,Open Jail,35,0,35
+Assam,2009,Special Jail,64,167,231
+Assam,2009,Others,0,0,0
+Assam,2009,Total,3327,4824,8151
+Assam,2010,Central Jail,1295,1767,3062
+Assam,2010,District Jail,1873,2653,4526
+Assam,2010,Sub_Jail,2,54,56
+Assam,2010,Women Jail,0,0,0
+Assam,2010,Borstal School,0,0,0
+Assam,2010,Open Jail,28,0,28
+Assam,2010,Special Jail,66,181,247
+Assam,2010,Others,0,0,0
+Assam,2010,Total,3264,4655,7919
+Assam,2011,Central Jail,1306,1992,3298
+Assam,2011,District Jail,1738,2875,4613
+Assam,2011,Sub_Jail,3,73,76
+Assam,2011,Women Jail,0,0,0
+Assam,2011,Borstal School,0,0,0
+Assam,2011,Open Jail,23,0,23
+Assam,2011,Special Jail,67,126,193
+Assam,2011,Others,0,0,0
+Assam,2011,Total,3137,5066,8203
+Assam,2012,Central Jail,1240,1889,3129
+Assam,2012,District Jail,1831,2992,4823
+Assam,2012,Sub_Jail,1,76,77
+Assam,2012,Women Jail,0,0,0
+Assam,2012,Borstal School,0,0,0
+Assam,2012,Open Jail,31,0,31
+Assam,2012,Special Jail,67,141,208
+Assam,2012,Others,0,0,0
+Assam,2012,Total,3170,5098,8268
+Bihar,2001,Central Jail,3733,6147,9880
+Bihar,2001,District Jail,1081,17685,18766
+Bihar,2001,Sub_Jail,205,6933,7138
+Bihar,2001,Women Jail,46,28,74
+Bihar,2001,Borstal School,0,0,0
+Bihar,2001,Open Jail,0,0,0
+Bihar,2001,Special Jail,0,0,0
+Bihar,2001,Others,0,0,0
+Bihar,2001,Total,5065,30793,35858
+Bihar,2002,Central Jail,3818,7032,10850
+Bihar,2002,District Jail,1021,17878,18899
+Bihar,2002,Sub_Jail,156,7159,7315
+Bihar,2002,Women Jail,69,32,101
+Bihar,2002,Borstal School,0,0,0
+Bihar,2002,Open Jail,0,0,0
+Bihar,2002,Special Jail,0,0,0
+Bihar,2002,Others,0,0,0
+Bihar,2002,Total,5064,32101,37165
+Bihar,2003,Central Jail,3730,6814,10544
+Bihar,2003,District Jail,1090,18499,19589
+Bihar,2003,Sub_Jail,199,6774,6973
+Bihar,2003,Women Jail,59,47,106
+Bihar,2003,Borstal School,0,0,0
+Bihar,2003,Open Jail,0,0,0
+Bihar,2003,Special Jail,0,0,0
+Bihar,2003,Others,0,0,0
+Bihar,2003,Total,5078,32134,37212
+Bihar,2004,Central Jail,3994,6615,10609
+Bihar,2004,District Jail,1128,14823,15951
+Bihar,2004,Sub_Jail,329,5911,6240
+Bihar,2004,Women Jail,69,26,95
+Bihar,2004,Borstal School,0,0,0
+Bihar,2004,Open Jail,0,0,0
+Bihar,2004,Special Jail,0,0,0
+Bihar,2004,Others,0,0,0
+Bihar,2004,Total,5520,27375,32895
+Bihar,2005,Central Jail,4008,9124,13132
+Bihar,2005,District Jail,1201,21919,23120
+Bihar,2005,Sub_Jail,343,8936,9279
+Bihar,2005,Women Jail,57,40,97
+Bihar,2005,Borstal School,0,0,0
+Bihar,2005,Open Jail,0,0,0
+Bihar,2005,Special Jail,0,0,0
+Bihar,2005,Others,0,0,0
+Bihar,2005,Total,5609,40019,45628
+Bihar,2006,Central Jail,4468,8309,12777
+Bihar,2006,District Jail,1603,20673,22276
+Bihar,2006,Sub_Jail,631,8368,8999
+Bihar,2006,Women Jail,63,25,88
+Bihar,2006,Borstal School,0,0,0
+Bihar,2006,Open Jail,0,0,0
+Bihar,2006,Special Jail,0,0,0
+Bihar,2006,Others,0,0,0
+Bihar,2006,Total,6765,37375,44140
+Bihar,2007,Central Jail,4201,7000,11201
+Bihar,2007,District Jail,1795,22322,24117
+Bihar,2007,Sub_Jail,194,3962,4156
+Bihar,2007,Women Jail,76,32,108
+Bihar,2007,Borstal School,0,0,0
+Bihar,2007,Open Jail,0,0,0
+Bihar,2007,Special Jail,0,0,0
+Bihar,2007,Others,0,0,0
+Bihar,2007,Total,6266,33316,39582
+Bihar,2008,Central Jail,4136,7108,11244
+Bihar,2008,District Jail,1636,20942,22578
+Bihar,2008,Sub_Jail,159,3570,3729
+Bihar,2008,Women Jail,68,27,95
+Bihar,2008,Borstal School,0,0,0
+Bihar,2008,Open Jail,0,0,0
+Bihar,2008,Special Jail,0,0,0
+Bihar,2008,Others,0,0,0
+Bihar,2008,Total,5999,31647,37646
+Bihar,2009,Central Jail,3668,6447,10115
+Bihar,2009,District Jail,1681,18616,20297
+Bihar,2009,Sub_Jail,120,3069,3189
+Bihar,2009,Women Jail,62,31,93
+Bihar,2009,Borstal School,0,0,0
+Bihar,2009,Open Jail,0,0,0
+Bihar,2009,Special Jail,0,0,0
+Bihar,2009,Others,0,0,0
+Bihar,2009,Total,5531,28163,33694
+Bihar,2010,Central Jail,3432,7210,10642
+Bihar,2010,District Jail,1651,14438,16089
+Bihar,2010,Sub_Jail,156,2689,2845
+Bihar,2010,Women Jail,46,25,71
+Bihar,2010,Borstal School,0,0,0
+Bihar,2010,Open Jail,0,0,0
+Bihar,2010,Special Jail,0,0,0
+Bihar,2010,Others,0,0,0
+Bihar,2010,Total,5285,24362,29647
+Bihar,2011,Central Jail,2385,6384,8769
+Bihar,2011,District Jail,1361,14155,15516
+Bihar,2011,Sub_Jail,92,2614,2706
+Bihar,2011,Women Jail,34,22,56
+Bihar,2011,Borstal School,0,0,0
+Bihar,2011,Open Jail,0,0,0
+Bihar,2011,Special Jail,722,242,964
+Bihar,2011,Others,0,0,0
+Bihar,2011,Total,4594,23417,28011
+Bihar,2012,Central Jail,2081,6840,8921
+Bihar,2012,District Jail,1238,14097,15335
+Bihar,2012,Sub_Jail,111,3022,3133
+Bihar,2012,Women Jail,35,31,66
+Bihar,2012,Borstal School,0,0,0
+Bihar,2012,Open Jail,102,0,102
+Bihar,2012,Special Jail,541,399,940
+Bihar,2012,Others,0,0,0
+Bihar,2012,Total,4108,24389,28497
+Chhattisgarh,2012,Central Jail,5773,4217,9990
+Chhattisgarh,2012,District Jail,165,2858,3023
+Chhattisgarh,2012,Sub_Jail,26,1724,1750
+Chhattisgarh,2012,Women Jail,0,0,0
+Chhattisgarh,2012,Borstal School,0,0,0
+Chhattisgarh,2012,Open Jail,0,0,0
+Chhattisgarh,2012,Special Jail,0,0,0
+Chhattisgarh,2012,Others,0,0,0
+Chhattisgarh,2012,Total,5964,8799,14763
+Chhattisgarh,2001,Central Jail,4392,2189,6581
+Chhattisgarh,2001,District Jail,146,995,1141
+Chhattisgarh,2001,Sub_Jail,166,1737,1903
+Chhattisgarh,2001,Women Jail,0,0,0
+Chhattisgarh,2001,Borstal School,0,0,0
+Chhattisgarh,2001,Open Jail,29,0,29
+Chhattisgarh,2001,Special Jail,0,0,0
+Chhattisgarh,2001,Others,0,0,0
+Chhattisgarh,2001,Total,4733,4921,9654
+Chhattisgarh,2002,Central Jail,4634,2026,6660
+Chhattisgarh,2002,District Jail,256,1316,1572
+Chhattisgarh,2002,Sub_Jail,125,1619,1744
+Chhattisgarh,2002,Women Jail,0,0,0
+Chhattisgarh,2002,Borstal School,0,0,0
+Chhattisgarh,2002,Open Jail,21,0,21
+Chhattisgarh,2002,Special Jail,0,0,0
+Chhattisgarh,2002,Others,0,0,0
+Chhattisgarh,2002,Total,5036,4961,9997
+Chhattisgarh,2003,Central Jail,4336,1749,6085
+Chhattisgarh,2003,District Jail,272,1090,1362
+Chhattisgarh,2003,Sub_Jail,112,1289,1401
+Chhattisgarh,2003,Women Jail,0,0,0
+Chhattisgarh,2003,Borstal School,0,0,0
+Chhattisgarh,2003,Open Jail,0,0,0
+Chhattisgarh,2003,Special Jail,0,0,0
+Chhattisgarh,2003,Others,0,0,0
+Chhattisgarh,2003,Total,4720,4128,8848
+Chhattisgarh,2004,Central Jail,4171,1550,5721
+Chhattisgarh,2004,District Jail,240,1160,1400
+Chhattisgarh,2004,Sub_Jail,114,1627,1741
+Chhattisgarh,2004,Women Jail,0,0,0
+Chhattisgarh,2004,Borstal School,0,0,0
+Chhattisgarh,2004,Open Jail,0,0,0
+Chhattisgarh,2004,Special Jail,0,0,0
+Chhattisgarh,2004,Others,0,0,0
+Chhattisgarh,2004,Total,4525,4337,8862
+Chhattisgarh,2005,Central Jail,4013,2360,6373
+Chhattisgarh,2005,District Jail,210,1470,1680
+Chhattisgarh,2005,Sub_Jail,76,1679,1755
+Chhattisgarh,2005,Women Jail,0,0,0
+Chhattisgarh,2005,Borstal School,0,0,0
+Chhattisgarh,2005,Open Jail,0,0,0
+Chhattisgarh,2005,Special Jail,0,0,0
+Chhattisgarh,2005,Others,0,0,0
+Chhattisgarh,2005,Total,4299,5509,9808
+Chhattisgarh,2006,Central Jail,4003,2481,6484
+Chhattisgarh,2006,District Jail,165,1564,1729
+Chhattisgarh,2006,Sub_Jail,106,2028,2134
+Chhattisgarh,2006,Women Jail,0,0,0
+Chhattisgarh,2006,Borstal School,0,0,0
+Chhattisgarh,2006,Open Jail,0,0,0
+Chhattisgarh,2006,Special Jail,0,0,0
+Chhattisgarh,2006,Others,0,0,0
+Chhattisgarh,2006,Total,4274,6073,10347
+Chhattisgarh,2007,Central Jail,4346,3229,7575
+Chhattisgarh,2007,District Jail,118,1573,1691
+Chhattisgarh,2007,Sub_Jail,61,1097,1158
+Chhattisgarh,2007,Women Jail,0,0,0
+Chhattisgarh,2007,Borstal School,0,0,0
+Chhattisgarh,2007,Open Jail,0,0,0
+Chhattisgarh,2007,Special Jail,0,0,0
+Chhattisgarh,2007,Others,0,0,0
+Chhattisgarh,2007,Total,4525,5899,10424
+Chhattisgarh,2008,Central Jail,4556,3533,8089
+Chhattisgarh,2008,District Jail,151,1711,1862
+Chhattisgarh,2008,Sub_Jail,60,1213,1273
+Chhattisgarh,2008,Women Jail,0,0,0
+Chhattisgarh,2008,Borstal School,0,0,0
+Chhattisgarh,2008,Open Jail,0,0,0
+Chhattisgarh,2008,Special Jail,0,0,0
+Chhattisgarh,2008,Others,0,0,0
+Chhattisgarh,2008,Total,4767,6457,11224
+Chhattisgarh,2009,Central Jail,4678,3884,8562
+Chhattisgarh,2009,District Jail,128,2068,2196
+Chhattisgarh,2009,Sub_Jail,51,1317,1368
+Chhattisgarh,2009,Women Jail,0,0,0
+Chhattisgarh,2009,Borstal School,0,0,0
+Chhattisgarh,2009,Open Jail,0,0,0
+Chhattisgarh,2009,Special Jail,0,0,0
+Chhattisgarh,2009,Others,0,0,0
+Chhattisgarh,2009,Total,4857,7269,12126
+Chhattisgarh,2010,Central Jail,4997,4219,9216
+Chhattisgarh,2010,District Jail,150,2408,2558
+Chhattisgarh,2010,Sub_Jail,49,1072,1121
+Chhattisgarh,2010,Women Jail,0,0,0
+Chhattisgarh,2010,Borstal School,0,0,0
+Chhattisgarh,2010,Open Jail,0,0,0
+Chhattisgarh,2010,Special Jail,0,0,0
+Chhattisgarh,2010,Others,0,0,0
+Chhattisgarh,2010,Total,5196,7699,12895
+Chhattisgarh,2011,Central Jail,5462,4394,9856
+Chhattisgarh,2011,District Jail,126,2743,2869
+Chhattisgarh,2011,Sub_Jail,42,1138,1180
+Chhattisgarh,2011,Women Jail,0,0,0
+Chhattisgarh,2011,Borstal School,0,0,0
+Chhattisgarh,2011,Open Jail,0,0,0
+Chhattisgarh,2011,Special Jail,0,0,0
+Chhattisgarh,2011,Others,0,0,0
+Chhattisgarh,2011,Total,5630,8275,13905
+Goa,2001,Central Jail,128,37,165
+Goa,2001,District Jail,0,0,0
+Goa,2001,Sub_Jail,30,152,182
+Goa,2001,Women Jail,0,0,0
+Goa,2001,Borstal School,0,0,0
+Goa,2001,Open Jail,0,0,0
+Goa,2001,Special Jail,0,0,0
+Goa,2001,Others,0,105,105
+Goa,2001,Total,158,294,452
+Goa,2002,Central Jail,140,22,162
+Goa,2002,District Jail,0,0,0
+Goa,2002,Sub_Jail,9,76,85
+Goa,2002,Women Jail,0,0,0
+Goa,2002,Borstal School,0,0,0
+Goa,2002,Open Jail,0,0,0
+Goa,2002,Special Jail,0,0,0
+Goa,2002,Others,0,105,105
+Goa,2002,Total,149,203,352
+Goa,2003,Central Jail,127,37,164
+Goa,2003,District Jail,0,0,0
+Goa,2003,Sub_Jail,16,84,100
+Goa,2003,Women Jail,0,0,0
+Goa,2003,Borstal School,0,0,0
+Goa,2003,Open Jail,0,0,0
+Goa,2003,Special Jail,0,0,0
+Goa,2003,Others,0,267,267
+Goa,2003,Total,143,388,531
+Goa,2004,Central Jail,132,45,177
+Goa,2004,District Jail,0,0,0
+Goa,2004,Sub_Jail,18,108,126
+Goa,2004,Women Jail,0,0,0
+Goa,2004,Borstal School,0,0,0
+Goa,2004,Open Jail,0,0,0
+Goa,2004,Special Jail,0,0,0
+Goa,2004,Others,0,124,124
+Goa,2004,Total,150,277,427
+Goa,2005,Central Jail,128,17,145
+Goa,2005,District Jail,0,0,0
+Goa,2005,Sub_Jail,10,97,107
+Goa,2005,Women Jail,0,0,0
+Goa,2005,Borstal School,0,0,0
+Goa,2005,Open Jail,0,0,0
+Goa,2005,Special Jail,0,0,0
+Goa,2005,Others,0,132,132
+Goa,2005,Total,138,246,384
+Goa,2006,Central Jail,124,18,142
+Goa,2006,District Jail,0,0,0
+Goa,2006,Sub_Jail,20,101,121
+Goa,2006,Women Jail,0,0,0
+Goa,2006,Borstal School,0,0,0
+Goa,2006,Open Jail,0,0,0
+Goa,2006,Special Jail,0,0,0
+Goa,2006,Others,0,117,117
+Goa,2006,Total,144,236,380
+Goa,2007,Central Jail,124,18,142
+Goa,2007,District Jail,0,0,0
+Goa,2007,Sub_Jail,23,76,99
+Goa,2007,Women Jail,0,0,0
+Goa,2007,Borstal School,0,0,0
+Goa,2007,Open Jail,0,0,0
+Goa,2007,Special Jail,0,0,0
+Goa,2007,Others,0,125,125
+Goa,2007,Total,147,219,366
+Goa,2008,Central Jail,127,16,143
+Goa,2008,District Jail,0,0,0
+Goa,2008,Sub_Jail,23,112,135
+Goa,2008,Women Jail,0,0,0
+Goa,2008,Borstal School,0,0,0
+Goa,2008,Open Jail,0,0,0
+Goa,2008,Special Jail,0,0,0
+Goa,2008,Others,0,125,125
+Goa,2008,Total,150,253,403
+Goa,2009,Central Jail,132,24,156
+Goa,2009,District Jail,0,0,0
+Goa,2009,Sub_Jail,56,98,154
+Goa,2009,Women Jail,0,0,0
+Goa,2009,Borstal School,0,0,0
+Goa,2009,Open Jail,0,0,0
+Goa,2009,Special Jail,0,0,0
+Goa,2009,Others,0,122,122
+Goa,2009,Total,188,244,432
+Goa,2010,Central Jail,144,27,171
+Goa,2010,District Jail,0,0,0
+Goa,2010,Sub_Jail,33,187,220
+Goa,2010,Women Jail,0,0,0
+Goa,2010,Borstal School,0,0,0
+Goa,2010,Open Jail,0,0,0
+Goa,2010,Special Jail,0,0,0
+Goa,2010,Others,0,65,65
+Goa,2010,Total,177,279,456
+Goa,2011,Central Jail,118,3,121
+Goa,2011,District Jail,0,0,0
+Goa,2011,Sub_Jail,26,282,308
+Goa,2011,Women Jail,0,0,0
+Goa,2011,Borstal School,0,0,0
+Goa,2011,Open Jail,0,0,0
+Goa,2011,Special Jail,0,0,0
+Goa,2011,Others,0,60,60
+Goa,2011,Total,144,345,489
+Goa,2012,Central Jail,112,3,115
+Goa,2012,District Jail,0,0,0
+Goa,2012,Sub_Jail,24,271,295
+Goa,2012,Women Jail,0,0,0
+Goa,2012,Borstal School,0,0,0
+Goa,2012,Open Jail,0,0,0
+Goa,2012,Special Jail,0,0,0
+Goa,2012,Others,0,62,62
+Goa,2012,Total,136,336,472
+Gujarat,2001,Central Jail,2371,1387,3758
+Gujarat,2001,District Jail,385,2416,2801
+Gujarat,2001,Sub_Jail,68,1681,1749
+Gujarat,2001,Women Jail,0,0,0
+Gujarat,2001,Borstal School,0,0,0
+Gujarat,2001,Open Jail,82,0,82
+Gujarat,2001,Special Jail,10,73,83
+Gujarat,2001,Others,0,0,0
+Gujarat,2001,Total,2916,5557,8473
+Gujarat,2002,Central Jail,2677,1635,4312
+Gujarat,2002,District Jail,413,2737,3150
+Gujarat,2002,Sub_Jail,100,1932,2032
+Gujarat,2002,Women Jail,0,0,0
+Gujarat,2002,Borstal School,0,0,0
+Gujarat,2002,Open Jail,86,0,86
+Gujarat,2002,Special Jail,10,65,75
+Gujarat,2002,Others,0,0,0
+Gujarat,2002,Total,3286,6369,9655
+Gujarat,2003,Central Jail,2829,1877,4706
+Gujarat,2003,District Jail,406,2629,3035
+Gujarat,2003,Sub_Jail,116,1782,1898
+Gujarat,2003,Women Jail,0,0,0
+Gujarat,2003,Borstal School,0,0,0
+Gujarat,2003,Open Jail,66,0,66
+Gujarat,2003,Special Jail,11,133,144
+Gujarat,2003,Others,0,0,0
+Gujarat,2003,Total,3428,6421,9849
+Gujarat,2004,Central Jail,3216,2223,5439
+Gujarat,2004,District Jail,423,2945,3368
+Gujarat,2004,Sub_Jail,137,1864,2001
+Gujarat,2004,Women Jail,0,0,0
+Gujarat,2004,Borstal School,0,0,0
+Gujarat,2004,Open Jail,93,0,93
+Gujarat,2004,Special Jail,12,170,182
+Gujarat,2004,Others,0,0,0
+Gujarat,2004,Total,3881,7202,11083
+Gujarat,2005,Central Jail,3712,2162,5874
+Gujarat,2005,District Jail,526,2557,3083
+Gujarat,2005,Sub_Jail,120,1554,1674
+Gujarat,2005,Women Jail,0,0,0
+Gujarat,2005,Borstal School,0,0,0
+Gujarat,2005,Open Jail,77,0,77
+Gujarat,2005,Special Jail,10,178,188
+Gujarat,2005,Others,0,0,0
+Gujarat,2005,Total,4445,6451,10896
+Gujarat,2006,Central Jail,4182,2074,6256
+Gujarat,2006,District Jail,618,2582,3200
+Gujarat,2006,Sub_Jail,143,1582,1725
+Gujarat,2006,Women Jail,0,0,0
+Gujarat,2006,Borstal School,0,0,0
+Gujarat,2006,Open Jail,75,0,75
+Gujarat,2006,Special Jail,10,149,159
+Gujarat,2006,Others,0,0,0
+Gujarat,2006,Total,5028,6387,11415
+Gujarat,2007,Central Jail,4262,1761,6023
+Gujarat,2007,District Jail,601,2723,3324
+Gujarat,2007,Sub_Jail,114,1236,1350
+Gujarat,2007,Women Jail,0,0,0
+Gujarat,2007,Borstal School,0,0,0
+Gujarat,2007,Open Jail,68,0,68
+Gujarat,2007,Special Jail,24,166,190
+Gujarat,2007,Others,0,0,0
+Gujarat,2007,Total,5069,5886,10955
+Gujarat,2008,Central Jail,4174,1965,6139
+Gujarat,2008,District Jail,570,3223,3793
+Gujarat,2008,Sub_Jail,101,1604,1705
+Gujarat,2008,Women Jail,0,0,0
+Gujarat,2008,Borstal School,0,0,0
+Gujarat,2008,Open Jail,62,0,62
+Gujarat,2008,Special Jail,20,179,199
+Gujarat,2008,Others,0,0,0
+Gujarat,2008,Total,4927,6971,11898
+Gujarat,2009,Central Jail,3571,2153,5724
+Gujarat,2009,District Jail,601,3180,3781
+Gujarat,2009,Sub_Jail,96,1478,1574
+Gujarat,2009,Women Jail,0,0,0
+Gujarat,2009,Borstal School,0,0,0
+Gujarat,2009,Open Jail,69,0,69
+Gujarat,2009,Special Jail,43,395,438
+Gujarat,2009,Others,0,0,0
+Gujarat,2009,Total,4380,7206,11586
+Gujarat,2010,Central Jail,3551,2192,5743
+Gujarat,2010,District Jail,631,2820,3451
+Gujarat,2010,Sub_Jail,73,1456,1529
+Gujarat,2010,Women Jail,0,0,0
+Gujarat,2010,Borstal School,0,0,0
+Gujarat,2010,Open Jail,74,0,74
+Gujarat,2010,Special Jail,45,442,487
+Gujarat,2010,Others,0,0,0
+Gujarat,2010,Total,4374,6910,11284
+Gujarat,2011,Central Jail,3609,1934,5543
+Gujarat,2011,District Jail,684,2913,3597
+Gujarat,2011,Sub_Jail,94,1360,1454
+Gujarat,2011,Women Jail,0,0,0
+Gujarat,2011,Borstal School,0,0,0
+Gujarat,2011,Open Jail,74,0,74
+Gujarat,2011,Special Jail,43,489,532
+Gujarat,2011,Others,0,0,0
+Gujarat,2011,Total,4504,6696,11200
+Gujarat,2012,Central Jail,3869,3164,7033
+Gujarat,2012,District Jail,260,1822,2082
+Gujarat,2012,Sub_Jail,112,1170,1282
+Gujarat,2012,Women Jail,84,14,98
+Gujarat,2012,Borstal School,0,0,0
+Gujarat,2012,Open Jail,72,0,72
+Gujarat,2012,Special Jail,56,443,499
+Gujarat,2012,Others,0,0,0
+Gujarat,2012,Total,4453,6613,11066
+Haryana,2001,Central Jail,1229,2466,3695
+Haryana,2001,District Jail,1734,5148,6882
+Haryana,2001,Sub_Jail,7,426,433
+Haryana,2001,Women Jail,0,0,0
+Haryana,2001,Borstal School,122,172,294
+Haryana,2001,Open Jail,0,0,0
+Haryana,2001,Special Jail,0,0,0
+Haryana,2001,Others,0,0,0
+Haryana,2001,Total,3092,8212,11304
+Haryana,2002,Central Jail,1399,2282,3681
+Haryana,2002,District Jail,2098,4861,6959
+Haryana,2002,Sub_Jail,5,435,440
+Haryana,2002,Women Jail,0,0,0
+Haryana,2002,Borstal School,131,139,270
+Haryana,2002,Open Jail,0,0,0
+Haryana,2002,Special Jail,0,0,0
+Haryana,2002,Others,0,0,0
+Haryana,2002,Total,3633,7717,11350
+Haryana,2003,Central Jail,1596,2067,3663
+Haryana,2003,District Jail,2728,5027,7755
+Haryana,2003,Sub_Jail,0,294,294
+Haryana,2003,Women Jail,0,0,0
+Haryana,2003,Borstal School,119,116,235
+Haryana,2003,Open Jail,0,0,0
+Haryana,2003,Special Jail,0,0,0
+Haryana,2003,Others,0,0,0
+Haryana,2003,Total,4443,7504,11947
+Haryana,2004,Central Jail,1569,2014,3583
+Haryana,2004,District Jail,2923,4969,7892
+Haryana,2004,Sub_Jail,0,316,316
+Haryana,2004,Women Jail,0,0,0
+Haryana,2004,Borstal School,109,97,206
+Haryana,2004,Open Jail,0,0,0
+Haryana,2004,Special Jail,0,0,0
+Haryana,2004,Others,0,0,0
+Haryana,2004,Total,4601,7396,11997
+Haryana,2005,Central Jail,1273,1527,2800
+Haryana,2005,District Jail,3450,5753,9203
+Haryana,2005,Sub_Jail,0,300,300
+Haryana,2005,Women Jail,0,0,0
+Haryana,2005,Borstal School,70,137,207
+Haryana,2005,Open Jail,0,0,0
+Haryana,2005,Special Jail,0,0,0
+Haryana,2005,Others,0,0,0
+Haryana,2005,Total,4793,7717,12510
+Haryana,2006,Central Jail,1194,1445,2639
+Haryana,2006,District Jail,3720,5849,9569
+Haryana,2006,Sub_Jail,0,253,253
+Haryana,2006,Women Jail,0,0,0
+Haryana,2006,Borstal School,74,139,213
+Haryana,2006,Open Jail,0,0,0
+Haryana,2006,Special Jail,0,0,0
+Haryana,2006,Others,0,0,0
+Haryana,2006,Total,4988,7686,12674
+Haryana,2007,Central Jail,1159,1535,2694
+Haryana,2007,District Jail,3740,6259,9999
+Haryana,2007,Sub_Jail,0,224,224
+Haryana,2007,Women Jail,0,0,0
+Haryana,2007,Borstal School,77,99,176
+Haryana,2007,Open Jail,0,0,0
+Haryana,2007,Special Jail,0,0,0
+Haryana,2007,Others,0,0,0
+Haryana,2007,Total,4976,8117,13093
+Haryana,2008,Central Jail,1361,1561,2922
+Haryana,2008,District Jail,3932,6723,10655
+Haryana,2008,Sub_Jail,0,251,251
+Haryana,2008,Women Jail,0,0,0
+Haryana,2008,Borstal School,94,127,221
+Haryana,2008,Open Jail,0,0,0
+Haryana,2008,Special Jail,0,0,0
+Haryana,2008,Others,0,0,0
+Haryana,2008,Total,5387,8662,14049
+Haryana,2009,Central Jail,1205,1384,2589
+Haryana,2009,District Jail,4461,6420,10881
+Haryana,2009,Sub_Jail,0,111,111
+Haryana,2009,Women Jail,0,0,0
+Haryana,2009,Borstal School,126,126,252
+Haryana,2009,Open Jail,0,0,0
+Haryana,2009,Special Jail,0,0,0
+Haryana,2009,Others,0,0,0
+Haryana,2009,Total,5792,8041,13833
+Haryana,2010,Central Jail,1245,1451,2696
+Haryana,2010,District Jail,4871,6413,11284
+Haryana,2010,Sub_Jail,0,0,0
+Haryana,2010,Women Jail,0,0,0
+Haryana,2010,Borstal School,95,144,239
+Haryana,2010,Open Jail,0,0,0
+Haryana,2010,Special Jail,0,0,0
+Haryana,2010,Others,0,0,0
+Haryana,2010,Total,6211,8008,14219
+Haryana,2011,Central Jail,1121,1490,2611
+Haryana,2011,District Jail,5322,6864,12186
+Haryana,2011,Sub_Jail,0,0,0
+Haryana,2011,Women Jail,0,0,0
+Haryana,2011,Borstal School,86,149,235
+Haryana,2011,Open Jail,0,0,0
+Haryana,2011,Special Jail,0,0,0
+Haryana,2011,Others,0,0,0
+Haryana,2011,Total,6529,8503,15032
+Haryana,2012,Central Jail,1215,1757,2972
+Haryana,2012,District Jail,5389,8286,13675
+Haryana,2012,Sub_Jail,0,0,0
+Haryana,2012,Women Jail,0,0,0
+Haryana,2012,Borstal School,97,208,305
+Haryana,2012,Open Jail,0,0,0
+Haryana,2012,Special Jail,0,0,0
+Haryana,2012,Others,0,0,0
+Haryana,2012,Total,6701,10251,16952
+Himachal Pradesh,2001,Central Jail,294,106,400
+Himachal Pradesh,2001,District Jail,29,132,161
+Himachal Pradesh,2001,Sub_Jail,24,274,298
+Himachal Pradesh,2001,Women Jail,0,0,0
+Himachal Pradesh,2001,Borstal School,7,0,7
+Himachal Pradesh,2001,Open Jail,41,0,41
+Himachal Pradesh,2001,Special Jail,0,0,0
+Himachal Pradesh,2001,Others,0,0,0
+Himachal Pradesh,2001,Total,395,512,907
+Himachal Pradesh,2002,Central Jail,339,68,407
+Himachal Pradesh,2002,District Jail,23,127,150
+Himachal Pradesh,2002,Sub_Jail,11,283,294
+Himachal Pradesh,2002,Women Jail,0,0,0
+Himachal Pradesh,2002,Borstal School,13,0,13
+Himachal Pradesh,2002,Open Jail,33,0,33
+Himachal Pradesh,2002,Special Jail,0,0,0
+Himachal Pradesh,2002,Others,0,0,0
+Himachal Pradesh,2002,Total,419,478,897
+Himachal Pradesh,2003,Central Jail,390,69,459
+Himachal Pradesh,2003,District Jail,37,164,201
+Himachal Pradesh,2003,Sub_Jail,15,269,284
+Himachal Pradesh,2003,Women Jail,0,0,0
+Himachal Pradesh,2003,Borstal School,4,0,4
+Himachal Pradesh,2003,Open Jail,30,0,30
+Himachal Pradesh,2003,Special Jail,0,0,0
+Himachal Pradesh,2003,Others,0,0,0
+Himachal Pradesh,2003,Total,476,502,978
+Himachal Pradesh,2004,Central Jail,442,112,554
+Himachal Pradesh,2004,District Jail,66,130,196
+Himachal Pradesh,2004,Sub_Jail,8,245,253
+Himachal Pradesh,2004,Women Jail,0,0,0
+Himachal Pradesh,2004,Borstal School,5,0,5
+Himachal Pradesh,2004,Open Jail,36,0,36
+Himachal Pradesh,2004,Special Jail,0,0,0
+Himachal Pradesh,2004,Others,0,0,0
+Himachal Pradesh,2004,Total,557,487,1044
+Himachal Pradesh,2005,Central Jail,464,127,591
+Himachal Pradesh,2005,District Jail,91,134,225
+Himachal Pradesh,2005,Sub_Jail,23,275,298
+Himachal Pradesh,2005,Women Jail,0,0,0
+Himachal Pradesh,2005,Borstal School,20,0,20
+Himachal Pradesh,2005,Open Jail,34,0,34
+Himachal Pradesh,2005,Special Jail,0,0,0
+Himachal Pradesh,2005,Others,0,0,0
+Himachal Pradesh,2005,Total,632,536,1168
+Himachal Pradesh,2006,Central Jail,560,163,723
+Himachal Pradesh,2006,District Jail,128,143,271
+Himachal Pradesh,2006,Sub_Jail,21,266,287
+Himachal Pradesh,2006,Women Jail,0,0,0
+Himachal Pradesh,2006,Borstal School,17,0,17
+Himachal Pradesh,2006,Open Jail,38,0,38
+Himachal Pradesh,2006,Special Jail,0,0,0
+Himachal Pradesh,2006,Others,0,0,0
+Himachal Pradesh,2006,Total,764,572,1336
+Himachal Pradesh,2007,Central Jail,634,147,781
+Himachal Pradesh,2007,District Jail,158,137,295
+Himachal Pradesh,2007,Sub_Jail,21,276,297
+Himachal Pradesh,2007,Women Jail,0,0,0
+Himachal Pradesh,2007,Borstal School,13,0,13
+Himachal Pradesh,2007,Open Jail,49,0,49
+Himachal Pradesh,2007,Special Jail,0,0,0
+Himachal Pradesh,2007,Others,0,0,0
+Himachal Pradesh,2007,Total,875,560,1435
+Himachal Pradesh,2008,Central Jail,614,104,718
+Himachal Pradesh,2008,District Jail,185,140,325
+Himachal Pradesh,2008,Sub_Jail,31,334,365
+Himachal Pradesh,2008,Women Jail,0,0,0
+Himachal Pradesh,2008,Borstal School,10,0,10
+Himachal Pradesh,2008,Open Jail,50,0,50
+Himachal Pradesh,2008,Special Jail,0,0,0
+Himachal Pradesh,2008,Others,0,0,0
+Himachal Pradesh,2008,Total,890,578,1468
+Himachal Pradesh,2009,Central Jail,580,146,726
+Himachal Pradesh,2009,District Jail,170,190,360
+Himachal Pradesh,2009,Sub_Jail,27,376,403
+Himachal Pradesh,2009,Women Jail,0,0,0
+Himachal Pradesh,2009,Borstal School,10,0,10
+Himachal Pradesh,2009,Open Jail,55,0,55
+Himachal Pradesh,2009,Special Jail,0,0,0
+Himachal Pradesh,2009,Others,0,0,0
+Himachal Pradesh,2009,Total,842,712,1554
+Himachal Pradesh,2010,Central Jail,666,168,834
+Himachal Pradesh,2010,District Jail,206,130,336
+Himachal Pradesh,2010,Sub_Jail,28,325,353
+Himachal Pradesh,2010,Women Jail,0,0,0
+Himachal Pradesh,2010,Borstal School,9,0,9
+Himachal Pradesh,2010,Open Jail,53,0,53
+Himachal Pradesh,2010,Special Jail,0,0,0
+Himachal Pradesh,2010,Others,0,0,0
+Himachal Pradesh,2010,Total,962,623,1585
+Himachal Pradesh,2011,Central Jail,572,175,747
+Himachal Pradesh,2011,District Jail,201,119,320
+Himachal Pradesh,2011,Sub_Jail,102,371,473
+Himachal Pradesh,2011,Women Jail,0,0,0
+Himachal Pradesh,2011,Borstal School,4,0,4
+Himachal Pradesh,2011,Open Jail,63,0,63
+Himachal Pradesh,2011,Special Jail,0,0,0
+Himachal Pradesh,2011,Others,0,0,0
+Himachal Pradesh,2011,Total,942,665,1607
+Himachal Pradesh,2012,Central Jail,585,156,741
+Himachal Pradesh,2012,District Jail,187,158,345
+Himachal Pradesh,2012,Sub_Jail,106,450,556
+Himachal Pradesh,2012,Women Jail,0,0,0
+Himachal Pradesh,2012,Borstal School,3,0,3
+Himachal Pradesh,2012,Open Jail,71,0,71
+Himachal Pradesh,2012,Special Jail,0,0,0
+Himachal Pradesh,2012,Others,0,0,0
+Himachal Pradesh,2012,Total,952,764,1716
+Jammu & Kashmir,2001,Central Jail,29,338,367
+Jammu & Kashmir,2001,District Jail,87,699,786
+Jammu & Kashmir,2001,Sub_Jail,7,68,75
+Jammu & Kashmir,2001,Women Jail,0,0,0
+Jammu & Kashmir,2001,Borstal School,0,0,0
+Jammu & Kashmir,2001,Open Jail,0,0,0
+Jammu & Kashmir,2001,Special Jail,0,0,0
+Jammu & Kashmir,2001,Others,0,0,0
+Jammu & Kashmir,2001,Total,123,1105,1228
+Jammu & Kashmir,2002,Central Jail,40,398,438
+Jammu & Kashmir,2002,District Jail,83,761,844
+Jammu & Kashmir,2002,Sub_Jail,6,70,76
+Jammu & Kashmir,2002,Women Jail,0,0,0
+Jammu & Kashmir,2002,Borstal School,0,0,0
+Jammu & Kashmir,2002,Open Jail,0,0,0
+Jammu & Kashmir,2002,Special Jail,0,0,0
+Jammu & Kashmir,2002,Others,0,0,0
+Jammu & Kashmir,2002,Total,129,1229,1358
+Jammu & Kashmir,2003,Central Jail,49,371,420
+Jammu & Kashmir,2003,District Jail,114,896,1010
+Jammu & Kashmir,2003,Sub_Jail,5,63,68
+Jammu & Kashmir,2003,Women Jail,0,0,0
+Jammu & Kashmir,2003,Borstal School,0,0,0
+Jammu & Kashmir,2003,Open Jail,0,0,0
+Jammu & Kashmir,2003,Special Jail,0,0,0
+Jammu & Kashmir,2003,Others,0,0,0
+Jammu & Kashmir,2003,Total,168,1330,1498
+Jammu & Kashmir,2004,Central Jail,72,466,538
+Jammu & Kashmir,2004,District Jail,118,856,974
+Jammu & Kashmir,2004,Sub_Jail,10,65,75
+Jammu & Kashmir,2004,Women Jail,0,0,0
+Jammu & Kashmir,2004,Borstal School,0,0,0
+Jammu & Kashmir,2004,Open Jail,0,0,0
+Jammu & Kashmir,2004,Special Jail,0,0,0
+Jammu & Kashmir,2004,Others,0,0,0
+Jammu & Kashmir,2004,Total,200,1387,1587
+Jammu & Kashmir,2005,Central Jail,88,527,615
+Jammu & Kashmir,2005,District Jail,126,939,1065
+Jammu & Kashmir,2005,Sub_Jail,7,73,80
+Jammu & Kashmir,2005,Women Jail,0,0,0
+Jammu & Kashmir,2005,Borstal School,0,0,0
+Jammu & Kashmir,2005,Open Jail,0,0,0
+Jammu & Kashmir,2005,Special Jail,0,0,0
+Jammu & Kashmir,2005,Others,0,0,0
+Jammu & Kashmir,2005,Total,221,1539,1760
+Jammu & Kashmir,2006,Central Jail,82,521,603
+Jammu & Kashmir,2006,District Jail,174,1040,1214
+Jammu & Kashmir,2006,Sub_Jail,8,73,81
+Jammu & Kashmir,2006,Women Jail,0,0,0
+Jammu & Kashmir,2006,Borstal School,0,0,0
+Jammu & Kashmir,2006,Open Jail,0,0,0
+Jammu & Kashmir,2006,Special Jail,0,0,0
+Jammu & Kashmir,2006,Others,0,0,0
+Jammu & Kashmir,2006,Total,264,1634,1898
+Jammu & Kashmir,2007,Central Jail,92,525,617
+Jammu & Kashmir,2007,District Jail,181,1126,1307
+Jammu & Kashmir,2007,Sub_Jail,19,81,100
+Jammu & Kashmir,2007,Women Jail,0,0,0
+Jammu & Kashmir,2007,Borstal School,0,0,0
+Jammu & Kashmir,2007,Open Jail,0,0,0
+Jammu & Kashmir,2007,Special Jail,0,0,0
+Jammu & Kashmir,2007,Others,0,0,0
+Jammu & Kashmir,2007,Total,292,1732,2024
+Jammu & Kashmir,2008,Central Jail,110,472,582
+Jammu & Kashmir,2008,District Jail,218,1144,1362
+Jammu & Kashmir,2008,Sub_Jail,10,90,100
+Jammu & Kashmir,2008,Women Jail,0,0,0
+Jammu & Kashmir,2008,Borstal School,0,0,0
+Jammu & Kashmir,2008,Open Jail,0,0,0
+Jammu & Kashmir,2008,Special Jail,0,0,0
+Jammu & Kashmir,2008,Others,0,0,0
+Jammu & Kashmir,2008,Total,338,1706,2044
+Jammu & Kashmir,2009,Central Jail,162,549,711
+Jammu & Kashmir,2009,District Jail,192,1119,1311
+Jammu & Kashmir,2009,Sub_Jail,4,153,157
+Jammu & Kashmir,2009,Women Jail,0,0,0
+Jammu & Kashmir,2009,Borstal School,0,0,0
+Jammu & Kashmir,2009,Open Jail,0,0,0
+Jammu & Kashmir,2009,Special Jail,0,0,0
+Jammu & Kashmir,2009,Others,0,0,0
+Jammu & Kashmir,2009,Total,358,1821,2179
+Jammu & Kashmir,2010,Central Jail,152,595,747
+Jammu & Kashmir,2010,District Jail,106,1210,1316
+Jammu & Kashmir,2010,Sub_Jail,1,102,103
+Jammu & Kashmir,2010,Women Jail,0,0,0
+Jammu & Kashmir,2010,Borstal School,0,0,0
+Jammu & Kashmir,2010,Open Jail,0,0,0
+Jammu & Kashmir,2010,Special Jail,0,0,0
+Jammu & Kashmir,2010,Others,0,0,0
+Jammu & Kashmir,2010,Total,259,1907,2166
+Jammu & Kashmir,2011,Central Jail,196,713,909
+Jammu & Kashmir,2011,District Jail,105,1237,1342
+Jammu & Kashmir,2011,Sub_Jail,0,163,163
+Jammu & Kashmir,2011,Women Jail,0,0,0
+Jammu & Kashmir,2011,Borstal School,0,0,0
+Jammu & Kashmir,2011,Open Jail,0,0,0
+Jammu & Kashmir,2011,Special Jail,0,0,0
+Jammu & Kashmir,2011,Others,0,0,0
+Jammu & Kashmir,2011,Total,301,2113,2414
+Jammu & Kashmir,2012,Central Jail,225,615,840
+Jammu & Kashmir,2012,District Jail,164,1290,1454
+Jammu & Kashmir,2012,Sub_Jail,0,102,102
+Jammu & Kashmir,2012,Women Jail,0,0,0
+Jammu & Kashmir,2012,Borstal School,0,0,0
+Jammu & Kashmir,2012,Open Jail,0,0,0
+Jammu & Kashmir,2012,Special Jail,0,0,0
+Jammu & Kashmir,2012,Others,0,0,0
+Jammu & Kashmir,2012,Total,389,2007,2396
+Jharkhand,2001,Central Jail,1901,2458,4359
+Jharkhand,2001,District Jail,304,5303,5607
+Jharkhand,2001,Sub_Jail,215,6272,6487
+Jharkhand,2001,Women Jail,0,0,0
+Jharkhand,2001,Borstal School,0,45,45
+Jharkhand,2001,Open Jail,0,0,0
+Jharkhand,2001,Special Jail,0,0,0
+Jharkhand,2001,Others,0,0,0
+Jharkhand,2001,Total,2420,14078,16498
+Jharkhand,2002,Central Jail,2343,1996,4339
+Jharkhand,2002,District Jail,369,4153,4522
+Jharkhand,2002,Sub_Jail,301,5918,6219
+Jharkhand,2002,Women Jail,0,0,0
+Jharkhand,2002,Borstal School,0,27,27
+Jharkhand,2002,Open Jail,0,0,0
+Jharkhand,2002,Special Jail,0,0,0
+Jharkhand,2002,Others,0,0,0
+Jharkhand,2002,Total,3013,12094,15107
+Jharkhand,2003,Central Jail,3299,3484,6783
+Jharkhand,2003,District Jail,533,3023,3556
+Jharkhand,2003,Sub_Jail,422,5590,6012
+Jharkhand,2003,Women Jail,0,0,0
+Jharkhand,2003,Borstal School,3,37,40
+Jharkhand,2003,Open Jail,0,0,0
+Jharkhand,2003,Special Jail,0,0,0
+Jharkhand,2003,Others,0,0,0
+Jharkhand,2003,Total,4257,12134,16391
+Jharkhand,2004,Central Jail,3911,2522,6433
+Jharkhand,2004,District Jail,667,4177,4844
+Jharkhand,2004,Sub_Jail,460,5708,6168
+Jharkhand,2004,Women Jail,0,0,0
+Jharkhand,2004,Borstal School,2,40,42
+Jharkhand,2004,Open Jail,0,0,0
+Jharkhand,2004,Special Jail,0,0,0
+Jharkhand,2004,Others,0,0,0
+Jharkhand,2004,Total,5040,12447,17487
+Jharkhand,2005,Central Jail,4312,3123,7435
+Jharkhand,2005,District Jail,927,9376,10303
+Jharkhand,2005,Sub_Jail,53,1412,1465
+Jharkhand,2005,Women Jail,0,0,0
+Jharkhand,2005,Borstal School,2,28,30
+Jharkhand,2005,Open Jail,0,0,0
+Jharkhand,2005,Special Jail,0,0,0
+Jharkhand,2005,Others,0,0,0
+Jharkhand,2005,Total,5294,13939,19233
+Jharkhand,2006,Central Jail,6398,3823,10221
+Jharkhand,2006,District Jail,930,8394,9324
+Jharkhand,2006,Sub_Jail,39,1079,1118
+Jharkhand,2006,Women Jail,0,0,0
+Jharkhand,2006,Borstal School,2,43,45
+Jharkhand,2006,Open Jail,0,0,0
+Jharkhand,2006,Special Jail,0,0,0
+Jharkhand,2006,Others,0,0,0
+Jharkhand,2006,Total,7369,13339,20708
+Jharkhand,2007,Central Jail,4843,2800,7643
+Jharkhand,2007,District Jail,953,8287,9240
+Jharkhand,2007,Sub_Jail,67,946,1013
+Jharkhand,2007,Women Jail,0,0,0
+Jharkhand,2007,Borstal School,2,30,32
+Jharkhand,2007,Open Jail,0,0,0
+Jharkhand,2007,Special Jail,0,0,0
+Jharkhand,2007,Others,0,0,0
+Jharkhand,2007,Total,5865,12063,17928
+Jharkhand,2008,Central Jail,4845,3027,7872
+Jharkhand,2008,District Jail,867,8522,9389
+Jharkhand,2008,Sub_Jail,71,1024,1095
+Jharkhand,2008,Women Jail,0,0,0
+Jharkhand,2008,Borstal School,1,37,38
+Jharkhand,2008,Open Jail,0,0,0
+Jharkhand,2008,Special Jail,0,0,0
+Jharkhand,2008,Others,0,0,0
+Jharkhand,2008,Total,5784,12610,18394
+Jharkhand,2009,Central Jail,4591,2934,7525
+Jharkhand,2009,District Jail,835,7857,8692
+Jharkhand,2009,Sub_Jail,82,858,940
+Jharkhand,2009,Women Jail,0,0,0
+Jharkhand,2009,Borstal School,1,33,34
+Jharkhand,2009,Open Jail,0,0,0
+Jharkhand,2009,Special Jail,0,0,0
+Jharkhand,2009,Others,0,0,0
+Jharkhand,2009,Total,5509,11682,17191
+Jharkhand,2010,Central Jail,4678,4297,8975
+Jharkhand,2010,District Jail,539,7481,8020
+Jharkhand,2010,Sub_Jail,44,959,1003
+Jharkhand,2010,Women Jail,0,0,0
+Jharkhand,2010,Borstal School,0,28,28
+Jharkhand,2010,Open Jail,0,0,0
+Jharkhand,2010,Special Jail,0,0,0
+Jharkhand,2010,Others,0,0,0
+Jharkhand,2010,Total,5261,12765,18026
+Jharkhand,2011,Central Jail,4200,4033,8233
+Jharkhand,2011,District Jail,266,7033,7299
+Jharkhand,2011,Sub_Jail,27,985,1012
+Jharkhand,2011,Women Jail,0,0,0
+Jharkhand,2011,Borstal School,0,22,22
+Jharkhand,2011,Open Jail,0,0,0
+Jharkhand,2011,Special Jail,0,0,0
+Jharkhand,2011,Others,0,0,0
+Jharkhand,2011,Total,4493,12073,16566
+Jharkhand,2012,Central Jail,4015,4147,8162
+Jharkhand,2012,District Jail,236,7713,7949
+Jharkhand,2012,Sub_Jail,28,1130,1158
+Jharkhand,2012,Women Jail,0,0,0
+Jharkhand,2012,Borstal School,0,45,45
+Jharkhand,2012,Open Jail,0,0,0
+Jharkhand,2012,Special Jail,0,0,0
+Jharkhand,2012,Others,0,0,0
+Jharkhand,2012,Total,4279,13035,17314
+Karnataka,2001,Central Jail,1713,4009,5722
+Karnataka,2001,District Jail,34,962,996
+Karnataka,2001,Sub_Jail,28,2596,2624
+Karnataka,2001,Women Jail,0,0,0
+Karnataka,2001,Borstal School,0,0,0
+Karnataka,2001,Open Jail,44,0,44
+Karnataka,2001,Special Jail,0,149,149
+Karnataka,2001,Others,84,0,84
+Karnataka,2001,Total,1903,7716,9619
+Karnataka,2002,Central Jail,2110,4038,6148
+Karnataka,2002,District Jail,34,1134,1168
+Karnataka,2002,Sub_Jail,63,2658,2721
+Karnataka,2002,Women Jail,0,0,0
+Karnataka,2002,Borstal School,0,0,0
+Karnataka,2002,Open Jail,27,0,27
+Karnataka,2002,Special Jail,3,142,145
+Karnataka,2002,Others,61,0,61
+Karnataka,2002,Total,2298,7972,10270
+Karnataka,2003,Central Jail,2562,4227,6789
+Karnataka,2003,District Jail,28,986,1014
+Karnataka,2003,Sub_Jail,83,2587,2670
+Karnataka,2003,Women Jail,0,0,0
+Karnataka,2003,Borstal School,0,0,0
+Karnataka,2003,Open Jail,24,0,24
+Karnataka,2003,Special Jail,22,175,197
+Karnataka,2003,Others,54,0,54
+Karnataka,2003,Total,2773,7975,10748
+Karnataka,2004,Central Jail,3245,4014,7259
+Karnataka,2004,District Jail,33,876,909
+Karnataka,2004,Sub_Jail,64,2845,2909
+Karnataka,2004,Women Jail,0,0,0
+Karnataka,2004,Borstal School,0,0,0
+Karnataka,2004,Open Jail,25,0,25
+Karnataka,2004,Special Jail,16,227,243
+Karnataka,2004,Others,64,0,64
+Karnataka,2004,Total,3447,7962,11409
+Karnataka,2005,Central Jail,3810,4266,8076
+Karnataka,2005,District Jail,41,962,1003
+Karnataka,2005,Sub_Jail,88,2583,2671
+Karnataka,2005,Women Jail,0,0,0
+Karnataka,2005,Borstal School,0,0,0
+Karnataka,2005,Open Jail,37,0,37
+Karnataka,2005,Special Jail,15,168,183
+Karnataka,2005,Others,58,0,58
+Karnataka,2005,Total,4049,7979,12028
+Karnataka,2006,Central Jail,3667,4718,8385
+Karnataka,2006,District Jail,42,996,1038
+Karnataka,2006,Sub_Jail,79,2762,2841
+Karnataka,2006,Women Jail,0,0,0
+Karnataka,2006,Borstal School,0,0,0
+Karnataka,2006,Open Jail,33,0,33
+Karnataka,2006,Special Jail,7,173,180
+Karnataka,2006,Others,24,0,24
+Karnataka,2006,Total,3852,8649,12501
+Karnataka,2007,Central Jail,3669,5115,8784
+Karnataka,2007,District Jail,66,1709,1775
+Karnataka,2007,Sub_Jail,31,2059,2090
+Karnataka,2007,Women Jail,0,0,0
+Karnataka,2007,Borstal School,0,0,0
+Karnataka,2007,Open Jail,32,0,32
+Karnataka,2007,Special Jail,8,163,171
+Karnataka,2007,Others,24,0,24
+Karnataka,2007,Total,3830,9046,12876
+Karnataka,2008,Central Jail,3823,5233,9056
+Karnataka,2008,District Jail,51,1853,1904
+Karnataka,2008,Sub_Jail,39,2104,2143
+Karnataka,2008,Women Jail,0,0,0
+Karnataka,2008,Borstal School,0,0,0
+Karnataka,2008,Open Jail,26,0,26
+Karnataka,2008,Special Jail,12,218,230
+Karnataka,2008,Others,8,0,8
+Karnataka,2008,Total,3959,9408,13367
+Karnataka,2009,Central Jail,3602,4899,8501
+Karnataka,2009,District Jail,63,2002,2065
+Karnataka,2009,Sub_Jail,28,2206,2234
+Karnataka,2009,Women Jail,0,0,0
+Karnataka,2009,Borstal School,0,0,0
+Karnataka,2009,Open Jail,19,0,19
+Karnataka,2009,Special Jail,3,214,217
+Karnataka,2009,Others,3,0,3
+Karnataka,2009,Total,3718,9321,13039
+Karnataka,2010,Central Jail,3791,4495,8286
+Karnataka,2010,District Jail,61,2060,2121
+Karnataka,2010,Sub_Jail,37,2009,2046
+Karnataka,2010,Women Jail,0,0,0
+Karnataka,2010,Borstal School,0,0,0
+Karnataka,2010,Open Jail,31,0,31
+Karnataka,2010,Special Jail,3,212,215
+Karnataka,2010,Others,0,0,0
+Karnataka,2010,Total,3923,8776,12699
+Karnataka,2011,Central Jail,4074,4357,8431
+Karnataka,2011,District Jail,58,1902,1960
+Karnataka,2011,Sub_Jail,24,1880,1904
+Karnataka,2011,Women Jail,0,0,0
+Karnataka,2011,Borstal School,0,0,0
+Karnataka,2011,Open Jail,57,0,57
+Karnataka,2011,Special Jail,8,147,155
+Karnataka,2011,Others,0,0,0
+Karnataka,2011,Total,4221,8286,12507
+Karnataka,2012,Central Jail,3941,4580,8521
+Karnataka,2012,District Jail,72,2188,2260
+Karnataka,2012,Sub_Jail,35,1969,2004
+Karnataka,2012,Women Jail,0,0,0
+Karnataka,2012,Borstal School,0,0,0
+Karnataka,2012,Open Jail,51,0,51
+Karnataka,2012,Special Jail,1,203,204
+Karnataka,2012,Others,0,0,0
+Karnataka,2012,Total,4100,8940,13040
+Kerala,2001,Central Jail,1549,1029,2578
+Kerala,2001,District Jail,53,692,745
+Kerala,2001,Sub_Jail,49,1426,1475
+Kerala,2001,Women Jail,33,14,47
+Kerala,2001,Borstal School,1,0,1
+Kerala,2001,Open Jail,125,0,125
+Kerala,2001,Special Jail,7,366,373
+Kerala,2001,Others,0,0,0
+Kerala,2001,Total,1817,3527,5344
+Kerala,2002,Central Jail,1433,913,2346
+Kerala,2002,District Jail,42,722,764
+Kerala,2002,Sub_Jail,30,1496,1526
+Kerala,2002,Women Jail,18,17,35
+Kerala,2002,Borstal School,1,0,1
+Kerala,2002,Open Jail,172,0,172
+Kerala,2002,Special Jail,15,310,325
+Kerala,2002,Others,0,0,0
+Kerala,2002,Total,1711,3458,5169
+Kerala,2003,Central Jail,1821,1539,3360
+Kerala,2003,District Jail,68,786,854
+Kerala,2003,Sub_Jail,31,1406,1437
+Kerala,2003,Women Jail,17,24,41
+Kerala,2003,Borstal School,0,0,0
+Kerala,2003,Open Jail,233,0,233
+Kerala,2003,Special Jail,22,503,525
+Kerala,2003,Others,0,0,0
+Kerala,2003,Total,2192,4258,6450
+Kerala,2004,Central Jail,2388,1296,3684
+Kerala,2004,District Jail,62,977,1039
+Kerala,2004,Sub_Jail,41,1506,1547
+Kerala,2004,Women Jail,23,25,48
+Kerala,2004,Borstal School,0,0,0
+Kerala,2004,Open Jail,234,0,234
+Kerala,2004,Special Jail,32,596,628
+Kerala,2004,Others,0,0,0
+Kerala,2004,Total,2780,4400,7180
+Kerala,2005,Central Jail,2378,1287,3665
+Kerala,2005,District Jail,68,753,821
+Kerala,2005,Sub_Jail,39,1370,1409
+Kerala,2005,Women Jail,28,22,50
+Kerala,2005,Borstal School,0,0,0
+Kerala,2005,Open Jail,262,0,262
+Kerala,2005,Special Jail,31,610,641
+Kerala,2005,Others,0,0,0
+Kerala,2005,Total,2806,4042,6848
+Kerala,2006,Central Jail,2485,961,3446
+Kerala,2006,District Jail,78,740,818
+Kerala,2006,Sub_Jail,22,1419,1441
+Kerala,2006,Women Jail,25,21,46
+Kerala,2006,Borstal School,0,0,0
+Kerala,2006,Open Jail,254,0,254
+Kerala,2006,Special Jail,12,478,490
+Kerala,2006,Others,0,0,0
+Kerala,2006,Total,2876,3619,6495
+Kerala,2007,Central Jail,2484,824,3308
+Kerala,2007,District Jail,68,713,781
+Kerala,2007,Sub_Jail,29,1687,1716
+Kerala,2007,Women Jail,24,35,59
+Kerala,2007,Borstal School,0,0,0
+Kerala,2007,Open Jail,291,0,291
+Kerala,2007,Special Jail,20,528,548
+Kerala,2007,Others,0,0,0
+Kerala,2007,Total,2916,3787,6703
+Kerala,2008,Central Jail,2260,904,3164
+Kerala,2008,District Jail,94,730,824
+Kerala,2008,Sub_Jail,26,1759,1785
+Kerala,2008,Women Jail,22,17,39
+Kerala,2008,Borstal School,0,0,0
+Kerala,2008,Open Jail,321,0,321
+Kerala,2008,Special Jail,27,524,551
+Kerala,2008,Others,0,0,0
+Kerala,2008,Total,2750,3934,6684
+Kerala,2009,Central Jail,2394,945,3339
+Kerala,2009,District Jail,52,870,922
+Kerala,2009,Sub_Jail,25,1606,1631
+Kerala,2009,Women Jail,31,21,52
+Kerala,2009,Borstal School,0,0,0
+Kerala,2009,Open Jail,312,0,312
+Kerala,2009,Special Jail,6,636,642
+Kerala,2009,Others,0,0,0
+Kerala,2009,Total,2820,4078,6898
+Kerala,2010,Central Jail,2339,565,2904
+Kerala,2010,District Jail,58,562,620
+Kerala,2010,Sub_Jail,18,2029,2047
+Kerala,2010,Women Jail,34,44,78
+Kerala,2010,Borstal School,0,0,0
+Kerala,2010,Open Jail,333,0,333
+Kerala,2010,Special Jail,2,699,701
+Kerala,2010,Others,0,0,0
+Kerala,2010,Total,2784,3899,6683
+Kerala,2011,Central Jail,1957,328,2285
+Kerala,2011,District Jail,91,1036,1127
+Kerala,2011,Sub_Jail,25,1455,1480
+Kerala,2011,Women Jail,51,60,111
+Kerala,2011,Borstal School,0,0,0
+Kerala,2011,Open Jail,308,0,308
+Kerala,2011,Special Jail,9,896,905
+Kerala,2011,Others,0,0,0
+Kerala,2011,Total,2441,3775,6216
+Kerala,2012,Central Jail,2023,758,2781
+Kerala,2012,District Jail,97,1102,1199
+Kerala,2012,Sub_Jail,98,1284,1382
+Kerala,2012,Women Jail,55,69,124
+Kerala,2012,Borstal School,0,63,63
+Kerala,2012,Open Jail,463,0,463
+Kerala,2012,Special Jail,30,889,919
+Kerala,2012,Others,0,0,0
+Kerala,2012,Total,2766,4165,6931
+Madhya Pradesh,2001,Central Jail,10103,4222,14325
+Madhya Pradesh,2001,District Jail,1236,5200,6436
+Madhya Pradesh,2001,Sub_Jail,657,7415,8072
+Madhya Pradesh,2001,Women Jail,0,0,0
+Madhya Pradesh,2001,Borstal School,199,0,199
+Madhya Pradesh,2001,Open Jail,0,0,0
+Madhya Pradesh,2001,Special Jail,0,0,0
+Madhya Pradesh,2001,Others,0,0,0
+Madhya Pradesh,2001,Total,12195,16837,29032
+Madhya Pradesh,2002,Central Jail,10078,4076,14154
+Madhya Pradesh,2002,District Jail,1185,4197,5382
+Madhya Pradesh,2002,Sub_Jail,643,7362,8005
+Madhya Pradesh,2002,Women Jail,0,0,0
+Madhya Pradesh,2002,Borstal School,151,0,151
+Madhya Pradesh,2002,Open Jail,0,0,0
+Madhya Pradesh,2002,Special Jail,0,0,0
+Madhya Pradesh,2002,Others,0,0,0
+Madhya Pradesh,2002,Total,12057,15635,27692
+Madhya Pradesh,2003,Central Jail,10153,3916,14069
+Madhya Pradesh,2003,District Jail,1522,3504,5026
+Madhya Pradesh,2003,Sub_Jail,958,6573,7531
+Madhya Pradesh,2003,Women Jail,0,0,0
+Madhya Pradesh,2003,Borstal School,147,0,147
+Madhya Pradesh,2003,Open Jail,0,0,0
+Madhya Pradesh,2003,Special Jail,0,0,0
+Madhya Pradesh,2003,Others,0,0,0
+Madhya Pradesh,2003,Total,12780,13993,26773
+Madhya Pradesh,2004,Central Jail,10438,4579,15017
+Madhya Pradesh,2004,District Jail,1452,4382,5834
+Madhya Pradesh,2004,Sub_Jail,1027,6816,7843
+Madhya Pradesh,2004,Women Jail,0,0,0
+Madhya Pradesh,2004,Borstal School,149,0,149
+Madhya Pradesh,2004,Open Jail,0,0,0
+Madhya Pradesh,2004,Special Jail,0,0,0
+Madhya Pradesh,2004,Others,0,0,0
+Madhya Pradesh,2004,Total,13066,15777,28843
+Madhya Pradesh,2005,Central Jail,11414,4616,16030
+Madhya Pradesh,2005,District Jail,1659,4651,6310
+Madhya Pradesh,2005,Sub_Jail,1132,7724,8856
+Madhya Pradesh,2005,Women Jail,0,0,0
+Madhya Pradesh,2005,Borstal School,186,0,186
+Madhya Pradesh,2005,Open Jail,0,0,0
+Madhya Pradesh,2005,Special Jail,0,0,0
+Madhya Pradesh,2005,Others,0,0,0
+Madhya Pradesh,2005,Total,14391,16991,31382
+Madhya Pradesh,2006,Central Jail,12259,4751,17010
+Madhya Pradesh,2006,District Jail,1834,4556,6390
+Madhya Pradesh,2006,Sub_Jail,1122,7379,8501
+Madhya Pradesh,2006,Women Jail,0,0,0
+Madhya Pradesh,2006,Borstal School,0,0,0
+Madhya Pradesh,2006,Open Jail,0,0,0
+Madhya Pradesh,2006,Special Jail,0,0,0
+Madhya Pradesh,2006,Others,0,0,0
+Madhya Pradesh,2006,Total,15215,16686,31901
+Madhya Pradesh,2007,Central Jail,12841,4657,17498
+Madhya Pradesh,2007,District Jail,1980,4205,6185
+Madhya Pradesh,2007,Sub_Jail,1492,7438,8930
+Madhya Pradesh,2007,Women Jail,0,0,0
+Madhya Pradesh,2007,Borstal School,0,0,0
+Madhya Pradesh,2007,Open Jail,0,0,0
+Madhya Pradesh,2007,Special Jail,0,0,0
+Madhya Pradesh,2007,Others,0,0,0
+Madhya Pradesh,2007,Total,16313,16300,32613
+Madhya Pradesh,2008,Central Jail,12426,5130,17556
+Madhya Pradesh,2008,District Jail,2040,5634,7674
+Madhya Pradesh,2008,Sub_Jail,1636,7724,9360
+Madhya Pradesh,2008,Women Jail,0,0,0
+Madhya Pradesh,2008,Borstal School,0,0,0
+Madhya Pradesh,2008,Open Jail,0,0,0
+Madhya Pradesh,2008,Special Jail,0,0,0
+Madhya Pradesh,2008,Others,0,0,0
+Madhya Pradesh,2008,Total,16102,18488,34590
+Madhya Pradesh,2009,Central Jail,11778,4931,16709
+Madhya Pradesh,2009,District Jail,2220,5073,7293
+Madhya Pradesh,2009,Sub_Jail,1369,7307,8676
+Madhya Pradesh,2009,Women Jail,0,0,0
+Madhya Pradesh,2009,Borstal School,0,0,0
+Madhya Pradesh,2009,Open Jail,0,0,0
+Madhya Pradesh,2009,Special Jail,0,0,0
+Madhya Pradesh,2009,Others,0,0,0
+Madhya Pradesh,2009,Total,15367,17311,32678
+Madhya Pradesh,2010,Central Jail,11394,4332,15726
+Madhya Pradesh,2010,District Jail,2099,4878,6977
+Madhya Pradesh,2010,Sub_Jail,1064,7312,8376
+Madhya Pradesh,2010,Women Jail,0,0,0
+Madhya Pradesh,2010,Borstal School,0,0,0
+Madhya Pradesh,2010,Open Jail,22,0,22
+Madhya Pradesh,2010,Special Jail,0,0,0
+Madhya Pradesh,2010,Others,0,0,0
+Madhya Pradesh,2010,Total,14579,16522,31101
+Madhya Pradesh,2011,Central Jail,11848,4534,16382
+Madhya Pradesh,2011,District Jail,3039,4833,7872
+Madhya Pradesh,2011,Sub_Jail,1045,7334,8379
+Madhya Pradesh,2011,Women Jail,0,0,0
+Madhya Pradesh,2011,Borstal School,0,0,0
+Madhya Pradesh,2011,Open Jail,24,0,24
+Madhya Pradesh,2011,Special Jail,0,0,0
+Madhya Pradesh,2011,Others,0,0,0
+Madhya Pradesh,2011,Total,15956,16701,32657
+Madhya Pradesh,2012,Central Jail,11901,4441,16342
+Madhya Pradesh,2012,District Jail,3221,5961,9182
+Madhya Pradesh,2012,Sub_Jail,978,7217,8195
+Madhya Pradesh,2012,Women Jail,0,0,0
+Madhya Pradesh,2012,Borstal School,0,0,0
+Madhya Pradesh,2012,Open Jail,25,0,25
+Madhya Pradesh,2012,Special Jail,0,0,0
+Madhya Pradesh,2012,Others,0,0,0
+Madhya Pradesh,2012,Total,16125,17619,33744
+Maharashtra,2001,Central Jail,5644,9540,15184
+Maharashtra,2001,District Jail,667,5796,6463
+Maharashtra,2001,Sub_Jail,0,0,0
+Maharashtra,2001,Women Jail,0,0,0
+Maharashtra,2001,Borstal School,0,0,0
+Maharashtra,2001,Open Jail,357,0,357
+Maharashtra,2001,Special Jail,21,110,131
+Maharashtra,2001,Others,23,0,23
+Maharashtra,2001,Total,6712,15446,22158
+Maharashtra,2002,Central Jail,6123,8584,14707
+Maharashtra,2002,District Jail,660,5840,6500
+Maharashtra,2002,Sub_Jail,0,0,0
+Maharashtra,2002,Women Jail,0,0,0
+Maharashtra,2002,Borstal School,0,0,0
+Maharashtra,2002,Open Jail,369,0,369
+Maharashtra,2002,Special Jail,24,93,117
+Maharashtra,2002,Others,22,0,22
+Maharashtra,2002,Total,7198,14517,21715
+Maharashtra,2003,Central Jail,6925,9113,16038
+Maharashtra,2003,District Jail,844,6066,6910
+Maharashtra,2003,Sub_Jail,0,0,0
+Maharashtra,2003,Women Jail,14,220,234
+Maharashtra,2003,Borstal School,0,0,0
+Maharashtra,2003,Open Jail,390,0,390
+Maharashtra,2003,Special Jail,24,105,129
+Maharashtra,2003,Others,18,0,18
+Maharashtra,2003,Total,8215,15504,23719
+Maharashtra,2004,Central Jail,7602,9613,17215
+Maharashtra,2004,District Jail,862,5805,6667
+Maharashtra,2004,Sub_Jail,0,0,0
+Maharashtra,2004,Women Jail,15,259,274
+Maharashtra,2004,Borstal School,0,0,0
+Maharashtra,2004,Open Jail,418,0,418
+Maharashtra,2004,Special Jail,20,107,127
+Maharashtra,2004,Others,14,0,14
+Maharashtra,2004,Total,8931,15784,24715
+Maharashtra,2005,Central Jail,7653,9556,17209
+Maharashtra,2005,District Jail,905,5974,6879
+Maharashtra,2005,Sub_Jail,0,0,0
+Maharashtra,2005,Women Jail,12,326,338
+Maharashtra,2005,Borstal School,0,0,0
+Maharashtra,2005,Open Jail,559,0,559
+Maharashtra,2005,Special Jail,86,90,176
+Maharashtra,2005,Others,14,0,14
+Maharashtra,2005,Total,9229,15946,25175
+Maharashtra,2006,Central Jail,7598,9597,17195
+Maharashtra,2006,District Jail,764,6137,6901
+Maharashtra,2006,Sub_Jail,7,157,164
+Maharashtra,2006,Women Jail,36,345,381
+Maharashtra,2006,Borstal School,0,0,0
+Maharashtra,2006,Open Jail,642,0,642
+Maharashtra,2006,Special Jail,72,129,201
+Maharashtra,2006,Others,30,0,30
+Maharashtra,2006,Total,9149,16365,25514
+Maharashtra,2007,Central Jail,7809,9505,17314
+Maharashtra,2007,District Jail,681,6572,7253
+Maharashtra,2007,Sub_Jail,4,130,134
+Maharashtra,2007,Women Jail,26,193,219
+Maharashtra,2007,Borstal School,0,0,0
+Maharashtra,2007,Open Jail,624,0,624
+Maharashtra,2007,Special Jail,35,137,172
+Maharashtra,2007,Others,24,0,24
+Maharashtra,2007,Total,9203,16537,25740
+Maharashtra,2008,Central Jail,7967,9797,17764
+Maharashtra,2008,District Jail,559,6215,6774
+Maharashtra,2008,Sub_Jail,0,123,123
+Maharashtra,2008,Women Jail,18,296,314
+Maharashtra,2008,Borstal School,0,0,0
+Maharashtra,2008,Open Jail,584,0,584
+Maharashtra,2008,Special Jail,26,123,149
+Maharashtra,2008,Others,10,0,10
+Maharashtra,2008,Total,9164,16554,25718
+Maharashtra,2009,Central Jail,7350,9773,17123
+Maharashtra,2009,District Jail,469,5741,6210
+Maharashtra,2009,Sub_Jail,4,263,267
+Maharashtra,2009,Women Jail,49,323,372
+Maharashtra,2009,Borstal School,0,0,0
+Maharashtra,2009,Open Jail,713,0,713
+Maharashtra,2009,Special Jail,16,80,96
+Maharashtra,2009,Others,21,0,21
+Maharashtra,2009,Total,8622,16180,24802
+Maharashtra,2010,Central Jail,6873,9964,16837
+Maharashtra,2010,District Jail,418,5564,5982
+Maharashtra,2010,Sub_Jail,10,207,217
+Maharashtra,2010,Women Jail,5,253,258
+Maharashtra,2010,Borstal School,0,0,0
+Maharashtra,2010,Open Jail,817,0,817
+Maharashtra,2010,Special Jail,4,77,81
+Maharashtra,2010,Others,12,0,12
+Maharashtra,2010,Total,8139,16065,24204
+Maharashtra,2011,Central Jail,6631,10030,16661
+Maharashtra,2011,District Jail,484,5689,6173
+Maharashtra,2011,Sub_Jail,0,47,47
+Maharashtra,2011,Women Jail,25,231,256
+Maharashtra,2011,Borstal School,0,0,0
+Maharashtra,2011,Open Jail,782,0,782
+Maharashtra,2011,Special Jail,9,67,76
+Maharashtra,2011,Others,21,0,21
+Maharashtra,2011,Total,7952,16064,24016
+Maharashtra,2012,Central Jail,6859,10110,16969
+Maharashtra,2012,District Jail,449,5918,6367
+Maharashtra,2012,Sub_Jail,0,46,46
+Maharashtra,2012,Women Jail,4,277,281
+Maharashtra,2012,Borstal School,0,0,0
+Maharashtra,2012,Open Jail,689,0,689
+Maharashtra,2012,Special Jail,7,75,82
+Maharashtra,2012,Others,18,0,18
+Maharashtra,2012,Total,8026,16426,24452
+Manipur,2001,Central Jail,22,328,350
+Manipur,2001,District Jail,0,16,16
+Manipur,2001,Sub_Jail,0,0,0
+Manipur,2001,Women Jail,0,0,0
+Manipur,2001,Borstal School,0,0,0
+Manipur,2001,Open Jail,0,0,0
+Manipur,2001,Special Jail,0,0,0
+Manipur,2001,Others,0,0,0
+Manipur,2001,Total,22,344,366
+Manipur,2002,Central Jail,37,353,390
+Manipur,2002,District Jail,0,7,7
+Manipur,2002,Sub_Jail,0,0,0
+Manipur,2002,Women Jail,0,0,0
+Manipur,2002,Borstal School,0,0,0
+Manipur,2002,Open Jail,0,0,0
+Manipur,2002,Special Jail,0,0,0
+Manipur,2002,Others,0,0,0
+Manipur,2002,Total,37,360,397
+Manipur,2003,Central Jail,33,356,389
+Manipur,2003,District Jail,0,5,5
+Manipur,2003,Sub_Jail,0,0,0
+Manipur,2003,Women Jail,0,0,0
+Manipur,2003,Borstal School,0,0,0
+Manipur,2003,Open Jail,0,0,0
+Manipur,2003,Special Jail,0,0,0
+Manipur,2003,Others,0,0,0
+Manipur,2003,Total,33,361,394
+Manipur,2004,Central Jail,32,359,391
+Manipur,2004,District Jail,0,0,0
+Manipur,2004,Sub_Jail,0,0,0
+Manipur,2004,Women Jail,0,0,0
+Manipur,2004,Borstal School,0,0,0
+Manipur,2004,Open Jail,0,0,0
+Manipur,2004,Special Jail,0,0,0
+Manipur,2004,Others,0,0,0
+Manipur,2004,Total,32,359,391
+Manipur,2005,Central Jail,31,395,426
+Manipur,2005,District Jail,0,0,0
+Manipur,2005,Sub_Jail,0,0,0
+Manipur,2005,Women Jail,0,0,0
+Manipur,2005,Borstal School,0,0,0
+Manipur,2005,Open Jail,0,0,0
+Manipur,2005,Special Jail,0,0,0
+Manipur,2005,Others,0,0,0
+Manipur,2005,Total,31,395,426
+Manipur,2006,Central Jail,33,323,356
+Manipur,2006,District Jail,0,0,0
+Manipur,2006,Sub_Jail,0,0,0
+Manipur,2006,Women Jail,0,0,0
+Manipur,2006,Borstal School,0,0,0
+Manipur,2006,Open Jail,0,0,0
+Manipur,2006,Special Jail,0,0,0
+Manipur,2006,Others,0,0,0
+Manipur,2006,Total,33,323,356
+Manipur,2007,Central Jail,56,252,308
+Manipur,2007,District Jail,0,0,0
+Manipur,2007,Sub_Jail,0,0,0
+Manipur,2007,Women Jail,0,0,0
+Manipur,2007,Borstal School,0,0,0
+Manipur,2007,Open Jail,0,0,0
+Manipur,2007,Special Jail,0,0,0
+Manipur,2007,Others,0,0,0
+Manipur,2007,Total,56,252,308
+Manipur,2008,Central Jail,36,269,305
+Manipur,2008,District Jail,0,0,0
+Manipur,2008,Sub_Jail,0,0,0
+Manipur,2008,Women Jail,0,0,0
+Manipur,2008,Borstal School,0,0,0
+Manipur,2008,Open Jail,0,0,0
+Manipur,2008,Special Jail,0,0,0
+Manipur,2008,Others,0,0,0
+Manipur,2008,Total,36,269,305
+Manipur,2009,Central Jail,34,355,389
+Manipur,2009,District Jail,0,0,0
+Manipur,2009,Sub_Jail,0,0,0
+Manipur,2009,Women Jail,0,0,0
+Manipur,2009,Borstal School,0,0,0
+Manipur,2009,Open Jail,0,0,0
+Manipur,2009,Special Jail,0,0,0
+Manipur,2009,Others,0,0,0
+Manipur,2009,Total,34,355,389
+Manipur,2010,Central Jail,32,373,405
+Manipur,2010,District Jail,0,0,0
+Manipur,2010,Sub_Jail,0,0,0
+Manipur,2010,Women Jail,0,0,0
+Manipur,2010,Borstal School,0,0,0
+Manipur,2010,Open Jail,0,0,0
+Manipur,2010,Special Jail,0,0,0
+Manipur,2010,Others,0,0,0
+Manipur,2010,Total,32,373,405
+Manipur,2011,Central Jail,32,454,486
+Manipur,2011,District Jail,0,0,0
+Manipur,2011,Sub_Jail,0,0,0
+Manipur,2011,Women Jail,0,0,0
+Manipur,2011,Borstal School,0,0,0
+Manipur,2011,Open Jail,0,0,0
+Manipur,2011,Special Jail,0,0,0
+Manipur,2011,Others,0,0,0
+Manipur,2011,Total,32,454,486
+Manipur,2012,Central Jail,64,527,591
+Manipur,2012,District Jail,0,0,0
+Manipur,2012,Sub_Jail,0,0,0
+Manipur,2012,Women Jail,0,0,0
+Manipur,2012,Borstal School,0,0,0
+Manipur,2012,Open Jail,0,0,0
+Manipur,2012,Special Jail,0,0,0
+Manipur,2012,Others,0,0,0
+Manipur,2012,Total,64,527,591
+Meghalaya,2001,Central Jail,0,0,0
+Meghalaya,2001,District Jail,14,505,519
+Meghalaya,2001,Sub_Jail,0,0,0
+Meghalaya,2001,Women Jail,0,0,0
+Meghalaya,2001,Borstal School,0,0,0
+Meghalaya,2001,Open Jail,0,0,0
+Meghalaya,2001,Special Jail,0,0,0
+Meghalaya,2001,Others,0,0,0
+Meghalaya,2001,Total,14,505,519
+Meghalaya,2002,Central Jail,0,0,0
+Meghalaya,2002,District Jail,20,506,526
+Meghalaya,2002,Sub_Jail,0,0,0
+Meghalaya,2002,Women Jail,0,0,0
+Meghalaya,2002,Borstal School,0,0,0
+Meghalaya,2002,Open Jail,0,0,0
+Meghalaya,2002,Special Jail,0,0,0
+Meghalaya,2002,Others,0,0,0
+Meghalaya,2002,Total,20,506,526
+Meghalaya,2003,Central Jail,0,0,0
+Meghalaya,2003,District Jail,39,508,547
+Meghalaya,2003,Sub_Jail,0,0,0
+Meghalaya,2003,Women Jail,0,0,0
+Meghalaya,2003,Borstal School,0,0,0
+Meghalaya,2003,Open Jail,0,0,0
+Meghalaya,2003,Special Jail,0,0,0
+Meghalaya,2003,Others,0,0,0
+Meghalaya,2003,Total,39,508,547
+Meghalaya,2004,Central Jail,0,0,0
+Meghalaya,2004,District Jail,41,430,471
+Meghalaya,2004,Sub_Jail,0,0,0
+Meghalaya,2004,Women Jail,0,0,0
+Meghalaya,2004,Borstal School,0,0,0
+Meghalaya,2004,Open Jail,0,0,0
+Meghalaya,2004,Special Jail,0,0,0
+Meghalaya,2004,Others,0,0,0
+Meghalaya,2004,Total,41,430,471
+Meghalaya,2005,Central Jail,0,0,0
+Meghalaya,2005,District Jail,46,487,533
+Meghalaya,2005,Sub_Jail,0,0,0
+Meghalaya,2005,Women Jail,0,0,0
+Meghalaya,2005,Borstal School,0,0,0
+Meghalaya,2005,Open Jail,0,0,0
+Meghalaya,2005,Special Jail,0,0,0
+Meghalaya,2005,Others,0,0,0
+Meghalaya,2005,Total,46,487,533
+Meghalaya,2006,Central Jail,0,0,0
+Meghalaya,2006,District Jail,58,539,597
+Meghalaya,2006,Sub_Jail,0,0,0
+Meghalaya,2006,Women Jail,0,0,0
+Meghalaya,2006,Borstal School,0,0,0
+Meghalaya,2006,Open Jail,0,0,0
+Meghalaya,2006,Special Jail,0,0,0
+Meghalaya,2006,Others,0,0,0
+Meghalaya,2006,Total,58,539,597
+Meghalaya,2007,Central Jail,0,0,0
+Meghalaya,2007,District Jail,72,557,629
+Meghalaya,2007,Sub_Jail,0,0,0
+Meghalaya,2007,Women Jail,0,0,0
+Meghalaya,2007,Borstal School,0,0,0
+Meghalaya,2007,Open Jail,0,0,0
+Meghalaya,2007,Special Jail,0,0,0
+Meghalaya,2007,Others,0,0,0
+Meghalaya,2007,Total,72,557,629
+Meghalaya,2008,Central Jail,0,0,0
+Meghalaya,2008,District Jail,92,480,572
+Meghalaya,2008,Sub_Jail,0,0,0
+Meghalaya,2008,Women Jail,0,0,0
+Meghalaya,2008,Borstal School,0,0,0
+Meghalaya,2008,Open Jail,0,0,0
+Meghalaya,2008,Special Jail,0,0,0
+Meghalaya,2008,Others,0,0,0
+Meghalaya,2008,Total,92,480,572
+Meghalaya,2009,Central Jail,0,0,0
+Meghalaya,2009,District Jail,98,520,618
+Meghalaya,2009,Sub_Jail,0,0,0
+Meghalaya,2009,Women Jail,0,0,0
+Meghalaya,2009,Borstal School,0,0,0
+Meghalaya,2009,Open Jail,0,0,0
+Meghalaya,2009,Special Jail,0,0,0
+Meghalaya,2009,Others,0,0,0
+Meghalaya,2009,Total,98,520,618
+Meghalaya,2010,Central Jail,0,0,0
+Meghalaya,2010,District Jail,70,513,583
+Meghalaya,2010,Sub_Jail,0,0,0
+Meghalaya,2010,Women Jail,0,0,0
+Meghalaya,2010,Borstal School,0,0,0
+Meghalaya,2010,Open Jail,0,0,0
+Meghalaya,2010,Special Jail,0,0,0
+Meghalaya,2010,Others,0,0,0
+Meghalaya,2010,Total,70,513,583
+Meghalaya,2011,Central Jail,0,0,0
+Meghalaya,2011,District Jail,65,478,543
+Meghalaya,2011,Sub_Jail,0,0,0
+Meghalaya,2011,Women Jail,0,0,0
+Meghalaya,2011,Borstal School,0,0,0
+Meghalaya,2011,Open Jail,0,0,0
+Meghalaya,2011,Special Jail,0,0,0
+Meghalaya,2011,Others,0,0,0
+Meghalaya,2011,Total,65,478,543
+Meghalaya,2012,Central Jail,0,0,0
+Meghalaya,2012,District Jail,70,605,675
+Meghalaya,2012,Sub_Jail,0,0,0
+Meghalaya,2012,Women Jail,0,0,0
+Meghalaya,2012,Borstal School,0,0,0
+Meghalaya,2012,Open Jail,0,0,0
+Meghalaya,2012,Special Jail,0,0,0
+Meghalaya,2012,Others,0,0,0
+Meghalaya,2012,Total,70,605,675
+Mizoram,2001,Central Jail,56,345,401
+Mizoram,2001,District Jail,98,359,457
+Mizoram,2001,Sub_Jail,0,0,0
+Mizoram,2001,Women Jail,0,0,0
+Mizoram,2001,Borstal School,0,0,0
+Mizoram,2001,Open Jail,0,0,0
+Mizoram,2001,Special Jail,0,0,0
+Mizoram,2001,Others,0,0,0
+Mizoram,2001,Total,154,704,858
+Mizoram,2002,Central Jail,129,289,418
+Mizoram,2002,District Jail,148,292,440
+Mizoram,2002,Sub_Jail,0,0,0
+Mizoram,2002,Women Jail,0,0,0
+Mizoram,2002,Borstal School,0,0,0
+Mizoram,2002,Open Jail,0,0,0
+Mizoram,2002,Special Jail,0,0,0
+Mizoram,2002,Others,0,0,0
+Mizoram,2002,Total,277,581,858
+Mizoram,2003,Central Jail,62,280,342
+Mizoram,2003,District Jail,140,355,495
+Mizoram,2003,Sub_Jail,0,0,0
+Mizoram,2003,Women Jail,0,0,0
+Mizoram,2003,Borstal School,0,0,0
+Mizoram,2003,Open Jail,0,0,0
+Mizoram,2003,Special Jail,0,0,0
+Mizoram,2003,Others,0,0,0
+Mizoram,2003,Total,202,635,837
+Mizoram,2004,Central Jail,69,332,401
+Mizoram,2004,District Jail,148,410,558
+Mizoram,2004,Sub_Jail,0,0,0
+Mizoram,2004,Women Jail,0,0,0
+Mizoram,2004,Borstal School,0,0,0
+Mizoram,2004,Open Jail,0,0,0
+Mizoram,2004,Special Jail,0,0,0
+Mizoram,2004,Others,0,0,0
+Mizoram,2004,Total,217,742,959
+Mizoram,2005,Central Jail,67,211,278
+Mizoram,2005,District Jail,104,331,435
+Mizoram,2005,Sub_Jail,0,0,0
+Mizoram,2005,Women Jail,0,0,0
+Mizoram,2005,Borstal School,0,0,0
+Mizoram,2005,Open Jail,0,0,0
+Mizoram,2005,Special Jail,0,0,0
+Mizoram,2005,Others,0,0,0
+Mizoram,2005,Total,171,542,713
+Mizoram,2006,Central Jail,115,263,378
+Mizoram,2006,District Jail,98,253,351
+Mizoram,2006,Sub_Jail,0,0,0
+Mizoram,2006,Women Jail,0,0,0
+Mizoram,2006,Borstal School,0,0,0
+Mizoram,2006,Open Jail,0,0,0
+Mizoram,2006,Special Jail,0,0,0
+Mizoram,2006,Others,0,0,0
+Mizoram,2006,Total,213,516,729
+Mizoram,2007,Central Jail,159,346,505
+Mizoram,2007,District Jail,147,289,436
+Mizoram,2007,Sub_Jail,0,0,0
+Mizoram,2007,Women Jail,0,0,0
+Mizoram,2007,Borstal School,0,0,0
+Mizoram,2007,Open Jail,0,0,0
+Mizoram,2007,Special Jail,0,0,0
+Mizoram,2007,Others,0,0,0
+Mizoram,2007,Total,306,635,941
+Mizoram,2008,Central Jail,161,246,407
+Mizoram,2008,District Jail,168,215,383
+Mizoram,2008,Sub_Jail,0,0,0
+Mizoram,2008,Women Jail,0,0,0
+Mizoram,2008,Borstal School,0,0,0
+Mizoram,2008,Open Jail,0,0,0
+Mizoram,2008,Special Jail,0,0,0
+Mizoram,2008,Others,0,0,0
+Mizoram,2008,Total,329,461,790
+Mizoram,2009,Central Jail,202,231,433
+Mizoram,2009,District Jail,151,181,332
+Mizoram,2009,Sub_Jail,0,0,0
+Mizoram,2009,Women Jail,0,0,0
+Mizoram,2009,Borstal School,0,0,0
+Mizoram,2009,Open Jail,0,0,0
+Mizoram,2009,Special Jail,0,0,0
+Mizoram,2009,Others,0,0,0
+Mizoram,2009,Total,353,412,765
+Mizoram,2010,Central Jail,289,302,591
+Mizoram,2010,District Jail,162,239,401
+Mizoram,2010,Sub_Jail,0,0,0
+Mizoram,2010,Women Jail,0,0,0
+Mizoram,2010,Borstal School,0,0,0
+Mizoram,2010,Open Jail,0,0,0
+Mizoram,2010,Special Jail,0,0,0
+Mizoram,2010,Others,0,0,0
+Mizoram,2010,Total,451,541,992
+Mizoram,2011,Central Jail,227,263,490
+Mizoram,2011,District Jail,155,236,391
+Mizoram,2011,Sub_Jail,0,0,0
+Mizoram,2011,Women Jail,0,0,0
+Mizoram,2011,Borstal School,0,0,0
+Mizoram,2011,Open Jail,0,0,0
+Mizoram,2011,Special Jail,0,0,0
+Mizoram,2011,Others,0,0,0
+Mizoram,2011,Total,382,499,881
+Mizoram,2012,Central Jail,182,243,425
+Mizoram,2012,District Jail,137,285,422
+Mizoram,2012,Sub_Jail,0,0,0
+Mizoram,2012,Women Jail,0,0,0
+Mizoram,2012,Borstal School,0,0,0
+Mizoram,2012,Open Jail,0,0,0
+Mizoram,2012,Special Jail,0,0,0
+Mizoram,2012,Others,0,0,0
+Mizoram,2012,Total,319,528,847
+Nagaland,2001,Central Jail,40,225,265
+Nagaland,2001,District Jail,14,211,225
+Nagaland,2001,Sub_Jail,14,109,123
+Nagaland,2001,Women Jail,0,0,0
+Nagaland,2001,Borstal School,0,0,0
+Nagaland,2001,Open Jail,0,0,0
+Nagaland,2001,Special Jail,0,0,0
+Nagaland,2001,Others,0,0,0
+Nagaland,2001,Total,68,545,613
+Nagaland,2002,Central Jail,7,263,270
+Nagaland,2002,District Jail,13,188,201
+Nagaland,2002,Sub_Jail,10,93,103
+Nagaland,2002,Women Jail,0,0,0
+Nagaland,2002,Borstal School,0,0,0
+Nagaland,2002,Open Jail,0,0,0
+Nagaland,2002,Special Jail,0,0,0
+Nagaland,2002,Others,0,0,0
+Nagaland,2002,Total,30,544,574
+Nagaland,2003,Central Jail,70,121,191
+Nagaland,2003,District Jail,9,196,205
+Nagaland,2003,Sub_Jail,10,90,100
+Nagaland,2003,Women Jail,0,0,0
+Nagaland,2003,Borstal School,0,0,0
+Nagaland,2003,Open Jail,0,0,0
+Nagaland,2003,Special Jail,0,0,0
+Nagaland,2003,Others,0,0,0
+Nagaland,2003,Total,89,407,496
+Nagaland,2004,Central Jail,104,119,223
+Nagaland,2004,District Jail,16,150,166
+Nagaland,2004,Sub_Jail,41,121,162
+Nagaland,2004,Women Jail,0,0,0
+Nagaland,2004,Borstal School,0,0,0
+Nagaland,2004,Open Jail,0,0,0
+Nagaland,2004,Special Jail,0,0,0
+Nagaland,2004,Others,0,0,0
+Nagaland,2004,Total,161,390,551
+Nagaland,2005,Central Jail,85,166,251
+Nagaland,2005,District Jail,15,183,198
+Nagaland,2005,Sub_Jail,17,135,152
+Nagaland,2005,Women Jail,0,0,0
+Nagaland,2005,Borstal School,0,0,0
+Nagaland,2005,Open Jail,0,0,0
+Nagaland,2005,Special Jail,0,0,0
+Nagaland,2005,Others,0,0,0
+Nagaland,2005,Total,117,484,601
+Nagaland,2006,Central Jail,94,142,236
+Nagaland,2006,District Jail,15,163,178
+Nagaland,2006,Sub_Jail,24,212,236
+Nagaland,2006,Women Jail,0,0,0
+Nagaland,2006,Borstal School,0,0,0
+Nagaland,2006,Open Jail,0,0,0
+Nagaland,2006,Special Jail,0,0,0
+Nagaland,2006,Others,0,0,0
+Nagaland,2006,Total,133,517,650
+Nagaland,2007,Central Jail,71,123,194
+Nagaland,2007,District Jail,10,138,148
+Nagaland,2007,Sub_Jail,20,133,153
+Nagaland,2007,Women Jail,0,0,0
+Nagaland,2007,Borstal School,0,0,0
+Nagaland,2007,Open Jail,0,0,0
+Nagaland,2007,Special Jail,0,0,0
+Nagaland,2007,Others,0,0,0
+Nagaland,2007,Total,101,394,495
+Nagaland,2008,Central Jail,94,137,231
+Nagaland,2008,District Jail,36,103,139
+Nagaland,2008,Sub_Jail,30,156,186
+Nagaland,2008,Women Jail,0,0,0
+Nagaland,2008,Borstal School,0,0,0
+Nagaland,2008,Open Jail,0,0,0
+Nagaland,2008,Special Jail,0,0,0
+Nagaland,2008,Others,0,0,0
+Nagaland,2008,Total,160,396,556
+Nagaland,2009,Central Jail,95,146,241
+Nagaland,2009,District Jail,32,100,132
+Nagaland,2009,Sub_Jail,27,181,208
+Nagaland,2009,Women Jail,0,0,0
+Nagaland,2009,Borstal School,0,0,0
+Nagaland,2009,Open Jail,0,0,0
+Nagaland,2009,Special Jail,0,0,0
+Nagaland,2009,Others,0,0,0
+Nagaland,2009,Total,154,427,581
+Nagaland,2010,Central Jail,96,152,248
+Nagaland,2010,District Jail,42,85,127
+Nagaland,2010,Sub_Jail,25,88,113
+Nagaland,2010,Women Jail,0,0,0
+Nagaland,2010,Borstal School,0,0,0
+Nagaland,2010,Open Jail,0,0,0
+Nagaland,2010,Special Jail,0,0,0
+Nagaland,2010,Others,0,0,0
+Nagaland,2010,Total,163,325,488
+Nagaland,2011,Central Jail,74,106,180
+Nagaland,2011,District Jail,37,93,130
+Nagaland,2011,Sub_Jail,19,100,119
+Nagaland,2011,Women Jail,0,0,0
+Nagaland,2011,Borstal School,0,0,0
+Nagaland,2011,Open Jail,0,0,0
+Nagaland,2011,Special Jail,0,0,0
+Nagaland,2011,Others,0,0,0
+Nagaland,2011,Total,130,299,429
+Nagaland,2012,Central Jail,67,69,136
+Nagaland,2012,District Jail,28,77,105
+Nagaland,2012,Sub_Jail,30,107,137
+Nagaland,2012,Women Jail,0,0,0
+Nagaland,2012,Borstal School,0,0,0
+Nagaland,2012,Open Jail,0,0,0
+Nagaland,2012,Special Jail,0,0,0
+Nagaland,2012,Others,0,0,0
+Nagaland,2012,Total,125,253,378
+Orissa,2001,Central Jail,0,0,0
+Orissa,2001,District Jail,2227,3333,5560
+Orissa,2001,Sub_Jail,319,4181,4500
+Orissa,2001,Women Jail,37,3,40
+Orissa,2001,Borstal School,80,176,256
+Orissa,2001,Open Jail,0,0,0
+Orissa,2001,Special Jail,153,1075,1228
+Orissa,2001,Others,0,0,0
+Orissa,2001,Total,2816,8768,11584
+Orissa,2002,Central Jail,0,0,0
+Orissa,2002,District Jail,2351,3718,6069
+Orissa,2002,Sub_Jail,341,4612,4953
+Orissa,2002,Women Jail,8,6,14
+Orissa,2002,Borstal School,96,131,227
+Orissa,2002,Open Jail,0,0,0
+Orissa,2002,Special Jail,179,1149,1328
+Orissa,2002,Others,0,0,0
+Orissa,2002,Total,2975,9616,12591
+Orissa,2003,Central Jail,0,0,0
+Orissa,2003,District Jail,2635,3673,6308
+Orissa,2003,Sub_Jail,340,4806,5146
+Orissa,2003,Women Jail,10,10,20
+Orissa,2003,Borstal School,81,143,224
+Orissa,2003,Open Jail,0,0,0
+Orissa,2003,Special Jail,226,1008,1234
+Orissa,2003,Others,0,0,0
+Orissa,2003,Total,3292,9640,12932
+Orissa,2004,Central Jail,0,0,0
+Orissa,2004,District Jail,2886,3633,6519
+Orissa,2004,Sub_Jail,406,4733,5139
+Orissa,2004,Women Jail,9,5,14
+Orissa,2004,Borstal School,72,163,235
+Orissa,2004,Open Jail,50,0,50
+Orissa,2004,Special Jail,257,910,1167
+Orissa,2004,Others,0,0,0
+Orissa,2004,Total,3680,9444,13124
+Orissa,2005,Central Jail,0,0,0
+Orissa,2005,District Jail,3231,3601,6832
+Orissa,2005,Sub_Jail,489,4980,5469
+Orissa,2005,Women Jail,16,12,28
+Orissa,2005,Borstal School,109,198,307
+Orissa,2005,Open Jail,39,0,39
+Orissa,2005,Special Jail,312,929,1241
+Orissa,2005,Others,0,0,0
+Orissa,2005,Total,4196,9720,13916
+Orissa,2006,Central Jail,0,0,0
+Orissa,2006,District Jail,3302,3865,7167
+Orissa,2006,Sub_Jail,585,5233,5818
+Orissa,2006,Women Jail,12,9,21
+Orissa,2006,Borstal School,0,0,0
+Orissa,2006,Open Jail,68,0,68
+Orissa,2006,Special Jail,305,976,1281
+Orissa,2006,Others,93,164,257
+Orissa,2006,Total,4365,10247,14612
+Orissa,2007,Central Jail,0,0,0
+Orissa,2007,District Jail,3323,4206,7529
+Orissa,2007,Sub_Jail,526,5599,6125
+Orissa,2007,Women Jail,14,14,28
+Orissa,2007,Borstal School,0,0,0
+Orissa,2007,Open Jail,59,0,59
+Orissa,2007,Special Jail,329,1011,1340
+Orissa,2007,Others,94,190,284
+Orissa,2007,Total,4345,11020,15365
+Orissa,2008,Central Jail,0,0,0
+Orissa,2008,District Jail,3192,3686,6878
+Orissa,2008,Sub_Jail,574,5225,5799
+Orissa,2008,Women Jail,12,16,28
+Orissa,2008,Borstal School,0,0,0
+Orissa,2008,Open Jail,102,0,102
+Orissa,2008,Special Jail,329,906,1235
+Orissa,2008,Others,91,228,319
+Orissa,2008,Total,4300,10061,14361
+Orissa,2009,Central Jail,996,1469,2465
+Orissa,2009,District Jail,1785,1795,3580
+Orissa,2009,Sub_Jail,776,5118,5894
+Orissa,2009,Women Jail,10,9,19
+Orissa,2009,Borstal School,0,0,0
+Orissa,2009,Open Jail,98,0,98
+Orissa,2009,Special Jail,262,897,1159
+Orissa,2009,Others,96,223,319
+Orissa,2009,Total,4023,9511,13534
+Orissa,2010,Central Jail,884,1291,2175
+Orissa,2010,District Jail,1577,2057,3634
+Orissa,2010,Sub_Jail,1122,4353,5475
+Orissa,2010,Women Jail,12,9,21
+Orissa,2010,Borstal School,0,0,0
+Orissa,2010,Open Jail,112,0,112
+Orissa,2010,Special Jail,244,768,1012
+Orissa,2010,Others,0,0,0
+Orissa,2010,Total,3951,8478,12429
+Orissa,2011,Central Jail,878,1361,2239
+Orissa,2011,District Jail,1474,1867,3341
+Orissa,2011,Sub_Jail,1041,5046,6087
+Orissa,2011,Women Jail,12,10,22
+Orissa,2011,Borstal School,0,0,0
+Orissa,2011,Open Jail,65,0,65
+Orissa,2011,Special Jail,231,768,999
+Orissa,2011,Others,0,0,0
+Orissa,2011,Total,3701,9052,12753
+Orissa,2012,Central Jail,1086,1692,2778
+Orissa,2012,District Jail,1106,1781,2887
+Orissa,2012,Sub_Jail,1089,4937,6026
+Orissa,2012,Women Jail,8,11,19
+Orissa,2012,Borstal School,0,0,0
+Orissa,2012,Open Jail,100,0,100
+Orissa,2012,Special Jail,241,816,1057
+Orissa,2012,Others,0,0,0
+Orissa,2012,Total,3630,9237,12867
+Punjab,2001,Central Jail,3017,6055,9072
+Punjab,2001,District Jail,379,1011,1390
+Punjab,2001,Sub_Jail,52,755,807
+Punjab,2001,Women Jail,103,104,207
+Punjab,2001,Borstal School,94,233,327
+Punjab,2001,Open Jail,22,0,22
+Punjab,2001,Special Jail,27,50,77
+Punjab,2001,Others,0,0,0
+Punjab,2001,Total,3694,8208,11902
+Punjab,2002,Central Jail,3100,5664,8764
+Punjab,2002,District Jail,545,1284,1829
+Punjab,2002,Sub_Jail,74,828,902
+Punjab,2002,Women Jail,151,98,249
+Punjab,2002,Borstal School,89,239,328
+Punjab,2002,Open Jail,25,0,25
+Punjab,2002,Special Jail,0,0,0
+Punjab,2002,Others,0,0,0
+Punjab,2002,Total,3984,8113,12097
+Punjab,2003,Central Jail,3304,6556,9860
+Punjab,2003,District Jail,735,1331,2066
+Punjab,2003,Sub_Jail,55,560,615
+Punjab,2003,Women Jail,165,101,266
+Punjab,2003,Borstal School,125,234,359
+Punjab,2003,Open Jail,33,0,33
+Punjab,2003,Special Jail,0,0,0
+Punjab,2003,Others,0,0,0
+Punjab,2003,Total,4417,8782,13199
+Punjab,2004,Central Jail,3851,7219,11070
+Punjab,2004,District Jail,768,1527,2295
+Punjab,2004,Sub_Jail,91,842,933
+Punjab,2004,Women Jail,178,104,282
+Punjab,2004,Borstal School,110,309,419
+Punjab,2004,Open Jail,27,0,27
+Punjab,2004,Special Jail,0,0,0
+Punjab,2004,Others,0,0,0
+Punjab,2004,Total,5025,10001,15026
+Punjab,2005,Central Jail,3960,6863,10823
+Punjab,2005,District Jail,709,1408,2117
+Punjab,2005,Sub_Jail,188,961,1149
+Punjab,2005,Women Jail,96,132,228
+Punjab,2005,Borstal School,77,208,285
+Punjab,2005,Open Jail,42,0,42
+Punjab,2005,Special Jail,0,0,0
+Punjab,2005,Others,0,0,0
+Punjab,2005,Total,5072,9572,14644
+Punjab,2006,Central Jail,3961,6935,10896
+Punjab,2006,District Jail,949,1461,2410
+Punjab,2006,Sub_Jail,241,1059,1300
+Punjab,2006,Women Jail,98,108,206
+Punjab,2006,Borstal School,62,188,250
+Punjab,2006,Open Jail,29,0,29
+Punjab,2006,Special Jail,0,0,0
+Punjab,2006,Others,0,0,0
+Punjab,2006,Total,5340,9751,15091
+Punjab,2007,Central Jail,3548,7691,11239
+Punjab,2007,District Jail,955,1732,2687
+Punjab,2007,Sub_Jail,247,1183,1430
+Punjab,2007,Women Jail,69,145,214
+Punjab,2007,Borstal School,85,230,315
+Punjab,2007,Open Jail,55,0,55
+Punjab,2007,Special Jail,0,0,0
+Punjab,2007,Others,0,0,0
+Punjab,2007,Total,4959,10981,15940
+Punjab,2008,Central Jail,4024,7224,11248
+Punjab,2008,District Jail,967,1791,2758
+Punjab,2008,Sub_Jail,241,1145,1386
+Punjab,2008,Women Jail,82,122,204
+Punjab,2008,Borstal School,98,347,445
+Punjab,2008,Open Jail,59,0,59
+Punjab,2008,Special Jail,0,0,0
+Punjab,2008,Others,0,0,0
+Punjab,2008,Total,5471,10629,16100
+Punjab,2009,Central Jail,4730,7930,12660
+Punjab,2009,District Jail,1286,1950,3236
+Punjab,2009,Sub_Jail,160,993,1153
+Punjab,2009,Women Jail,85,143,228
+Punjab,2009,Borstal School,115,375,490
+Punjab,2009,Open Jail,62,0,62
+Punjab,2009,Special Jail,0,0,0
+Punjab,2009,Others,0,0,0
+Punjab,2009,Total,6438,11391,17829
+Punjab,2010,Central Jail,5010,7618,12628
+Punjab,2010,District Jail,1203,2010,3213
+Punjab,2010,Sub_Jail,199,957,1156
+Punjab,2010,Women Jail,87,106,193
+Punjab,2010,Borstal School,92,304,396
+Punjab,2010,Open Jail,58,0,58
+Punjab,2010,Special Jail,0,0,0
+Punjab,2010,Others,0,0,0
+Punjab,2010,Total,6649,10995,17644
+Punjab,2011,Central Jail,5365,7139,12504
+Punjab,2011,District Jail,1566,1904,3470
+Punjab,2011,Sub_Jail,303,806,1109
+Punjab,2011,Women Jail,129,113,242
+Punjab,2011,Borstal School,123,333,456
+Punjab,2011,Open Jail,40,0,40
+Punjab,2011,Special Jail,0,0,0
+Punjab,2011,Others,0,0,0
+Punjab,2011,Total,7526,10295,17821
+Punjab,2012,Central Jail,5708,11256,16964
+Punjab,2012,District Jail,1630,2507,4137
+Punjab,2012,Sub_Jail,257,1169,1426
+Punjab,2012,Women Jail,81,139,220
+Punjab,2012,Borstal School,93,302,395
+Punjab,2012,Open Jail,62,0,62
+Punjab,2012,Special Jail,0,0,0
+Punjab,2012,Others,0,0,0
+Punjab,2012,Total,7831,15373,23204
+Rajasthan,2001,Central Jail,3328,2905,6233
+Rajasthan,2001,District Jail,411,3615,4026
+Rajasthan,2001,Sub_Jail,11,2175,2186
+Rajasthan,2001,Women Jail,96,42,138
+Rajasthan,2001,Borstal School,33,0,33
+Rajasthan,2001,Open Jail,304,0,304
+Rajasthan,2001,Special Jail,0,0,0
+Rajasthan,2001,Others,0,0,0
+Rajasthan,2001,Total,4183,8737,12920
+Rajasthan,2002,Central Jail,3658,2377,6035
+Rajasthan,2002,District Jail,747,2948,3695
+Rajasthan,2002,Sub_Jail,17,1966,1983
+Rajasthan,2002,Women Jail,165,31,196
+Rajasthan,2002,Borstal School,46,0,46
+Rajasthan,2002,Open Jail,343,0,343
+Rajasthan,2002,Special Jail,0,0,0
+Rajasthan,2002,Others,0,0,0
+Rajasthan,2002,Total,4976,7322,12298
+Rajasthan,2003,Central Jail,4954,2419,7373
+Rajasthan,2003,District Jail,559,2259,2818
+Rajasthan,2003,Sub_Jail,19,1873,1892
+Rajasthan,2003,Women Jail,180,33,213
+Rajasthan,2003,Borstal School,39,0,39
+Rajasthan,2003,Open Jail,302,0,302
+Rajasthan,2003,Special Jail,0,0,0
+Rajasthan,2003,Others,0,0,0
+Rajasthan,2003,Total,6053,6584,12637
+Rajasthan,2004,Central Jail,4724,2769,7493
+Rajasthan,2004,District Jail,512,2450,2962
+Rajasthan,2004,Sub_Jail,12,2013,2025
+Rajasthan,2004,Women Jail,164,51,215
+Rajasthan,2004,Borstal School,20,0,20
+Rajasthan,2004,Open Jail,406,0,406
+Rajasthan,2004,Special Jail,0,0,0
+Rajasthan,2004,Others,0,0,0
+Rajasthan,2004,Total,5838,7283,13121
+Rajasthan,2005,Central Jail,4153,2849,7002
+Rajasthan,2005,District Jail,799,2578,3377
+Rajasthan,2005,Sub_Jail,11,1898,1909
+Rajasthan,2005,Women Jail,167,38,205
+Rajasthan,2005,Borstal School,32,0,32
+Rajasthan,2005,Open Jail,410,0,410
+Rajasthan,2005,Special Jail,0,0,0
+Rajasthan,2005,Others,0,0,0
+Rajasthan,2005,Total,5572,7363,12935
+Rajasthan,2006,Central Jail,4498,3096,7594
+Rajasthan,2006,District Jail,481,2989,3470
+Rajasthan,2006,Sub_Jail,20,2155,2175
+Rajasthan,2006,Women Jail,167,48,215
+Rajasthan,2006,Borstal School,16,0,16
+Rajasthan,2006,Open Jail,411,0,411
+Rajasthan,2006,Special Jail,0,0,0
+Rajasthan,2006,Others,0,0,0
+Rajasthan,2006,Total,5593,8288,13881
+Rajasthan,2007,Central Jail,4692,3283,7975
+Rajasthan,2007,District Jail,550,3145,3695
+Rajasthan,2007,Sub_Jail,14,2265,2279
+Rajasthan,2007,Women Jail,170,72,242
+Rajasthan,2007,Borstal School,13,0,13
+Rajasthan,2007,Open Jail,431,0,431
+Rajasthan,2007,Special Jail,0,0,0
+Rajasthan,2007,Others,0,0,0
+Rajasthan,2007,Total,5870,8765,14635
+Rajasthan,2008,Central Jail,4660,3373,8033
+Rajasthan,2008,District Jail,887,3346,4233
+Rajasthan,2008,Sub_Jail,20,2340,2360
+Rajasthan,2008,Women Jail,198,61,259
+Rajasthan,2008,Borstal School,13,0,13
+Rajasthan,2008,Open Jail,502,0,502
+Rajasthan,2008,Special Jail,0,0,0
+Rajasthan,2008,Others,0,0,0
+Rajasthan,2008,Total,6280,9120,15400
+Rajasthan,2009,Central Jail,4966,4209,9175
+Rajasthan,2009,District Jail,835,4319,5154
+Rajasthan,2009,Sub_Jail,10,2695,2705
+Rajasthan,2009,Women Jail,222,90,312
+Rajasthan,2009,Borstal School,13,0,13
+Rajasthan,2009,Open Jail,506,0,506
+Rajasthan,2009,Special Jail,0,0,0
+Rajasthan,2009,Others,0,0,0
+Rajasthan,2009,Total,6552,11313,17865
+Rajasthan,2010,Central Jail,4745,3994,8739
+Rajasthan,2010,District Jail,756,4155,4911
+Rajasthan,2010,Sub_Jail,12,2696,2708
+Rajasthan,2010,Women Jail,204,83,287
+Rajasthan,2010,Borstal School,10,0,10
+Rajasthan,2010,Open Jail,505,0,505
+Rajasthan,2010,Special Jail,0,0,0
+Rajasthan,2010,Others,0,0,0
+Rajasthan,2010,Total,6232,10928,17160
+Rajasthan,2011,Central Jail,4605,4548,9153
+Rajasthan,2011,District Jail,765,4444,5209
+Rajasthan,2011,Sub_Jail,12,2796,2808
+Rajasthan,2011,Women Jail,211,111,322
+Rajasthan,2011,Borstal School,9,0,9
+Rajasthan,2011,Open Jail,557,0,557
+Rajasthan,2011,Special Jail,0,0,0
+Rajasthan,2011,Others,0,0,0
+Rajasthan,2011,Total,6159,11899,18058
+Rajasthan,2012,Central Jail,4480,5063,9543
+Rajasthan,2012,District Jail,778,5092,5870
+Rajasthan,2012,Sub_Jail,2,2885,2887
+Rajasthan,2012,Women Jail,228,130,358
+Rajasthan,2012,Borstal School,18,0,18
+Rajasthan,2012,Open Jail,577,0,577
+Rajasthan,2012,Special Jail,0,0,0
+Rajasthan,2012,Others,0,0,0
+Rajasthan,2012,Total,6083,13170,19253
+Sikkim,2001,Central Jail,77,109,186
+Sikkim,2001,District Jail,0,0,0
+Sikkim,2001,Sub_Jail,0,0,0
+Sikkim,2001,Women Jail,0,0,0
+Sikkim,2001,Borstal School,0,0,0
+Sikkim,2001,Open Jail,0,0,0
+Sikkim,2001,Special Jail,0,0,0
+Sikkim,2001,Others,0,0,0
+Sikkim,2001,Total,77,109,186
+Sikkim,2002,Central Jail,81,91,172
+Sikkim,2002,District Jail,0,0,0
+Sikkim,2002,Sub_Jail,0,0,0
+Sikkim,2002,Women Jail,0,0,0
+Sikkim,2002,Borstal School,0,0,0
+Sikkim,2002,Open Jail,0,0,0
+Sikkim,2002,Special Jail,0,0,0
+Sikkim,2002,Others,0,0,0
+Sikkim,2002,Total,81,91,172
+Sikkim,2003,Central Jail,82,89,171
+Sikkim,2003,District Jail,0,0,0
+Sikkim,2003,Sub_Jail,0,0,0
+Sikkim,2003,Women Jail,0,0,0
+Sikkim,2003,Borstal School,0,0,0
+Sikkim,2003,Open Jail,0,0,0
+Sikkim,2003,Special Jail,0,0,0
+Sikkim,2003,Others,0,0,0
+Sikkim,2003,Total,82,89,171
+Sikkim,2004,Central Jail,63,99,162
+Sikkim,2004,District Jail,0,0,0
+Sikkim,2004,Sub_Jail,0,0,0
+Sikkim,2004,Women Jail,0,0,0
+Sikkim,2004,Borstal School,0,0,0
+Sikkim,2004,Open Jail,0,0,0
+Sikkim,2004,Special Jail,0,0,0
+Sikkim,2004,Others,0,0,0
+Sikkim,2004,Total,63,99,162
+Sikkim,2005,Central Jail,73,122,195
+Sikkim,2005,District Jail,0,0,0
+Sikkim,2005,Sub_Jail,0,0,0
+Sikkim,2005,Women Jail,0,0,0
+Sikkim,2005,Borstal School,0,0,0
+Sikkim,2005,Open Jail,0,0,0
+Sikkim,2005,Special Jail,0,0,0
+Sikkim,2005,Others,0,0,0
+Sikkim,2005,Total,73,122,195
+Sikkim,2006,Central Jail,91,134,225
+Sikkim,2006,District Jail,0,0,0
+Sikkim,2006,Sub_Jail,0,0,0
+Sikkim,2006,Women Jail,0,0,0
+Sikkim,2006,Borstal School,0,0,0
+Sikkim,2006,Open Jail,0,0,0
+Sikkim,2006,Special Jail,0,0,0
+Sikkim,2006,Others,0,0,0
+Sikkim,2006,Total,91,134,225
+Sikkim,2007,Central Jail,82,95,177
+Sikkim,2007,District Jail,0,49,49
+Sikkim,2007,Sub_Jail,0,0,0
+Sikkim,2007,Women Jail,0,0,0
+Sikkim,2007,Borstal School,0,0,0
+Sikkim,2007,Open Jail,0,0,0
+Sikkim,2007,Special Jail,0,0,0
+Sikkim,2007,Others,0,0,0
+Sikkim,2007,Total,82,144,226
+Sikkim,2008,Central Jail,68,112,180
+Sikkim,2008,District Jail,0,80,80
+Sikkim,2008,Sub_Jail,0,0,0
+Sikkim,2008,Women Jail,0,0,0
+Sikkim,2008,Borstal School,0,0,0
+Sikkim,2008,Open Jail,0,0,0
+Sikkim,2008,Special Jail,0,0,0
+Sikkim,2008,Others,0,0,0
+Sikkim,2008,Total,68,192,260
+Sikkim,2009,Central Jail,69,65,134
+Sikkim,2009,District Jail,0,59,59
+Sikkim,2009,Sub_Jail,0,0,0
+Sikkim,2009,Women Jail,0,0,0
+Sikkim,2009,Borstal School,0,0,0
+Sikkim,2009,Open Jail,0,0,0
+Sikkim,2009,Special Jail,0,0,0
+Sikkim,2009,Others,0,0,0
+Sikkim,2009,Total,69,124,193
+Sikkim,2010,Central Jail,76,67,143
+Sikkim,2010,District Jail,0,64,64
+Sikkim,2010,Sub_Jail,0,0,0
+Sikkim,2010,Women Jail,0,0,0
+Sikkim,2010,Borstal School,0,0,0
+Sikkim,2010,Open Jail,0,0,0
+Sikkim,2010,Special Jail,0,0,0
+Sikkim,2010,Others,0,0,0
+Sikkim,2010,Total,76,131,207
+Sikkim,2011,Central Jail,70,61,131
+Sikkim,2011,District Jail,0,59,59
+Sikkim,2011,Sub_Jail,0,0,0
+Sikkim,2011,Women Jail,0,0,0
+Sikkim,2011,Borstal School,0,0,0
+Sikkim,2011,Open Jail,0,0,0
+Sikkim,2011,Special Jail,0,0,0
+Sikkim,2011,Others,0,0,0
+Sikkim,2011,Total,70,120,190
+Sikkim,2012,Central Jail,88,74,162
+Sikkim,2012,District Jail,0,74,74
+Sikkim,2012,Sub_Jail,0,0,0
+Sikkim,2012,Women Jail,0,0,0
+Sikkim,2012,Borstal School,0,0,0
+Sikkim,2012,Open Jail,0,0,0
+Sikkim,2012,Special Jail,0,0,0
+Sikkim,2012,Others,0,0,0
+Sikkim,2012,Total,88,148,236
+Tamilnadu,2001,Central Jail,4663,1836,6499
+Tamilnadu,2001,District Jail,0,0,0
+Tamilnadu,2001,Sub_Jail,4,473,477
+Tamilnadu,2001,Women Jail,154,25,179
+Tamilnadu,2001,Borstal School,25,0,25
+Tamilnadu,2001,Open Jail,11,0,11
+Tamilnadu,2001,Special Jail,0,31,31
+Tamilnadu,2001,Others,0,0,0
+Tamilnadu,2001,Total,4857,2365,7222
+Tamilnadu,2002,Central Jail,5362,2482,7844
+Tamilnadu,2002,District Jail,0,0,0
+Tamilnadu,2002,Sub_Jail,2,25,27
+Tamilnadu,2002,Women Jail,174,49,223
+Tamilnadu,2002,Borstal School,25,0,25
+Tamilnadu,2002,Open Jail,16,0,16
+Tamilnadu,2002,Special Jail,3,11,14
+Tamilnadu,2002,Others,0,0,0
+Tamilnadu,2002,Total,5582,2567,8149
+Tamilnadu,2003,Central Jail,5869,3022,8891
+Tamilnadu,2003,District Jail,0,0,0
+Tamilnadu,2003,Sub_Jail,1,0,1
+Tamilnadu,2003,Women Jail,188,47,235
+Tamilnadu,2003,Borstal School,11,0,11
+Tamilnadu,2003,Open Jail,89,0,89
+Tamilnadu,2003,Special Jail,3,0,3
+Tamilnadu,2003,Others,0,0,0
+Tamilnadu,2003,Total,6161,3069,9230
+Tamilnadu,2004,Central Jail,6496,2869,9365
+Tamilnadu,2004,District Jail,0,0,0
+Tamilnadu,2004,Sub_Jail,0,4,4
+Tamilnadu,2004,Women Jail,200,45,245
+Tamilnadu,2004,Borstal School,9,0,9
+Tamilnadu,2004,Open Jail,89,0,89
+Tamilnadu,2004,Special Jail,0,0,0
+Tamilnadu,2004,Others,9,0,9
+Tamilnadu,2004,Total,6803,2918,9721
+Tamilnadu,2005,Central Jail,7130,2961,10091
+Tamilnadu,2005,District Jail,0,0,0
+Tamilnadu,2005,Sub_Jail,0,0,0
+Tamilnadu,2005,Women Jail,243,47,290
+Tamilnadu,2005,Borstal School,11,0,11
+Tamilnadu,2005,Open Jail,65,0,65
+Tamilnadu,2005,Special Jail,4,0,4
+Tamilnadu,2005,Others,10,0,10
+Tamilnadu,2005,Total,7463,3008,10471
+Tamilnadu,2006,Central Jail,6434,2840,9274
+Tamilnadu,2006,District Jail,0,0,0
+Tamilnadu,2006,Sub_Jail,0,0,0
+Tamilnadu,2006,Women Jail,197,45,242
+Tamilnadu,2006,Borstal School,0,0,0
+Tamilnadu,2006,Open Jail,53,0,53
+Tamilnadu,2006,Special Jail,10,0,10
+Tamilnadu,2006,Others,12,0,12
+Tamilnadu,2006,Total,6706,2885,9591
+Tamilnadu,2007,Central Jail,6126,6236,12362
+Tamilnadu,2007,District Jail,0,444,444
+Tamilnadu,2007,Sub_Jail,0,1956,1956
+Tamilnadu,2007,Women Jail,189,606,795
+Tamilnadu,2007,Borstal School,7,131,138
+Tamilnadu,2007,Open Jail,59,0,59
+Tamilnadu,2007,Special Jail,1,169,170
+Tamilnadu,2007,Others,0,0,0
+Tamilnadu,2007,Total,6382,9542,15924
+Tamilnadu,2008,Central Jail,5143,6398,11541
+Tamilnadu,2008,District Jail,0,365,365
+Tamilnadu,2008,Sub_Jail,0,1905,1905
+Tamilnadu,2008,Women Jail,173,507,680
+Tamilnadu,2008,Borstal School,58,491,549
+Tamilnadu,2008,Open Jail,45,0,45
+Tamilnadu,2008,Special Jail,0,80,80
+Tamilnadu,2008,Others,0,0,0
+Tamilnadu,2008,Total,5419,9746,15165
+Tamilnadu,2009,Central Jail,5122,5429,10551
+Tamilnadu,2009,District Jail,0,571,571
+Tamilnadu,2009,Sub_Jail,0,1441,1441
+Tamilnadu,2009,Women Jail,177,312,489
+Tamilnadu,2009,Borstal School,7,330,337
+Tamilnadu,2009,Open Jail,55,0,55
+Tamilnadu,2009,Special Jail,0,76,76
+Tamilnadu,2009,Others,0,0,0
+Tamilnadu,2009,Total,5361,8159,13520
+Tamilnadu,2010,Central Jail,5137,5239,10376
+Tamilnadu,2010,District Jail,0,449,449
+Tamilnadu,2010,Sub_Jail,0,1299,1299
+Tamilnadu,2010,Women Jail,167,284,451
+Tamilnadu,2010,Borstal School,5,343,348
+Tamilnadu,2010,Open Jail,24,0,24
+Tamilnadu,2010,Special Jail,0,83,83
+Tamilnadu,2010,Others,0,0,0
+Tamilnadu,2010,Total,5333,7697,13030
+Tamilnadu,2011,Central Jail,4955,4815,9770
+Tamilnadu,2011,District Jail,1,611,612
+Tamilnadu,2011,Sub_Jail,0,1546,1546
+Tamilnadu,2011,Women Jail,175,277,452
+Tamilnadu,2011,Borstal School,3,375,378
+Tamilnadu,2011,Open Jail,66,0,66
+Tamilnadu,2011,Special Jail,0,58,58
+Tamilnadu,2011,Others,0,0,0
+Tamilnadu,2011,Total,5200,7682,12882
+Tamilnadu,2012,Central Jail,4436,5206,9642
+Tamilnadu,2012,District Jail,0,613,613
+Tamilnadu,2012,Sub_Jail,0,1509,1509
+Tamilnadu,2012,Women Jail,168,293,461
+Tamilnadu,2012,Borstal School,11,309,320
+Tamilnadu,2012,Open Jail,63,0,63
+Tamilnadu,2012,Special Jail,0,64,64
+Tamilnadu,2012,Others,0,0,0
+Tamilnadu,2012,Total,4678,7994,12672
+Tripura,2001,Central Jail,316,136,452
+Tripura,2001,District Jail,14,248,262
+Tripura,2001,Sub_Jail,28,283,311
+Tripura,2001,Women Jail,4,9,13
+Tripura,2001,Borstal School,0,0,0
+Tripura,2001,Open Jail,0,0,0
+Tripura,2001,Special Jail,0,0,0
+Tripura,2001,Others,0,0,0
+Tripura,2001,Total,362,676,1038
+Tripura,2002,Central Jail,447,152,599
+Tripura,2002,District Jail,19,125,144
+Tripura,2002,Sub_Jail,16,270,286
+Tripura,2002,Women Jail,6,4,10
+Tripura,2002,Borstal School,0,0,0
+Tripura,2002,Open Jail,0,0,0
+Tripura,2002,Special Jail,0,0,0
+Tripura,2002,Others,0,0,0
+Tripura,2002,Total,488,551,1039
+Tripura,2003,Central Jail,274,201,475
+Tripura,2003,District Jail,102,170,272
+Tripura,2003,Sub_Jail,117,522,639
+Tripura,2003,Women Jail,7,5,12
+Tripura,2003,Borstal School,0,0,0
+Tripura,2003,Open Jail,0,0,0
+Tripura,2003,Special Jail,0,0,0
+Tripura,2003,Others,0,0,0
+Tripura,2003,Total,500,898,1398
+Tripura,2004,Central Jail,351,159,510
+Tripura,2004,District Jail,97,160,257
+Tripura,2004,Sub_Jail,92,385,477
+Tripura,2004,Women Jail,14,4,18
+Tripura,2004,Borstal School,0,0,0
+Tripura,2004,Open Jail,0,0,0
+Tripura,2004,Special Jail,0,0,0
+Tripura,2004,Others,0,0,0
+Tripura,2004,Total,554,708,1262
+Tripura,2005,Central Jail,512,167,679
+Tripura,2005,District Jail,105,122,227
+Tripura,2005,Sub_Jail,120,363,483
+Tripura,2005,Women Jail,15,4,19
+Tripura,2005,Borstal School,0,0,0
+Tripura,2005,Open Jail,0,0,0
+Tripura,2005,Special Jail,0,0,0
+Tripura,2005,Others,0,0,0
+Tripura,2005,Total,752,656,1408
+Tripura,2006,Central Jail,556,137,693
+Tripura,2006,District Jail,115,88,203
+Tripura,2006,Sub_Jail,101,351,452
+Tripura,2006,Women Jail,17,5,22
+Tripura,2006,Borstal School,0,0,0
+Tripura,2006,Open Jail,0,0,0
+Tripura,2006,Special Jail,0,0,0
+Tripura,2006,Others,0,0,0
+Tripura,2006,Total,789,581,1370
+Tripura,2007,Central Jail,533,137,670
+Tripura,2007,District Jail,162,62,224
+Tripura,2007,Sub_Jail,97,296,393
+Tripura,2007,Women Jail,21,8,29
+Tripura,2007,Borstal School,0,0,0
+Tripura,2007,Open Jail,0,0,0
+Tripura,2007,Special Jail,0,0,0
+Tripura,2007,Others,0,0,0
+Tripura,2007,Total,813,503,1316
+Tripura,2008,Central Jail,531,140,671
+Tripura,2008,District Jail,177,78,255
+Tripura,2008,Sub_Jail,100,230,330
+Tripura,2008,Women Jail,19,3,22
+Tripura,2008,Borstal School,0,0,0
+Tripura,2008,Open Jail,0,0,0
+Tripura,2008,Special Jail,0,0,0
+Tripura,2008,Others,0,0,0
+Tripura,2008,Total,827,451,1278
+Tripura,2009,Central Jail,382,117,499
+Tripura,2009,District Jail,147,73,220
+Tripura,2009,Sub_Jail,111,141,252
+Tripura,2009,Women Jail,13,4,17
+Tripura,2009,Borstal School,0,0,0
+Tripura,2009,Open Jail,0,0,0
+Tripura,2009,Special Jail,0,0,0
+Tripura,2009,Others,0,0,0
+Tripura,2009,Total,653,335,988
+Tripura,2010,Central Jail,329,121,450
+Tripura,2010,District Jail,108,47,155
+Tripura,2010,Sub_Jail,155,179,334
+Tripura,2010,Women Jail,11,1,12
+Tripura,2010,Borstal School,0,0,0
+Tripura,2010,Open Jail,0,0,0
+Tripura,2010,Special Jail,0,0,0
+Tripura,2010,Others,0,0,0
+Tripura,2010,Total,603,348,951
+Tripura,2011,Central Jail,314,110,424
+Tripura,2011,District Jail,123,46,169
+Tripura,2011,Sub_Jail,118,163,281
+Tripura,2011,Women Jail,14,11,25
+Tripura,2011,Borstal School,0,0,0
+Tripura,2011,Open Jail,0,0,0
+Tripura,2011,Special Jail,0,0,0
+Tripura,2011,Others,0,0,0
+Tripura,2011,Total,569,330,899
+Tripura,2012,Central Jail,307,119,426
+Tripura,2012,District Jail,113,47,160
+Tripura,2012,Sub_Jail,116,174,290
+Tripura,2012,Women Jail,13,12,25
+Tripura,2012,Borstal School,0,0,0
+Tripura,2012,Open Jail,0,0,0
+Tripura,2012,Special Jail,0,0,0
+Tripura,2012,Others,0,0,0
+Tripura,2012,Total,549,352,901
+Uttar Pradesh,2001,Central Jail,3353,3702,7055
+Uttar Pradesh,2001,District Jail,1913,42592,44505
+Uttar Pradesh,2001,Sub_Jail,22,581,603
+Uttar Pradesh,2001,Women Jail,18,0,18
+Uttar Pradesh,2001,Borstal School,0,0,0
+Uttar Pradesh,2001,Open Jail,0,0,0
+Uttar Pradesh,2001,Special Jail,262,0,262
+Uttar Pradesh,2001,Others,0,0,0
+Uttar Pradesh,2001,Total,5568,46875,52443
+Uttar Pradesh,2002,Central Jail,3671,1976,5647
+Uttar Pradesh,2002,District Jail,2021,42592,44613
+Uttar Pradesh,2002,Sub_Jail,26,348,374
+Uttar Pradesh,2002,Women Jail,126,0,126
+Uttar Pradesh,2002,Borstal School,0,0,0
+Uttar Pradesh,2002,Open Jail,0,0,0
+Uttar Pradesh,2002,Special Jail,229,35,264
+Uttar Pradesh,2002,Others,0,0,0
+Uttar Pradesh,2002,Total,6073,44951,51024
+Uttar Pradesh,2003,Central Jail,3958,2323,6281
+Uttar Pradesh,2003,District Jail,2893,38965,41858
+Uttar Pradesh,2003,Sub_Jail,23,422,445
+Uttar Pradesh,2003,Women Jail,140,0,140
+Uttar Pradesh,2003,Borstal School,0,0,0
+Uttar Pradesh,2003,Open Jail,0,0,0
+Uttar Pradesh,2003,Special Jail,175,0,175
+Uttar Pradesh,2003,Others,0,0,0
+Uttar Pradesh,2003,Total,7189,41710,48899
+Uttar Pradesh,2004,Central Jail,4743,2163,6906
+Uttar Pradesh,2004,District Jail,3307,38496,41803
+Uttar Pradesh,2004,Sub_Jail,42,461,503
+Uttar Pradesh,2004,Women Jail,6,104,110
+Uttar Pradesh,2004,Borstal School,0,0,0
+Uttar Pradesh,2004,Open Jail,0,0,0
+Uttar Pradesh,2004,Special Jail,213,0,213
+Uttar Pradesh,2004,Others,0,0,0
+Uttar Pradesh,2004,Total,8311,41224,49535
+Uttar Pradesh,2005,Central Jail,7198,1396,8594
+Uttar Pradesh,2005,District Jail,5659,41249,46908
+Uttar Pradesh,2005,Sub_Jail,36,410,446
+Uttar Pradesh,2005,Women Jail,125,0,125
+Uttar Pradesh,2005,Borstal School,0,0,0
+Uttar Pradesh,2005,Open Jail,0,0,0
+Uttar Pradesh,2005,Special Jail,266,23,289
+Uttar Pradesh,2005,Others,0,0,0
+Uttar Pradesh,2005,Total,13284,43078,56362
+Uttar Pradesh,2006,Central Jail,9806,1754,11560
+Uttar Pradesh,2006,District Jail,6000,47781,53781
+Uttar Pradesh,2006,Sub_Jail,75,607,682
+Uttar Pradesh,2006,Women Jail,175,0,175
+Uttar Pradesh,2006,Borstal School,0,0,0
+Uttar Pradesh,2006,Open Jail,0,0,0
+Uttar Pradesh,2006,Special Jail,233,21,254
+Uttar Pradesh,2006,Others,0,0,0
+Uttar Pradesh,2006,Total,16289,50163,66452
+Uttar Pradesh,2007,Central Jail,12336,2399,14735
+Uttar Pradesh,2007,District Jail,6754,51034,57788
+Uttar Pradesh,2007,Sub_Jail,130,559,689
+Uttar Pradesh,2007,Women Jail,155,0,155
+Uttar Pradesh,2007,Borstal School,0,0,0
+Uttar Pradesh,2007,Open Jail,0,0,0
+Uttar Pradesh,2007,Special Jail,318,0,318
+Uttar Pradesh,2007,Others,0,0,0
+Uttar Pradesh,2007,Total,19693,53992,73685
+Uttar Pradesh,2008,Central Jail,12156,2131,14287
+Uttar Pradesh,2008,District Jail,8898,55809,64707
+Uttar Pradesh,2008,Sub_Jail,148,558,706
+Uttar Pradesh,2008,Women Jail,154,0,154
+Uttar Pradesh,2008,Borstal School,0,0,0
+Uttar Pradesh,2008,Open Jail,0,0,0
+Uttar Pradesh,2008,Special Jail,319,0,319
+Uttar Pradesh,2008,Others,0,0,0
+Uttar Pradesh,2008,Total,21675,58498,80173
+Uttar Pradesh,2009,Central Jail,11145,2064,13209
+Uttar Pradesh,2009,District Jail,12508,56469,68977
+Uttar Pradesh,2009,Sub_Jail,181,525,706
+Uttar Pradesh,2009,Women Jail,219,0,219
+Uttar Pradesh,2009,Borstal School,0,0,0
+Uttar Pradesh,2009,Open Jail,0,0,0
+Uttar Pradesh,2009,Special Jail,377,0,377
+Uttar Pradesh,2009,Others,0,0,0
+Uttar Pradesh,2009,Total,24430,59058,83488
+Uttar Pradesh,2010,Central Jail,12769,2182,14951
+Uttar Pradesh,2010,District Jail,12889,53171,66060
+Uttar Pradesh,2010,Sub_Jail,128,519,647
+Uttar Pradesh,2010,Women Jail,342,0,342
+Uttar Pradesh,2010,Borstal School,0,0,0
+Uttar Pradesh,2010,Open Jail,0,0,0
+Uttar Pradesh,2010,Special Jail,405,0,405
+Uttar Pradesh,2010,Others,0,0,0
+Uttar Pradesh,2010,Total,26533,55872,82405
+Uttar Pradesh,2011,Central Jail,11898,1989,13887
+Uttar Pradesh,2011,District Jail,15307,51379,66686
+Uttar Pradesh,2011,Sub_Jail,147,608,755
+Uttar Pradesh,2011,Women Jail,299,86,385
+Uttar Pradesh,2011,Borstal School,0,0,0
+Uttar Pradesh,2011,Open Jail,0,0,0
+Uttar Pradesh,2011,Special Jail,400,0,400
+Uttar Pradesh,2011,Others,0,0,0
+Uttar Pradesh,2011,Total,28051,54062,82113
+Uttar Pradesh,2012,Central Jail,10708,2142,12850
+Uttar Pradesh,2012,District Jail,14782,50956,65738
+Uttar Pradesh,2012,Sub_Jail,107,668,775
+Uttar Pradesh,2012,Women Jail,256,50,306
+Uttar Pradesh,2012,Borstal School,0,0,0
+Uttar Pradesh,2012,Open Jail,0,0,0
+Uttar Pradesh,2012,Special Jail,397,5,402
+Uttar Pradesh,2012,Others,0,0,0
+Uttar Pradesh,2012,Total,26250,53821,80071
+Uttaranchal,2001,Central Jail,0,0,0
+Uttaranchal,2001,District Jail,128,949,1077
+Uttaranchal,2001,Sub_Jail,123,832,955
+Uttaranchal,2001,Women Jail,0,0,0
+Uttaranchal,2001,Borstal School,0,0,0
+Uttaranchal,2001,Open Jail,258,0,258
+Uttaranchal,2001,Special Jail,0,0,0
+Uttaranchal,2001,Others,0,0,0
+Uttaranchal,2001,Total,509,1781,2290
+Uttaranchal,2002,Central Jail,0,0,0
+Uttaranchal,2002,District Jail,267,1041,1308
+Uttaranchal,2002,Sub_Jail,120,661,781
+Uttaranchal,2002,Women Jail,0,0,0
+Uttaranchal,2002,Borstal School,0,0,0
+Uttaranchal,2002,Open Jail,270,0,270
+Uttaranchal,2002,Special Jail,0,0,0
+Uttaranchal,2002,Others,0,0,0
+Uttaranchal,2002,Total,657,1702,2359
+Uttaranchal,2003,Central Jail,0,0,0
+Uttaranchal,2003,District Jail,400,1000,1400
+Uttaranchal,2003,Sub_Jail,53,719,772
+Uttaranchal,2003,Women Jail,0,0,0
+Uttaranchal,2003,Borstal School,0,0,0
+Uttaranchal,2003,Open Jail,252,0,252
+Uttaranchal,2003,Special Jail,0,0,0
+Uttaranchal,2003,Others,0,0,0
+Uttaranchal,2003,Total,705,1719,2424
+Uttaranchal,2004,Central Jail,0,0,0
+Uttaranchal,2004,District Jail,389,942,1331
+Uttaranchal,2004,Sub_Jail,51,668,719
+Uttaranchal,2004,Women Jail,0,0,0
+Uttaranchal,2004,Borstal School,0,0,0
+Uttaranchal,2004,Open Jail,310,0,310
+Uttaranchal,2004,Special Jail,0,0,0
+Uttaranchal,2004,Others,0,0,0
+Uttaranchal,2004,Total,750,1610,2360
+Uttaranchal,2005,Central Jail,0,0,0
+Uttaranchal,2005,District Jail,413,889,1302
+Uttaranchal,2005,Sub_Jail,48,689,737
+Uttaranchal,2005,Women Jail,0,0,0
+Uttaranchal,2005,Borstal School,0,0,0
+Uttaranchal,2005,Open Jail,304,0,304
+Uttaranchal,2005,Special Jail,0,0,0
+Uttaranchal,2005,Others,0,0,0
+Uttaranchal,2005,Total,765,1578,2343
+Uttaranchal,2006,Central Jail,0,0,0
+Uttaranchal,2006,District Jail,629,950,1579
+Uttaranchal,2006,Sub_Jail,43,787,830
+Uttaranchal,2006,Women Jail,0,0,0
+Uttaranchal,2006,Borstal School,0,0,0
+Uttaranchal,2006,Open Jail,235,0,235
+Uttaranchal,2006,Special Jail,0,0,0
+Uttaranchal,2006,Others,0,0,0
+Uttaranchal,2006,Total,907,1737,2644
+Uttaranchal,2007,Central Jail,0,0,0
+Uttaranchal,2007,District Jail,785,897,1682
+Uttaranchal,2007,Sub_Jail,43,764,807
+Uttaranchal,2007,Women Jail,0,0,0
+Uttaranchal,2007,Borstal School,0,0,0
+Uttaranchal,2007,Open Jail,220,0,220
+Uttaranchal,2007,Special Jail,0,0,0
+Uttaranchal,2007,Others,0,0,0
+Uttaranchal,2007,Total,1048,1661,2709
+Uttaranchal,2008,Central Jail,0,0,0
+Uttaranchal,2008,District Jail,976,1096,2072
+Uttaranchal,2008,Sub_Jail,33,916,949
+Uttaranchal,2008,Women Jail,0,0,0
+Uttaranchal,2008,Borstal School,0,0,0
+Uttaranchal,2008,Open Jail,213,0,213
+Uttaranchal,2008,Special Jail,0,0,0
+Uttaranchal,2008,Others,0,0,0
+Uttaranchal,2008,Total,1222,2012,3234
+Uttaranchal,2009,Central Jail,0,0,0
+Uttaranchal,2009,District Jail,1040,1235,2275
+Uttaranchal,2009,Sub_Jail,45,989,1034
+Uttaranchal,2009,Women Jail,0,0,0
+Uttaranchal,2009,Borstal School,0,0,0
+Uttaranchal,2009,Open Jail,198,0,198
+Uttaranchal,2009,Special Jail,0,0,0
+Uttaranchal,2009,Others,0,0,0
+Uttaranchal,2009,Total,1283,2224,3507
+Uttaranchal,2010,Central Jail,0,0,0
+Uttaranchal,2010,District Jail,1155,1211,2366
+Uttaranchal,2010,Sub_Jail,88,876,964
+Uttaranchal,2010,Women Jail,0,0,0
+Uttaranchal,2010,Borstal School,0,0,0
+Uttaranchal,2010,Open Jail,213,0,213
+Uttaranchal,2010,Special Jail,0,0,0
+Uttaranchal,2010,Others,0,0,0
+Uttaranchal,2010,Total,1456,2087,3543
+Uttaranchal,2011,Central Jail,19,0,19
+Uttaranchal,2011,District Jail,1283,892,2175
+Uttaranchal,2011,Sub_Jail,36,816,852
+Uttaranchal,2011,Women Jail,0,0,0
+Uttaranchal,2011,Borstal School,0,0,0
+Uttaranchal,2011,Open Jail,215,0,215
+Uttaranchal,2011,Special Jail,0,0,0
+Uttaranchal,2011,Others,0,0,0
+Uttaranchal,2011,Total,1553,1708,3261
+Uttaranchal,2012,Central Jail,66,0,66
+Uttaranchal,2012,District Jail,1411,1067,2478
+Uttaranchal,2012,Sub_Jail,54,795,849
+Uttaranchal,2012,Women Jail,0,0,0
+Uttaranchal,2012,Borstal School,0,0,0
+Uttaranchal,2012,Open Jail,142,0,142
+Uttaranchal,2012,Special Jail,0,0,0
+Uttaranchal,2012,Others,0,0,0
+Uttaranchal,2012,Total,1673,1862,3535
+West Bengal,2001,Central Jail,2030,4167,6197
+West Bengal,2001,District Jail,284,2296,2580
+West Bengal,2001,Sub_Jail,113,2750,2863
+West Bengal,2001,Women Jail,16,5,21
+West Bengal,2001,Borstal School,0,0,0
+West Bengal,2001,Open Jail,35,0,35
+West Bengal,2001,Special Jail,29,504,533
+West Bengal,2001,Others,0,0,0
+West Bengal,2001,Total,2507,9722,12229
+West Bengal,2002,Central Jail,2167,8079,10246
+West Bengal,2002,District Jail,306,3754,4060
+West Bengal,2002,Sub_Jail,73,3458,3531
+West Bengal,2002,Women Jail,17,7,24
+West Bengal,2002,Borstal School,0,0,0
+West Bengal,2002,Open Jail,25,0,25
+West Bengal,2002,Special Jail,23,738,761
+West Bengal,2002,Others,0,0,0
+West Bengal,2002,Total,2611,16036,18647
+West Bengal,2003,Central Jail,2804,5966,8770
+West Bengal,2003,District Jail,492,3078,3570
+West Bengal,2003,Sub_Jail,77,3117,3194
+West Bengal,2003,Women Jail,17,21,38
+West Bengal,2003,Borstal School,0,0,0
+West Bengal,2003,Open Jail,20,0,20
+West Bengal,2003,Special Jail,40,575,615
+West Bengal,2003,Others,0,0,0
+West Bengal,2003,Total,3450,12757,16207
+West Bengal,2004,Central Jail,3014,6046,9060
+West Bengal,2004,District Jail,340,2901,3241
+West Bengal,2004,Sub_Jail,72,3024,3096
+West Bengal,2004,Women Jail,34,9,43
+West Bengal,2004,Borstal School,0,0,0
+West Bengal,2004,Open Jail,23,0,23
+West Bengal,2004,Special Jail,37,810,847
+West Bengal,2004,Others,0,0,0
+West Bengal,2004,Total,3520,12790,16310
+West Bengal,2005,Central Jail,3357,7076,10433
+West Bengal,2005,District Jail,294,3384,3678
+West Bengal,2005,Sub_Jail,70,2766,2836
+West Bengal,2005,Women Jail,43,9,52
+West Bengal,2005,Borstal School,0,0,0
+West Bengal,2005,Open Jail,28,0,28
+West Bengal,2005,Special Jail,56,782,838
+West Bengal,2005,Others,0,0,0
+West Bengal,2005,Total,3848,14017,17865
+West Bengal,2006,Central Jail,3439,6786,10225
+West Bengal,2006,District Jail,231,3591,3822
+West Bengal,2006,Sub_Jail,56,2976,3032
+West Bengal,2006,Women Jail,44,8,52
+West Bengal,2006,Borstal School,0,0,0
+West Bengal,2006,Open Jail,68,0,68
+West Bengal,2006,Special Jail,38,731,769
+West Bengal,2006,Others,0,0,0
+West Bengal,2006,Total,3876,14092,17968
+West Bengal,2007,Central Jail,3799,6235,10034
+West Bengal,2007,District Jail,305,3951,4256
+West Bengal,2007,Sub_Jail,68,2986,3054
+West Bengal,2007,Women Jail,40,11,51
+West Bengal,2007,Borstal School,0,0,0
+West Bengal,2007,Open Jail,86,0,86
+West Bengal,2007,Special Jail,47,778,825
+West Bengal,2007,Others,0,0,0
+West Bengal,2007,Total,4345,13961,18306
+West Bengal,2008,Central Jail,5073,5652,10725
+West Bengal,2008,District Jail,489,3833,4322
+West Bengal,2008,Sub_Jail,75,3569,3644
+West Bengal,2008,Women Jail,114,225,339
+West Bengal,2008,Borstal School,0,0,0
+West Bengal,2008,Open Jail,103,0,103
+West Bengal,2008,Special Jail,127,832,959
+West Bengal,2008,Others,0,0,0
+West Bengal,2008,Total,5981,14111,20092
+West Bengal,2009,Central Jail,4573,5626,10199
+West Bengal,2009,District Jail,869,3030,3899
+West Bengal,2009,Sub_Jail,68,1987,2055
+West Bengal,2009,Women Jail,112,154,266
+West Bengal,2009,Borstal School,0,0,0
+West Bengal,2009,Open Jail,98,0,98
+West Bengal,2009,Special Jail,199,668,867
+West Bengal,2009,Others,0,0,0
+West Bengal,2009,Total,5919,11465,17384
+West Bengal,2010,Central Jail,4267,5098,9365
+West Bengal,2010,District Jail,1135,3154,4289
+West Bengal,2010,Sub_Jail,39,3260,3299
+West Bengal,2010,Women Jail,115,154,269
+West Bengal,2010,Borstal School,0,0,0
+West Bengal,2010,Open Jail,96,0,96
+West Bengal,2010,Special Jail,126,695,821
+West Bengal,2010,Others,0,0,0
+West Bengal,2010,Total,5778,12361,18139
+West Bengal,2011,Central Jail,4284,5159,9443
+West Bengal,2011,District Jail,953,3939,4892
+West Bengal,2011,Sub_Jail,48,3551,3599
+West Bengal,2011,Women Jail,152,178,330
+West Bengal,2011,Borstal School,0,0,0
+West Bengal,2011,Open Jail,99,0,99
+West Bengal,2011,Special Jail,124,740,864
+West Bengal,2011,Others,0,0,0
+West Bengal,2011,Total,5660,13567,19227
+West Bengal,2012,Central Jail,4793,5871,10664
+West Bengal,2012,District Jail,976,3324,4300
+West Bengal,2012,Sub_Jail,101,3754,3855
+West Bengal,2012,Women Jail,147,206,353
+West Bengal,2012,Borstal School,0,0,0
+West Bengal,2012,Open Jail,76,0,76
+West Bengal,2012,Special Jail,78,822,900
+West Bengal,2012,Others,0,0,0
+West Bengal,2012,Total,6171,13977,20148
+A & N Islands,2001,Central Jail,0,0,0
+A & N Islands,2001,District Jail,217,159,376
+A & N Islands,2001,Sub_Jail,0,0,0
+A & N Islands,2001,Women Jail,0,0,0
+A & N Islands,2001,Borstal School,0,0,0
+A & N Islands,2001,Open Jail,0,0,0
+A & N Islands,2001,Special Jail,0,0,0
+A & N Islands,2001,Others,0,7,7
+A & N Islands,2001,Total,217,166,383
+A & N Islands,2002,Central Jail,0,0,0
+A & N Islands,2002,District Jail,137,185,322
+A & N Islands,2002,Sub_Jail,0,0,0
+A & N Islands,2002,Women Jail,0,0,0
+A & N Islands,2002,Borstal School,0,0,0
+A & N Islands,2002,Open Jail,0,0,0
+A & N Islands,2002,Special Jail,0,0,0
+A & N Islands,2002,Others,0,9,9
+A & N Islands,2002,Total,137,194,331
+A & N Islands,2003,Central Jail,0,0,0
+A & N Islands,2003,District Jail,92,190,282
+A & N Islands,2003,Sub_Jail,0,0,0
+A & N Islands,2003,Women Jail,0,0,0
+A & N Islands,2003,Borstal School,0,0,0
+A & N Islands,2003,Open Jail,0,0,0
+A & N Islands,2003,Special Jail,0,0,0
+A & N Islands,2003,Others,0,14,14
+A & N Islands,2003,Total,92,204,296
+A & N Islands,2004,Central Jail,0,0,0
+A & N Islands,2004,District Jail,56,157,213
+A & N Islands,2004,Sub_Jail,0,8,8
+A & N Islands,2004,Women Jail,0,0,0
+A & N Islands,2004,Borstal School,0,0,0
+A & N Islands,2004,Open Jail,0,0,0
+A & N Islands,2004,Special Jail,0,0,0
+A & N Islands,2004,Others,0,0,0
+A & N Islands,2004,Total,56,165,221
+A & N Islands,2005,Central Jail,0,0,0
+A & N Islands,2005,District Jail,65,154,219
+A & N Islands,2005,Sub_Jail,1,4,5
+A & N Islands,2005,Women Jail,0,0,0
+A & N Islands,2005,Borstal School,0,0,0
+A & N Islands,2005,Open Jail,0,0,0
+A & N Islands,2005,Special Jail,0,0,0
+A & N Islands,2005,Others,0,0,0
+A & N Islands,2005,Total,66,158,224
+A & N Islands,2006,Central Jail,0,0,0
+A & N Islands,2006,District Jail,81,259,340
+A & N Islands,2006,Sub_Jail,0,6,6
+A & N Islands,2006,Women Jail,0,0,0
+A & N Islands,2006,Borstal School,0,0,0
+A & N Islands,2006,Open Jail,0,0,0
+A & N Islands,2006,Special Jail,0,0,0
+A & N Islands,2006,Others,0,0,0
+A & N Islands,2006,Total,81,265,346
+A & N Islands,2007,Central Jail,0,0,0
+A & N Islands,2007,District Jail,87,314,401
+A & N Islands,2007,Sub_Jail,1,11,12
+A & N Islands,2007,Women Jail,0,0,0
+A & N Islands,2007,Borstal School,0,0,0
+A & N Islands,2007,Open Jail,0,0,0
+A & N Islands,2007,Special Jail,0,0,0
+A & N Islands,2007,Others,0,0,0
+A & N Islands,2007,Total,88,325,413
+A & N Islands,2008,Central Jail,0,0,0
+A & N Islands,2008,District Jail,67,142,209
+A & N Islands,2008,Sub_Jail,1,11,12
+A & N Islands,2008,Women Jail,0,0,0
+A & N Islands,2008,Borstal School,0,0,0
+A & N Islands,2008,Open Jail,0,0,0
+A & N Islands,2008,Special Jail,0,0,0
+A & N Islands,2008,Others,0,0,0
+A & N Islands,2008,Total,68,153,221
+A & N Islands,2009,Central Jail,0,0,0
+A & N Islands,2009,District Jail,46,165,211
+A & N Islands,2009,Sub_Jail,2,15,17
+A & N Islands,2009,Women Jail,0,0,0
+A & N Islands,2009,Borstal School,0,0,0
+A & N Islands,2009,Open Jail,0,0,0
+A & N Islands,2009,Special Jail,0,0,0
+A & N Islands,2009,Others,0,0,0
+A & N Islands,2009,Total,48,180,228
+A & N Islands,2010,Central Jail,0,0,0
+A & N Islands,2010,District Jail,120,544,664
+A & N Islands,2010,Sub_Jail,9,15,24
+A & N Islands,2010,Women Jail,0,0,0
+A & N Islands,2010,Borstal School,0,0,0
+A & N Islands,2010,Open Jail,0,0,0
+A & N Islands,2010,Special Jail,0,0,0
+A & N Islands,2010,Others,0,0,0
+A & N Islands,2010,Total,129,559,688
+A & N Islands,2011,Central Jail,0,0,0
+A & N Islands,2011,District Jail,411,690,1101
+A & N Islands,2011,Sub_Jail,4,14,18
+A & N Islands,2011,Women Jail,0,0,0
+A & N Islands,2011,Borstal School,0,0,0
+A & N Islands,2011,Open Jail,0,0,0
+A & N Islands,2011,Special Jail,0,0,0
+A & N Islands,2011,Others,0,0,0
+A & N Islands,2011,Total,415,704,1119
+A & N Islands,2012,Central Jail,0,0,0
+A & N Islands,2012,District Jail,654,348,1002
+A & N Islands,2012,Sub_Jail,4,18,22
+A & N Islands,2012,Women Jail,0,0,0
+A & N Islands,2012,Borstal School,0,0,0
+A & N Islands,2012,Open Jail,0,0,0
+A & N Islands,2012,Special Jail,102,0,102
+A & N Islands,2012,Others,0,0,0
+A & N Islands,2012,Total,760,366,1126
+Chandigarh,2001,Central Jail,0,0,0
+Chandigarh,2001,District Jail,0,0,0
+Chandigarh,2001,Sub_Jail,0,0,0
+Chandigarh,2001,Women Jail,0,0,0
+Chandigarh,2001,Borstal School,0,0,0
+Chandigarh,2001,Open Jail,0,0,0
+Chandigarh,2001,Special Jail,0,0,0
+Chandigarh,2001,Others,102,324,426
+Chandigarh,2001,Total,102,324,426
+Chandigarh,2002,Central Jail,0,0,0
+Chandigarh,2002,District Jail,0,0,0
+Chandigarh,2002,Sub_Jail,0,0,0
+Chandigarh,2002,Women Jail,0,0,0
+Chandigarh,2002,Borstal School,0,0,0
+Chandigarh,2002,Open Jail,0,0,0
+Chandigarh,2002,Special Jail,0,0,0
+Chandigarh,2002,Others,111,345,456
+Chandigarh,2002,Total,111,345,456
+Chandigarh,2003,Central Jail,0,0,0
+Chandigarh,2003,District Jail,0,0,0
+Chandigarh,2003,Sub_Jail,0,0,0
+Chandigarh,2003,Women Jail,0,0,0
+Chandigarh,2003,Borstal School,0,0,0
+Chandigarh,2003,Open Jail,0,0,0
+Chandigarh,2003,Special Jail,0,0,0
+Chandigarh,2003,Others,144,381,525
+Chandigarh,2003,Total,144,381,525
+Chandigarh,2004,Central Jail,0,0,0
+Chandigarh,2004,District Jail,0,0,0
+Chandigarh,2004,Sub_Jail,0,0,0
+Chandigarh,2004,Women Jail,0,0,0
+Chandigarh,2004,Borstal School,0,0,0
+Chandigarh,2004,Open Jail,0,0,0
+Chandigarh,2004,Special Jail,0,0,0
+Chandigarh,2004,Others,120,429,549
+Chandigarh,2004,Total,120,429,549
+Chandigarh,2005,Central Jail,0,0,0
+Chandigarh,2005,District Jail,0,0,0
+Chandigarh,2005,Sub_Jail,0,0,0
+Chandigarh,2005,Women Jail,0,0,0
+Chandigarh,2005,Borstal School,0,0,0
+Chandigarh,2005,Open Jail,0,0,0
+Chandigarh,2005,Special Jail,0,0,0
+Chandigarh,2005,Others,84,371,455
+Chandigarh,2005,Total,84,371,455
+Chandigarh,2006,Central Jail,0,0,0
+Chandigarh,2006,District Jail,0,0,0
+Chandigarh,2006,Sub_Jail,0,0,0
+Chandigarh,2006,Women Jail,0,0,0
+Chandigarh,2006,Borstal School,0,0,0
+Chandigarh,2006,Open Jail,0,0,0
+Chandigarh,2006,Special Jail,0,0,0
+Chandigarh,2006,Others,107,331,438
+Chandigarh,2006,Total,107,331,438
+Chandigarh,2007,Central Jail,146,355,501
+Chandigarh,2007,District Jail,0,0,0
+Chandigarh,2007,Sub_Jail,0,0,0
+Chandigarh,2007,Women Jail,0,0,0
+Chandigarh,2007,Borstal School,0,0,0
+Chandigarh,2007,Open Jail,0,0,0
+Chandigarh,2007,Special Jail,0,0,0
+Chandigarh,2007,Others,0,0,0
+Chandigarh,2007,Total,146,355,501
+Chandigarh,2008,Central Jail,188,338,526
+Chandigarh,2008,District Jail,0,0,0
+Chandigarh,2008,Sub_Jail,0,0,0
+Chandigarh,2008,Women Jail,0,0,0
+Chandigarh,2008,Borstal School,0,0,0
+Chandigarh,2008,Open Jail,0,0,0
+Chandigarh,2008,Special Jail,0,0,0
+Chandigarh,2008,Others,0,0,0
+Chandigarh,2008,Total,188,338,526
+Chandigarh,2009,Central Jail,244,399,643
+Chandigarh,2009,District Jail,0,0,0
+Chandigarh,2009,Sub_Jail,0,0,0
+Chandigarh,2009,Women Jail,0,0,0
+Chandigarh,2009,Borstal School,0,0,0
+Chandigarh,2009,Open Jail,0,0,0
+Chandigarh,2009,Special Jail,0,0,0
+Chandigarh,2009,Others,0,0,0
+Chandigarh,2009,Total,244,399,643
+Chandigarh,2010,Central Jail,221,419,640
+Chandigarh,2010,District Jail,0,0,0
+Chandigarh,2010,Sub_Jail,0,0,0
+Chandigarh,2010,Women Jail,0,0,0
+Chandigarh,2010,Borstal School,0,0,0
+Chandigarh,2010,Open Jail,0,0,0
+Chandigarh,2010,Special Jail,0,0,0
+Chandigarh,2010,Others,0,0,0
+Chandigarh,2010,Total,221,419,640
+Chandigarh,2011,Central Jail,242,384,626
+Chandigarh,2011,District Jail,0,0,0
+Chandigarh,2011,Sub_Jail,0,0,0
+Chandigarh,2011,Women Jail,0,0,0
+Chandigarh,2011,Borstal School,0,0,0
+Chandigarh,2011,Open Jail,0,0,0
+Chandigarh,2011,Special Jail,0,0,0
+Chandigarh,2011,Others,0,0,0
+Chandigarh,2011,Total,242,384,626
+Chandigarh,2012,Central Jail,261,473,734
+Chandigarh,2012,District Jail,0,0,0
+Chandigarh,2012,Sub_Jail,0,0,0
+Chandigarh,2012,Women Jail,0,0,0
+Chandigarh,2012,Borstal School,0,0,0
+Chandigarh,2012,Open Jail,0,0,0
+Chandigarh,2012,Special Jail,0,0,0
+Chandigarh,2012,Others,0,0,0
+Chandigarh,2012,Total,261,473,734
+D & N Haveli,2001,Central Jail,0,0,0
+D & N Haveli,2001,District Jail,0,0,0
+D & N Haveli,2001,Sub_Jail,8,158,166
+D & N Haveli,2001,Women Jail,0,0,0
+D & N Haveli,2001,Borstal School,0,0,0
+D & N Haveli,2001,Open Jail,0,0,0
+D & N Haveli,2001,Special Jail,0,0,0
+D & N Haveli,2001,Others,0,0,0
+D & N Haveli,2001,Total,8,158,166
+D & N Haveli,2002,Central Jail,0,0,0
+D & N Haveli,2002,District Jail,0,0,0
+D & N Haveli,2002,Sub_Jail,5,155,160
+D & N Haveli,2002,Women Jail,0,0,0
+D & N Haveli,2002,Borstal School,0,0,0
+D & N Haveli,2002,Open Jail,0,0,0
+D & N Haveli,2002,Special Jail,0,0,0
+D & N Haveli,2002,Others,0,0,0
+D & N Haveli,2002,Total,5,155,160
+D & N Haveli,2003,Central Jail,0,0,0
+D & N Haveli,2003,District Jail,0,0,0
+D & N Haveli,2003,Sub_Jail,0,172,172
+D & N Haveli,2003,Women Jail,0,0,0
+D & N Haveli,2003,Borstal School,0,0,0
+D & N Haveli,2003,Open Jail,0,0,0
+D & N Haveli,2003,Special Jail,0,0,0
+D & N Haveli,2003,Others,0,0,0
+D & N Haveli,2003,Total,0,172,172
+D & N Haveli,2004,Central Jail,0,0,0
+D & N Haveli,2004,District Jail,0,0,0
+D & N Haveli,2004,Sub_Jail,0,33,33
+D & N Haveli,2004,Women Jail,0,0,0
+D & N Haveli,2004,Borstal School,0,0,0
+D & N Haveli,2004,Open Jail,0,0,0
+D & N Haveli,2004,Special Jail,0,0,0
+D & N Haveli,2004,Others,0,0,0
+D & N Haveli,2004,Total,0,33,33
+D & N Haveli,2005,Central Jail,0,0,0
+D & N Haveli,2005,District Jail,0,0,0
+D & N Haveli,2005,Sub_Jail,0,29,29
+D & N Haveli,2005,Women Jail,0,0,0
+D & N Haveli,2005,Borstal School,0,0,0
+D & N Haveli,2005,Open Jail,0,0,0
+D & N Haveli,2005,Special Jail,0,0,0
+D & N Haveli,2005,Others,0,0,0
+D & N Haveli,2005,Total,0,29,29
+D & N Haveli,2006,Central Jail,0,0,0
+D & N Haveli,2006,District Jail,0,0,0
+D & N Haveli,2006,Sub_Jail,0,33,33
+D & N Haveli,2006,Women Jail,0,0,0
+D & N Haveli,2006,Borstal School,0,0,0
+D & N Haveli,2006,Open Jail,0,0,0
+D & N Haveli,2006,Special Jail,0,0,0
+D & N Haveli,2006,Others,0,0,0
+D & N Haveli,2006,Total,0,33,33
+D & N Haveli,2007,Central Jail,0,0,0
+D & N Haveli,2007,District Jail,0,0,0
+D & N Haveli,2007,Sub_Jail,0,28,28
+D & N Haveli,2007,Women Jail,0,0,0
+D & N Haveli,2007,Borstal School,0,0,0
+D & N Haveli,2007,Open Jail,0,0,0
+D & N Haveli,2007,Special Jail,0,0,0
+D & N Haveli,2007,Others,0,0,0
+D & N Haveli,2007,Total,0,28,28
+D & N Haveli,2008,Central Jail,0,0,0
+D & N Haveli,2008,District Jail,0,0,0
+D & N Haveli,2008,Sub_Jail,11,35,46
+D & N Haveli,2008,Women Jail,0,0,0
+D & N Haveli,2008,Borstal School,0,0,0
+D & N Haveli,2008,Open Jail,0,0,0
+D & N Haveli,2008,Special Jail,0,0,0
+D & N Haveli,2008,Others,0,0,0
+D & N Haveli,2008,Total,11,35,46
+D & N Haveli,2009,Central Jail,0,0,0
+D & N Haveli,2009,District Jail,0,0,0
+D & N Haveli,2009,Sub_Jail,2,54,56
+D & N Haveli,2009,Women Jail,0,0,0
+D & N Haveli,2009,Borstal School,0,0,0
+D & N Haveli,2009,Open Jail,0,0,0
+D & N Haveli,2009,Special Jail,0,0,0
+D & N Haveli,2009,Others,0,0,0
+D & N Haveli,2009,Total,2,54,56
+D & N Haveli,2010,Central Jail,0,0,0
+D & N Haveli,2010,District Jail,0,0,0
+D & N Haveli,2010,Sub_Jail,0,42,42
+D & N Haveli,2010,Women Jail,0,0,0
+D & N Haveli,2010,Borstal School,0,0,0
+D & N Haveli,2010,Open Jail,0,0,0
+D & N Haveli,2010,Special Jail,0,0,0
+D & N Haveli,2010,Others,0,0,0
+D & N Haveli,2010,Total,0,42,42
+D & N Haveli,2011,Central Jail,0,0,0
+D & N Haveli,2011,District Jail,0,0,0
+D & N Haveli,2011,Sub_Jail,0,25,25
+D & N Haveli,2011,Women Jail,0,0,0
+D & N Haveli,2011,Borstal School,0,0,0
+D & N Haveli,2011,Open Jail,0,0,0
+D & N Haveli,2011,Special Jail,0,0,0
+D & N Haveli,2011,Others,0,0,0
+D & N Haveli,2011,Total,0,25,25
+D & N Haveli,2012,Central Jail,0,0,0
+D & N Haveli,2012,District Jail,0,0,0
+D & N Haveli,2012,Sub_Jail,0,37,37
+D & N Haveli,2012,Women Jail,0,0,0
+D & N Haveli,2012,Borstal School,0,0,0
+D & N Haveli,2012,Open Jail,0,0,0
+D & N Haveli,2012,Special Jail,0,0,0
+D & N Haveli,2012,Others,0,0,0
+D & N Haveli,2012,Total,0,37,37
+Daman & Diu,2001,Central Jail,0,0,0
+Daman & Diu,2001,District Jail,0,0,0
+Daman & Diu,2001,Sub_Jail,23,18,41
+Daman & Diu,2001,Women Jail,0,0,0
+Daman & Diu,2001,Borstal School,0,0,0
+Daman & Diu,2001,Open Jail,0,0,0
+Daman & Diu,2001,Special Jail,0,0,0
+Daman & Diu,2001,Others,0,0,0
+Daman & Diu,2001,Total,23,18,41
+Daman & Diu,2002,Central Jail,0,0,0
+Daman & Diu,2002,District Jail,0,0,0
+Daman & Diu,2002,Sub_Jail,13,20,33
+Daman & Diu,2002,Women Jail,0,0,0
+Daman & Diu,2002,Borstal School,0,0,0
+Daman & Diu,2002,Open Jail,0,0,0
+Daman & Diu,2002,Special Jail,0,0,0
+Daman & Diu,2002,Others,0,0,0
+Daman & Diu,2002,Total,13,20,33
+Daman & Diu,2003,Central Jail,0,0,0
+Daman & Diu,2003,District Jail,0,0,0
+Daman & Diu,2003,Sub_Jail,13,20,33
+Daman & Diu,2003,Women Jail,0,0,0
+Daman & Diu,2003,Borstal School,0,0,0
+Daman & Diu,2003,Open Jail,0,0,0
+Daman & Diu,2003,Special Jail,0,0,0
+Daman & Diu,2003,Others,0,0,0
+Daman & Diu,2003,Total,13,20,33
+Daman & Diu,2004,Central Jail,0,0,0
+Daman & Diu,2004,District Jail,0,0,0
+Daman & Diu,2004,Sub_Jail,8,19,27
+Daman & Diu,2004,Women Jail,0,0,0
+Daman & Diu,2004,Borstal School,0,0,0
+Daman & Diu,2004,Open Jail,0,0,0
+Daman & Diu,2004,Special Jail,0,0,0
+Daman & Diu,2004,Others,0,0,0
+Daman & Diu,2004,Total,8,19,27
+Daman & Diu,2005,Central Jail,0,0,0
+Daman & Diu,2005,District Jail,0,0,0
+Daman & Diu,2005,Sub_Jail,11,24,35
+Daman & Diu,2005,Women Jail,0,0,0
+Daman & Diu,2005,Borstal School,0,0,0
+Daman & Diu,2005,Open Jail,0,0,0
+Daman & Diu,2005,Special Jail,0,0,0
+Daman & Diu,2005,Others,0,0,0
+Daman & Diu,2005,Total,11,24,35
+Daman & Diu,2006,Central Jail,0,0,0
+Daman & Diu,2006,District Jail,0,0,0
+Daman & Diu,2006,Sub_Jail,12,42,54
+Daman & Diu,2006,Women Jail,0,0,0
+Daman & Diu,2006,Borstal School,0,0,0
+Daman & Diu,2006,Open Jail,0,0,0
+Daman & Diu,2006,Special Jail,0,0,0
+Daman & Diu,2006,Others,0,0,0
+Daman & Diu,2006,Total,12,42,54
+Daman & Diu,2007,Central Jail,0,0,0
+Daman & Diu,2007,District Jail,0,0,0
+Daman & Diu,2007,Sub_Jail,10,56,66
+Daman & Diu,2007,Women Jail,0,0,0
+Daman & Diu,2007,Borstal School,0,0,0
+Daman & Diu,2007,Open Jail,0,0,0
+Daman & Diu,2007,Special Jail,0,0,0
+Daman & Diu,2007,Others,0,0,0
+Daman & Diu,2007,Total,10,56,66
+Daman & Diu,2008,Central Jail,0,0,0
+Daman & Diu,2008,District Jail,0,0,0
+Daman & Diu,2008,Sub_Jail,16,27,43
+Daman & Diu,2008,Women Jail,0,0,0
+Daman & Diu,2008,Borstal School,0,0,0
+Daman & Diu,2008,Open Jail,0,0,0
+Daman & Diu,2008,Special Jail,0,0,0
+Daman & Diu,2008,Others,0,0,0
+Daman & Diu,2008,Total,16,27,43
+Daman & Diu,2009,Central Jail,0,0,0
+Daman & Diu,2009,District Jail,0,0,0
+Daman & Diu,2009,Sub_Jail,16,24,40
+Daman & Diu,2009,Women Jail,0,0,0
+Daman & Diu,2009,Borstal School,0,0,0
+Daman & Diu,2009,Open Jail,0,0,0
+Daman & Diu,2009,Special Jail,0,0,0
+Daman & Diu,2009,Others,0,0,0
+Daman & Diu,2009,Total,16,24,40
+Daman & Diu,2010,Central Jail,0,0,0
+Daman & Diu,2010,District Jail,0,0,0
+Daman & Diu,2010,Sub_Jail,14,16,30
+Daman & Diu,2010,Women Jail,0,0,0
+Daman & Diu,2010,Borstal School,0,0,0
+Daman & Diu,2010,Open Jail,0,0,0
+Daman & Diu,2010,Special Jail,0,0,0
+Daman & Diu,2010,Others,0,0,0
+Daman & Diu,2010,Total,14,16,30
+Daman & Diu,2011,Central Jail,0,0,0
+Daman & Diu,2011,District Jail,0,0,0
+Daman & Diu,2011,Sub_Jail,12,17,29
+Daman & Diu,2011,Women Jail,0,0,0
+Daman & Diu,2011,Borstal School,0,0,0
+Daman & Diu,2011,Open Jail,0,0,0
+Daman & Diu,2011,Special Jail,0,0,0
+Daman & Diu,2011,Others,0,0,0
+Daman & Diu,2011,Total,12,17,29
+Daman & Diu,2012,Central Jail,0,0,0
+Daman & Diu,2012,District Jail,0,0,0
+Daman & Diu,2012,Sub_Jail,14,11,25
+Daman & Diu,2012,Women Jail,0,0,0
+Daman & Diu,2012,Borstal School,0,0,0
+Daman & Diu,2012,Open Jail,0,0,0
+Daman & Diu,2012,Special Jail,0,0,0
+Daman & Diu,2012,Others,0,0,0
+Daman & Diu,2012,Total,14,11,25
+Delhi,2001,Central Jail,2104,8366,10470
+Delhi,2001,District Jail,0,0,0
+Delhi,2001,Sub_Jail,0,0,0
+Delhi,2001,Women Jail,117,386,503
+Delhi,2001,Borstal School,0,0,0
+Delhi,2001,Open Jail,0,0,0
+Delhi,2001,Special Jail,0,0,0
+Delhi,2001,Others,0,0,0
+Delhi,2001,Total,2221,8752,10973
+Delhi,2002,Central Jail,2218,9275,11493
+Delhi,2002,District Jail,0,0,0
+Delhi,2002,Sub_Jail,0,0,0
+Delhi,2002,Women Jail,115,381,496
+Delhi,2002,Borstal School,0,0,0
+Delhi,2002,Open Jail,0,0,0
+Delhi,2002,Special Jail,0,0,0
+Delhi,2002,Others,0,0,0
+Delhi,2002,Total,2333,9656,11989
+Delhi,2003,Central Jail,2152,9431,11583
+Delhi,2003,District Jail,0,0,0
+Delhi,2003,Sub_Jail,0,0,0
+Delhi,2003,Women Jail,114,435,549
+Delhi,2003,Borstal School,0,0,0
+Delhi,2003,Open Jail,0,0,0
+Delhi,2003,Special Jail,0,0,0
+Delhi,2003,Others,0,0,0
+Delhi,2003,Total,2266,9866,12132
+Delhi,2004,Central Jail,1774,9688,11462
+Delhi,2004,District Jail,602,0,602
+Delhi,2004,Sub_Jail,0,0,0
+Delhi,2004,Women Jail,132,399,531
+Delhi,2004,Borstal School,0,0,0
+Delhi,2004,Open Jail,0,0,0
+Delhi,2004,Special Jail,0,0,0
+Delhi,2004,Others,0,0,0
+Delhi,2004,Total,2508,10087,12595
+Delhi,2005,Central Jail,1412,9415,10827
+Delhi,2005,District Jail,981,6,987
+Delhi,2005,Sub_Jail,0,0,0
+Delhi,2005,Women Jail,117,370,487
+Delhi,2005,Borstal School,0,0,0
+Delhi,2005,Open Jail,0,0,0
+Delhi,2005,Special Jail,0,0,0
+Delhi,2005,Others,0,0,0
+Delhi,2005,Total,2510,9791,12301
+Delhi,2006,Central Jail,2233,9129,11362
+Delhi,2006,District Jail,137,1422,1559
+Delhi,2006,Sub_Jail,0,0,0
+Delhi,2006,Women Jail,79,383,462
+Delhi,2006,Borstal School,0,0,0
+Delhi,2006,Open Jail,0,0,0
+Delhi,2006,Special Jail,0,0,0
+Delhi,2006,Others,0,0,0
+Delhi,2006,Total,2449,10934,13383
+Delhi,2007,Central Jail,2072,7429,9501
+Delhi,2007,District Jail,133,1463,1596
+Delhi,2007,Sub_Jail,0,0,0
+Delhi,2007,Women Jail,63,422,485
+Delhi,2007,Borstal School,0,0,0
+Delhi,2007,Open Jail,0,0,0
+Delhi,2007,Special Jail,0,0,0
+Delhi,2007,Others,0,0,0
+Delhi,2007,Total,2268,9314,11582
+Delhi,2008,Central Jail,1775,7603,9378
+Delhi,2008,District Jail,147,1535,1682
+Delhi,2008,Sub_Jail,0,0,0
+Delhi,2008,Women Jail,56,414,470
+Delhi,2008,Borstal School,0,0,0
+Delhi,2008,Open Jail,0,0,0
+Delhi,2008,Special Jail,0,0,0
+Delhi,2008,Others,0,0,0
+Delhi,2008,Total,1978,9552,11530
+Delhi,2009,Central Jail,2069,7253,9322
+Delhi,2009,District Jail,143,1314,1457
+Delhi,2009,Sub_Jail,0,0,0
+Delhi,2009,Women Jail,83,364,447
+Delhi,2009,Borstal School,0,0,0
+Delhi,2009,Open Jail,0,0,0
+Delhi,2009,Special Jail,0,0,0
+Delhi,2009,Others,0,0,0
+Delhi,2009,Total,2295,8931,11226
+Delhi,2010,Central Jail,2500,6401,8901
+Delhi,2010,District Jail,147,1285,1432
+Delhi,2010,Sub_Jail,0,0,0
+Delhi,2010,Women Jail,104,401,505
+Delhi,2010,Borstal School,0,0,0
+Delhi,2010,Open Jail,0,0,0
+Delhi,2010,Special Jail,0,0,0
+Delhi,2010,Others,0,0,0
+Delhi,2010,Total,2751,8087,10838
+Delhi,2011,Central Jail,2921,7246,10167
+Delhi,2011,District Jail,170,1255,1425
+Delhi,2011,Sub_Jail,0,0,0
+Delhi,2011,Women Jail,116,410,526
+Delhi,2011,Borstal School,0,0,0
+Delhi,2011,Open Jail,0,0,0
+Delhi,2011,Special Jail,0,0,0
+Delhi,2011,Others,0,0,0
+Delhi,2011,Total,3207,8911,12118
+Delhi,2012,Central Jail,2881,7105,9986
+Delhi,2012,District Jail,213,1367,1580
+Delhi,2012,Sub_Jail,0,0,0
+Delhi,2012,Women Jail,125,415,540
+Delhi,2012,Borstal School,0,0,0
+Delhi,2012,Open Jail,0,0,0
+Delhi,2012,Special Jail,0,0,0
+Delhi,2012,Others,0,0,0
+Delhi,2012,Total,3219,8887,12106
+Lakshadweep,2001,Central Jail,0,0,0
+Lakshadweep,2001,District Jail,0,0,0
+Lakshadweep,2001,Sub_Jail,0,1,1
+Lakshadweep,2001,Women Jail,0,0,0
+Lakshadweep,2001,Borstal School,0,0,0
+Lakshadweep,2001,Open Jail,0,0,0
+Lakshadweep,2001,Special Jail,0,0,0
+Lakshadweep,2001,Others,0,0,0
+Lakshadweep,2001,Total,0,1,1
+Lakshadweep,2002,Central Jail,0,0,0
+Lakshadweep,2002,District Jail,0,0,0
+Lakshadweep,2002,Sub_Jail,2,14,16
+Lakshadweep,2002,Women Jail,0,0,0
+Lakshadweep,2002,Borstal School,0,0,0
+Lakshadweep,2002,Open Jail,0,0,0
+Lakshadweep,2002,Special Jail,0,0,0
+Lakshadweep,2002,Others,0,0,0
+Lakshadweep,2002,Total,2,14,16
+Lakshadweep,2003,Central Jail,0,0,0
+Lakshadweep,2003,District Jail,0,0,0
+Lakshadweep,2003,Sub_Jail,0,4,4
+Lakshadweep,2003,Women Jail,0,0,0
+Lakshadweep,2003,Borstal School,0,0,0
+Lakshadweep,2003,Open Jail,0,0,0
+Lakshadweep,2003,Special Jail,0,0,0
+Lakshadweep,2003,Others,0,0,0
+Lakshadweep,2003,Total,0,4,4
+Lakshadweep,2004,Central Jail,0,0,0
+Lakshadweep,2004,District Jail,0,0,0
+Lakshadweep,2004,Sub_Jail,0,0,0
+Lakshadweep,2004,Women Jail,0,0,0
+Lakshadweep,2004,Borstal School,0,0,0
+Lakshadweep,2004,Open Jail,0,0,0
+Lakshadweep,2004,Special Jail,0,0,0
+Lakshadweep,2004,Others,0,0,0
+Lakshadweep,2004,Total,0,0,0
+Lakshadweep,2005,Central Jail,0,0,0
+Lakshadweep,2005,District Jail,0,0,0
+Lakshadweep,2005,Sub_Jail,0,6,6
+Lakshadweep,2005,Women Jail,0,0,0
+Lakshadweep,2005,Borstal School,0,0,0
+Lakshadweep,2005,Open Jail,0,0,0
+Lakshadweep,2005,Special Jail,0,0,0
+Lakshadweep,2005,Others,0,0,0
+Lakshadweep,2005,Total,0,6,6
+Lakshadweep,2006,Central Jail,0,0,0
+Lakshadweep,2006,District Jail,0,0,0
+Lakshadweep,2006,Sub_Jail,0,0,0
+Lakshadweep,2006,Women Jail,0,0,0
+Lakshadweep,2006,Borstal School,0,0,0
+Lakshadweep,2006,Open Jail,0,0,0
+Lakshadweep,2006,Special Jail,0,0,0
+Lakshadweep,2006,Others,0,0,0
+Lakshadweep,2006,Total,0,0,0
+Lakshadweep,2007,Central Jail,0,0,0
+Lakshadweep,2007,District Jail,0,0,0
+Lakshadweep,2007,Sub_Jail,3,11,14
+Lakshadweep,2007,Women Jail,0,0,0
+Lakshadweep,2007,Borstal School,0,0,0
+Lakshadweep,2007,Open Jail,0,0,0
+Lakshadweep,2007,Special Jail,0,0,0
+Lakshadweep,2007,Others,0,0,0
+Lakshadweep,2007,Total,3,11,14
+Lakshadweep,2008,Central Jail,0,0,0
+Lakshadweep,2008,District Jail,0,0,0
+Lakshadweep,2008,Sub_Jail,0,19,19
+Lakshadweep,2008,Women Jail,0,0,0
+Lakshadweep,2008,Borstal School,0,0,0
+Lakshadweep,2008,Open Jail,0,0,0
+Lakshadweep,2008,Special Jail,0,0,0
+Lakshadweep,2008,Others,0,0,0
+Lakshadweep,2008,Total,0,19,19
+Lakshadweep,2009,Central Jail,0,0,0
+Lakshadweep,2009,District Jail,0,0,0
+Lakshadweep,2009,Sub_Jail,1,43,44
+Lakshadweep,2009,Women Jail,0,0,0
+Lakshadweep,2009,Borstal School,0,0,0
+Lakshadweep,2009,Open Jail,0,0,0
+Lakshadweep,2009,Special Jail,0,0,0
+Lakshadweep,2009,Others,0,0,0
+Lakshadweep,2009,Total,1,43,44
+Lakshadweep,2010,Central Jail,0,0,0
+Lakshadweep,2010,District Jail,0,0,0
+Lakshadweep,2010,Sub_Jail,0,27,27
+Lakshadweep,2010,Women Jail,0,0,0
+Lakshadweep,2010,Borstal School,0,0,0
+Lakshadweep,2010,Open Jail,0,0,0
+Lakshadweep,2010,Special Jail,0,0,0
+Lakshadweep,2010,Others,0,0,0
+Lakshadweep,2010,Total,0,27,27
+Lakshadweep,2011,Central Jail,0,0,0
+Lakshadweep,2011,District Jail,0,0,0
+Lakshadweep,2011,Sub_Jail,0,30,30
+Lakshadweep,2011,Women Jail,0,0,0
+Lakshadweep,2011,Borstal School,0,0,0
+Lakshadweep,2011,Open Jail,0,0,0
+Lakshadweep,2011,Special Jail,0,0,0
+Lakshadweep,2011,Others,0,0,0
+Lakshadweep,2011,Total,0,30,30
+Lakshadweep,2012,Central Jail,0,0,0
+Lakshadweep,2012,District Jail,0,0,0
+Lakshadweep,2012,Sub_Jail,0,0,0
+Lakshadweep,2012,Women Jail,0,0,0
+Lakshadweep,2012,Borstal School,0,0,0
+Lakshadweep,2012,Open Jail,0,0,0
+Lakshadweep,2012,Special Jail,0,0,0
+Lakshadweep,2012,Others,0,0,0
+Lakshadweep,2012,Total,0,0,0
+Pondicherry,2001,Central Jail,100,144,244
+Pondicherry,2001,District Jail,7,9,16
+Pondicherry,2001,Sub_Jail,1,1,2
+Pondicherry,2001,Women Jail,0,0,0
+Pondicherry,2001,Borstal School,0,0,0
+Pondicherry,2001,Open Jail,0,0,0
+Pondicherry,2001,Special Jail,0,0,0
+Pondicherry,2001,Others,0,0,0
+Pondicherry,2001,Total,108,154,262
+Pondicherry,2002,Central Jail,110,92,202
+Pondicherry,2002,District Jail,20,18,38
+Pondicherry,2002,Sub_Jail,4,2,6
+Pondicherry,2002,Women Jail,0,0,0
+Pondicherry,2002,Borstal School,0,0,0
+Pondicherry,2002,Open Jail,0,0,0
+Pondicherry,2002,Special Jail,0,0,0
+Pondicherry,2002,Others,0,0,0
+Pondicherry,2002,Total,134,112,246
+Pondicherry,2003,Central Jail,121,125,246
+Pondicherry,2003,District Jail,0,0,0
+Pondicherry,2003,Sub_Jail,1,5,6
+Pondicherry,2003,Women Jail,0,0,0
+Pondicherry,2003,Borstal School,0,0,0
+Pondicherry,2003,Open Jail,0,0,0
+Pondicherry,2003,Special Jail,17,9,26
+Pondicherry,2003,Others,0,0,0
+Pondicherry,2003,Total,139,139,278
+Pondicherry,2004,Central Jail,96,150,246
+Pondicherry,2004,District Jail,11,39,50
+Pondicherry,2004,Sub_Jail,2,3,5
+Pondicherry,2004,Women Jail,0,0,0
+Pondicherry,2004,Borstal School,0,0,0
+Pondicherry,2004,Open Jail,0,0,0
+Pondicherry,2004,Special Jail,0,0,0
+Pondicherry,2004,Others,0,0,0
+Pondicherry,2004,Total,109,192,301
+Pondicherry,2005,Central Jail,114,138,252
+Pondicherry,2005,District Jail,5,26,31
+Pondicherry,2005,Sub_Jail,0,5,5
+Pondicherry,2005,Women Jail,0,0,0
+Pondicherry,2005,Borstal School,0,0,0
+Pondicherry,2005,Open Jail,0,0,0
+Pondicherry,2005,Special Jail,0,0,0
+Pondicherry,2005,Others,0,0,0
+Pondicherry,2005,Total,119,169,288
+Pondicherry,2006,Central Jail,87,140,227
+Pondicherry,2006,District Jail,20,58,78
+Pondicherry,2006,Sub_Jail,2,5,7
+Pondicherry,2006,Women Jail,0,0,0
+Pondicherry,2006,Borstal School,0,0,0
+Pondicherry,2006,Open Jail,0,0,0
+Pondicherry,2006,Special Jail,0,0,0
+Pondicherry,2006,Others,0,0,0
+Pondicherry,2006,Total,109,203,312
+Pondicherry,2007,Central Jail,85,196,281
+Pondicherry,2007,District Jail,24,26,50
+Pondicherry,2007,Sub_Jail,3,12,15
+Pondicherry,2007,Women Jail,0,0,0
+Pondicherry,2007,Borstal School,0,0,0
+Pondicherry,2007,Open Jail,0,0,0
+Pondicherry,2007,Special Jail,0,0,0
+Pondicherry,2007,Others,0,0,0
+Pondicherry,2007,Total,112,234,346
+Pondicherry,2008,Central Jail,81,161,242
+Pondicherry,2008,District Jail,16,33,49
+Pondicherry,2008,Sub_Jail,0,9,9
+Pondicherry,2008,Women Jail,0,0,0
+Pondicherry,2008,Borstal School,0,0,0
+Pondicherry,2008,Open Jail,0,0,0
+Pondicherry,2008,Special Jail,0,0,0
+Pondicherry,2008,Others,0,0,0
+Pondicherry,2008,Total,97,203,300
+Pondicherry,2009,Central Jail,102,117,219
+Pondicherry,2009,District Jail,16,33,49
+Pondicherry,2009,Sub_Jail,1,0,1
+Pondicherry,2009,Women Jail,0,0,0
+Pondicherry,2009,Borstal School,0,0,0
+Pondicherry,2009,Open Jail,0,0,0
+Pondicherry,2009,Special Jail,0,0,0
+Pondicherry,2009,Others,0,0,0
+Pondicherry,2009,Total,119,150,269
+Pondicherry,2010,Central Jail,101,100,201
+Pondicherry,2010,District Jail,29,26,55
+Pondicherry,2010,Sub_Jail,0,2,2
+Pondicherry,2010,Women Jail,0,0,0
+Pondicherry,2010,Borstal School,0,0,0
+Pondicherry,2010,Open Jail,0,0,0
+Pondicherry,2010,Special Jail,0,0,0
+Pondicherry,2010,Others,0,0,0
+Pondicherry,2010,Total,130,128,258
+Pondicherry,2011,Central Jail,100,99,199
+Pondicherry,2011,District Jail,0,0,0
+Pondicherry,2011,Sub_Jail,0,0,0
+Pondicherry,2011,Women Jail,0,0,0
+Pondicherry,2011,Borstal School,0,0,0
+Pondicherry,2011,Open Jail,0,0,0
+Pondicherry,2011,Special Jail,30,13,43
+Pondicherry,2011,Others,0,0,0
+Pondicherry,2011,Total,130,112,242
+Pondicherry,2012,Central Jail,85,118,203
+Pondicherry,2012,District Jail,0,0,0
+Pondicherry,2012,Sub_Jail,0,2,2
+Pondicherry,2012,Women Jail,0,0,0
+Pondicherry,2012,Borstal School,0,0,0
+Pondicherry,2012,Open Jail,0,0,0
+Pondicherry,2012,Special Jail,24,56,80
+Pondicherry,2012,Others,0,0,0
+Pondicherry,2012,Total,109,176,285
+Andhra Pradesh,2013,Central Jail,3644,3525,7169
+Andhra Pradesh,2013,District Jail,420,2913,3333
+Andhra Pradesh,2013,Sub_Jail,79,3117,3196
+Andhra Pradesh,2013,Women Jail,171,146,317
+Andhra Pradesh,2013,Borstal School,3,0,3
+Andhra Pradesh,2013,Open Jail,281,0,281
+Andhra Pradesh,2013,Special Jail,0,0,0
+Andhra Pradesh,2013,Others,0,0,0
+Andhra Pradesh,2013,Total,4598,9701,14299
+Arunachal Pradesh,2013,Central Jail,0,0,0
+Arunachal Pradesh,2013,District Jail,11,81,92
+Arunachal Pradesh,2013,Sub_Jail,0,0,0
+Arunachal Pradesh,2013,Women Jail,0,0,0
+Arunachal Pradesh,2013,Borstal School,0,0,0
+Arunachal Pradesh,2013,Open Jail,0,0,0
+Arunachal Pradesh,2013,Special Jail,0,0,0
+Arunachal Pradesh,2013,Others,0,0,0
+Arunachal Pradesh,2013,Total,11,81,92
+Assam,2013,Central Jail,1268,1892,3160
+Assam,2013,District Jail,1720,2954,4674
+Assam,2013,Sub_Jail,3,69,72
+Assam,2013,Women Jail,0,0,0
+Assam,2013,Borstal School,0,0,0
+Assam,2013,Open Jail,27,0,27
+Assam,2013,Special Jail,75,248,323
+Assam,2013,Others,0,0,0
+Assam,2013,Total,3093,5163,8256
+Bihar,2013,Central Jail,2289,7728,10017
+Bihar,2013,District Jail,1374,15145,16519
+Bihar,2013,Sub_Jail,152,3268,3420
+Bihar,2013,Women Jail,40,36,76
+Bihar,2013,Borstal School,0,0,0
+Bihar,2013,Open Jail,92,0,92
+Bihar,2013,Special Jail,533,432,965
+Bihar,2013,Others,0,0,0
+Bihar,2013,Total,4480,26609,31089
+Chhatisgarh,2013,Central Jail,6372,4300,10672
+Chhatisgarh,2013,District Jail,171,3183,3354
+Chhatisgarh,2013,Sub_Jail,43,1758,1801
+Chhatisgarh,2013,Women Jail,0,0,0
+Chhatisgarh,2013,Borstal School,0,0,0
+Chhatisgarh,2013,Open Jail,0,0,0
+Chhatisgarh,2013,Special Jail,0,0,0
+Chhatisgarh,2013,Others,0,0,0
+Chhatisgarh,2013,Total,6586,9241,15827
+Goa,2013,Central Jail,100,3,103
+Goa,2013,District Jail,0,0,0
+Goa,2013,Sub_Jail,27,291,318
+Goa,2013,Women Jail,0,0,0
+Goa,2013,Borstal School,0,0,0
+Goa,2013,Open Jail,0,0,0
+Goa,2013,Special Jail,0,0,0
+Goa,2013,Others,0,102,102
+Goa,2013,Total,127,396,523
+Gujarat,2013,Central Jail,3240,3731,6971
+Gujarat,2013,District Jail,246,1908,2154
+Gujarat,2013,Sub_Jail,153,1522,1675
+Gujarat,2013,Women Jail,50,65,115
+Gujarat,2013,Borstal School,0,0,0
+Gujarat,2013,Open Jail,56,0,56
+Gujarat,2013,Special Jail,63,378,441
+Gujarat,2013,Others,0,0,0
+Gujarat,2013,Total,3808,7604,11412
+Haryana,2013,Central Jail,1258,1708,2966
+Haryana,2013,District Jail,5650,8754,14404
+Haryana,2013,Sub_Jail,0,0,0
+Haryana,2013,Women Jail,0,0,0
+Haryana,2013,Borstal School,112,161,273
+Haryana,2013,Open Jail,0,0,0
+Haryana,2013,Special Jail,0,0,0
+Haryana,2013,Others,0,0,0
+Haryana,2013,Total,7020,10623,17643
+Himachal Pradesh,2013,Central Jail,655,264,919
+Himachal Pradesh,2013,District Jail,195,210,405
+Himachal Pradesh,2013,Sub_Jail,92,524,616
+Himachal Pradesh,2013,Women Jail,0,0,0
+Himachal Pradesh,2013,Borstal School,7,0,7
+Himachal Pradesh,2013,Open Jail,52,0,52
+Himachal Pradesh,2013,Special Jail,0,0,0
+Himachal Pradesh,2013,Others,0,0,0
+Himachal Pradesh,2013,Total,1001,998,1999
+Jammu & Kashmir,2013,Central Jail,247,555,802
+Jammu & Kashmir,2013,District Jail,132,1240,1372
+Jammu & Kashmir,2013,Sub_Jail,1,105,106
+Jammu & Kashmir,2013,Women Jail,0,0,0
+Jammu & Kashmir,2013,Borstal School,0,0,0
+Jammu & Kashmir,2013,Open Jail,0,0,0
+Jammu & Kashmir,2013,Special Jail,0,0,0
+Jammu & Kashmir,2013,Others,0,0,0
+Jammu & Kashmir,2013,Total,380,1900,2280
+Jharkhand,2013,Central Jail,3934,4553,8487
+Jharkhand,2013,District Jail,190,8152,8342
+Jharkhand,2013,Sub_Jail,32,1265,1297
+Jharkhand,2013,Women Jail,0,0,0
+Jharkhand,2013,Borstal School,0,61,61
+Jharkhand,2013,Open Jail,6,17,23
+Jharkhand,2013,Special Jail,0,0,0
+Jharkhand,2013,Others,0,0,0
+Jharkhand,2013,Total,4162,14048,18210
+Karnataka,2013,Central Jail,4248,5082,9330
+Karnataka,2013,District Jail,116,2159,2275
+Karnataka,2013,Sub_Jail,39,2072,2111
+Karnataka,2013,Women Jail,0,0,0
+Karnataka,2013,Borstal School,0,0,0
+Karnataka,2013,Open Jail,12,0,12
+Karnataka,2013,Special Jail,3,193,196
+Karnataka,2013,Others,0,0,0
+Karnataka,2013,Total,4418,9506,13924
+Kerala,2013,Central Jail,1825,1016,2841
+Kerala,2013,District Jail,235,1527,1762
+Kerala,2013,Sub_Jail,71,761,832
+Kerala,2013,Women Jail,47,88,135
+Kerala,2013,Borstal School,4,24,28
+Kerala,2013,Open Jail,390,0,390
+Kerala,2013,Special Jail,52,1205,1257
+Kerala,2013,Others,148,0,148
+Kerala,2013,Total,2772,4621,7393
+Madhya Pradesh,2013,Central Jail,12787,5653,18440
+Madhya Pradesh,2013,District Jail,2744,5765,8509
+Madhya Pradesh,2013,Sub_Jail,1313,6150,7463
+Madhya Pradesh,2013,Women Jail,0,0,0
+Madhya Pradesh,2013,Borstal School,0,0,0
+Madhya Pradesh,2013,Open Jail,25,0,25
+Madhya Pradesh,2013,Special Jail,0,0,0
+Madhya Pradesh,2013,Others,0,0,0
+Madhya Pradesh,2013,Total,16869,17568,34437
+Maharashtra,2013,Central Jail,6677,11826,18503
+Maharashtra,2013,District Jail,342,7007,7349
+Maharashtra,2013,Sub_Jail,1,72,73
+Maharashtra,2013,Women Jail,4,361,365
+Maharashtra,2013,Borstal School,29,0,29
+Maharashtra,2013,Open Jail,975,0,975
+Maharashtra,2013,Special Jail,3,65,68
+Maharashtra,2013,Others,10,0,10
+Maharashtra,2013,Total,8041,19331,27372
+Manipur,2013,Central Jail,79,538,617
+Manipur,2013,District Jail,0,0,0
+Manipur,2013,Sub_Jail,0,0,0
+Manipur,2013,Women Jail,0,0,0
+Manipur,2013,Borstal School,0,0,0
+Manipur,2013,Open Jail,0,0,0
+Manipur,2013,Special Jail,0,0,0
+Manipur,2013,Others,0,0,0
+Manipur,2013,Total,79,538,617
+Meghalaya,2013,Central Jail,0,0,0
+Meghalaya,2013,District Jail,72,745,817
+Meghalaya,2013,Sub_Jail,0,0,0
+Meghalaya,2013,Women Jail,0,0,0
+Meghalaya,2013,Borstal School,0,0,0
+Meghalaya,2013,Open Jail,0,0,0
+Meghalaya,2013,Special Jail,0,0,0
+Meghalaya,2013,Others,0,0,0
+Meghalaya,2013,Total,72,745,817
+Mizoram,2013,Central Jail,224,173,397
+Mizoram,2013,District Jail,186,287,473
+Mizoram,2013,Sub_Jail,0,0,0
+Mizoram,2013,Women Jail,0,0,0
+Mizoram,2013,Borstal School,0,0,0
+Mizoram,2013,Open Jail,0,0,0
+Mizoram,2013,Special Jail,0,0,0
+Mizoram,2013,Others,0,0,0
+Mizoram,2013,Total,410,460,870
+Nagaland,2013,Central Jail,57,104,161
+Nagaland,2013,District Jail,7,99,106
+Nagaland,2013,Sub_Jail,31,138,169
+Nagaland,2013,Women Jail,0,0,0
+Nagaland,2013,Borstal School,0,0,0
+Nagaland,2013,Open Jail,0,0,0
+Nagaland,2013,Special Jail,0,0,0
+Nagaland,2013,Others,0,0,0
+Nagaland,2013,Total,95,341,436
+Orissa,2013,Central Jail,1129,2048,3177
+Orissa,2013,District Jail,985,2124,3109
+Orissa,2013,Sub_Jail,1070,5804,6874
+Orissa,2013,Women Jail,11,16,27
+Orissa,2013,Borstal School,0,0,0
+Orissa,2013,Open Jail,95,0,95
+Orissa,2013,Special Jail,218,973,1191
+Orissa,2013,Others,0,0,0
+Orissa,2013,Total,3508,10965,14473
+Punjab,2013,Central Jail,6329,13961,20290
+Punjab,2013,District Jail,1994,2991,4985
+Punjab,2013,Sub_Jail,358,1178,1536
+Punjab,2013,Women Jail,79,176,255
+Punjab,2013,Borstal School,114,200,314
+Punjab,2013,Open Jail,62,0,62
+Punjab,2013,Special Jail,0,0,0
+Punjab,2013,Others,0,0,0
+Punjab,2013,Total,8936,18506,27442
+Rajasthan,2013,Central Jail,4387,4976,9363
+Rajasthan,2013,District Jail,801,4967,5768
+Rajasthan,2013,Sub_Jail,1,3168,3169
+Rajasthan,2013,Women Jail,189,135,324
+Rajasthan,2013,Borstal School,8,0,8
+Rajasthan,2013,Open Jail,658,0,658
+Rajasthan,2013,Special Jail,0,0,0
+Rajasthan,2013,Others,0,0,0
+Rajasthan,2013,Total,6044,13246,19290
+Sikkim,2013,Central Jail,104,77,181
+Sikkim,2013,District Jail,0,49,49
+Sikkim,2013,Sub_Jail,0,0,0
+Sikkim,2013,Women Jail,0,0,0
+Sikkim,2013,Borstal School,0,0,0
+Sikkim,2013,Open Jail,0,0,0
+Sikkim,2013,Special Jail,0,0,0
+Sikkim,2013,Others,0,0,0
+Sikkim,2013,Total,104,126,230
+Tamilnadu,2013,Central Jail,4438,5031,9469
+Tamilnadu,2013,District Jail,0,699,699
+Tamilnadu,2013,Sub_Jail,0,1732,1732
+Tamilnadu,2013,Women Jail,162,278,440
+Tamilnadu,2013,Borstal School,11,484,495
+Tamilnadu,2013,Open Jail,37,0,37
+Tamilnadu,2013,Special Jail,0,68,68
+Tamilnadu,2013,Others,0,0,0
+Tamilnadu,2013,Total,4648,8292,12940
+Tripura,2013,Central Jail,294,116,410
+Tripura,2013,District Jail,101,64,165
+Tripura,2013,Sub_Jail,107,219,326
+Tripura,2013,Women Jail,0,0,0
+Tripura,2013,Borstal School,0,0,0
+Tripura,2013,Open Jail,0,0,0
+Tripura,2013,Special Jail,0,0,0
+Tripura,2013,Others,0,0,0
+Tripura,2013,Total,502,399,901
+Uttar Pradesh,2013,Central Jail,8314,4170,12484
+Uttar Pradesh,2013,District Jail,16162,53168,69330
+Uttar Pradesh,2013,Sub_Jail,113,757,870
+Uttar Pradesh,2013,Women Jail,303,0,303
+Uttar Pradesh,2013,Borstal School,0,0,0
+Uttar Pradesh,2013,Open Jail,0,0,0
+Uttar Pradesh,2013,Special Jail,418,5,423
+Uttar Pradesh,2013,Others,0,0,0
+Uttar Pradesh,2013,Total,25310,58100,83410
+Uttaranchal,2013,Central Jail,28,0,28
+Uttaranchal,2013,District Jail,1685,1153,2838
+Uttaranchal,2013,Sub_Jail,57,771,828
+Uttaranchal,2013,Women Jail,0,0,0
+Uttaranchal,2013,Borstal School,0,0,0
+Uttaranchal,2013,Open Jail,151,0,151
+Uttaranchal,2013,Special Jail,0,0,0
+Uttaranchal,2013,Others,0,0,0
+Uttaranchal,2013,Total,1921,1924,3845
+West Bengal,2013,Central Jail,4764,6911,11675
+West Bengal,2013,District Jail,707,3973,4680
+West Bengal,2013,Sub_Jail,106,4487,4593
+West Bengal,2013,Women Jail,150,206,356
+West Bengal,2013,Borstal School,0,0,0
+West Bengal,2013,Open Jail,91,0,91
+West Bengal,2013,Special Jail,72,894,966
+West Bengal,2013,Others,0,0,0
+West Bengal,2013,Total,5890,16471,22361
+A & N Islands,2013,Central Jail,0,0,0
+A & N Islands,2013,District Jail,710,179,889
+A & N Islands,2013,Sub_Jail,2,14,16
+A & N Islands,2013,Women Jail,0,0,0
+A & N Islands,2013,Borstal School,0,0,0
+A & N Islands,2013,Open Jail,0,0,0
+A & N Islands,2013,Special Jail,244,0,244
+A & N Islands,2013,Others,0,0,0
+A & N Islands,2013,Total,956,193,1149
+Chandigarh,2013,Central Jail,270,391,661
+Chandigarh,2013,District Jail,0,0,0
+Chandigarh,2013,Sub_Jail,0,0,0
+Chandigarh,2013,Women Jail,0,0,0
+Chandigarh,2013,Borstal School,0,0,0
+Chandigarh,2013,Open Jail,0,0,0
+Chandigarh,2013,Special Jail,0,0,0
+Chandigarh,2013,Others,0,0,0
+Chandigarh,2013,Total,270,391,661
+D & N Haveli,2013,Central Jail,0,0,0
+D & N Haveli,2013,District Jail,0,0,0
+D & N Haveli,2013,Sub_Jail,0,35,35
+D & N Haveli,2013,Women Jail,0,0,0
+D & N Haveli,2013,Borstal School,0,0,0
+D & N Haveli,2013,Open Jail,0,0,0
+D & N Haveli,2013,Special Jail,0,0,0
+D & N Haveli,2013,Others,0,0,0
+D & N Haveli,2013,Total,0,35,35
+Daman & Diu,2013,Central Jail,0,0,0
+Daman & Diu,2013,District Jail,0,0,0
+Daman & Diu,2013,Sub_Jail,18,38,56
+Daman & Diu,2013,Women Jail,0,0,0
+Daman & Diu,2013,Borstal School,0,0,0
+Daman & Diu,2013,Open Jail,0,0,0
+Daman & Diu,2013,Special Jail,0,0,0
+Daman & Diu,2013,Others,0,0,0
+Daman & Diu,2013,Total,18,38,56
+Delhi,2013,Central Jail,2962,8065,11027
+Delhi,2013,District Jail,285,1615,1900
+Delhi,2013,Sub_Jail,0,0,0
+Delhi,2013,Women Jail,141,474,615
+Delhi,2013,Borstal School,0,0,0
+Delhi,2013,Open Jail,0,0,0
+Delhi,2013,Special Jail,0,0,0
+Delhi,2013,Others,0,0,0
+Delhi,2013,Total,3388,10154,13542
+Lakshadweep,2013,Central Jail,0,0,0
+Lakshadweep,2013,District Jail,0,0,0
+Lakshadweep,2013,Sub_Jail,0,0,0
+Lakshadweep,2013,Women Jail,0,0,0
+Lakshadweep,2013,Borstal School,0,0,0
+Lakshadweep,2013,Open Jail,0,0,0
+Lakshadweep,2013,Special Jail,0,0,0
+Lakshadweep,2013,Others,0,0,0
+Lakshadweep,2013,Total,0,0,0
+Pondicherry,2013,Central Jail,68,139,207
+Pondicherry,2013,District Jail,0,0,0
+Pondicherry,2013,Sub_Jail,0,0,0
+Pondicherry,2013,Women Jail,0,0,0
+Pondicherry,2013,Borstal School,0,0,0
+Pondicherry,2013,Open Jail,0,0,0
+Pondicherry,2013,Special Jail,23,50,73
+Pondicherry,2013,Others,0,0,0
+Pondicherry,2013,Total,91,189,280
