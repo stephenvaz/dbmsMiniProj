@@ -2,3 +2,7 @@ body {
     /* display: block; */
     place-items: normal start;
 }
+
+select {
+    margin: 10px;
+}

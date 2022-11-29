@@ -6,6 +6,7 @@ import GenderStat from './pages/GenderStat'
 import Crime from './pages/Crime'
 import PieTest from './pages/PieTest';
 import Login from './pages/Login';
+import Budget from './pages/Budget'
 import {
   BrowserRouter,
   Routes,
@@ -24,6 +25,7 @@ function App() {
           <Route path ="/genderstat" element={<GenderStat />} />
           <Route path = "/piechart" element={<PieTest />} />
           <Route path = "/crime" element={<Crime />} />
+          <Route path = "/budget" element={<Budget />} />
           <Route path = "/login" element={<Login />} />
         </Routes>
       </BrowserRouter>

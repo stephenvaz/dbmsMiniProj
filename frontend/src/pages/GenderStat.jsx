@@ -46,7 +46,7 @@ const GenderStat = () => {
     }
     return (
         <div>
-        <div>Gender Stats</div>
+        <h1>Gender Stats</h1>
         <input type="text" placeholder='State' name='PrisonState' onChange={handleChange}></input>
         <input type="number" placeholder='Year' name='dYear' onChange={handleChange}></input>
         <input type="text" placeholder='Sex' name='sex' onChange={handleChange}></input>

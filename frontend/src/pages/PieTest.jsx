@@ -59,7 +59,7 @@ function Pie(props) {
               { title: 'Male', value: val2, color: '#E38627' },
               { title: 'Female', value: val1, color: '#C13C37' },
   
-            ]} label={({ dataEntry }) =>  `${dataEntry.title} (${Math.round(dataEntry.percentage)}%)`}
+            ]}  label={({ dataEntry }) =>  `${dataEntry.title} (${Math.round(dataEntry.percentage)}%)`}
           />
   )
   }
@@ -68,7 +68,7 @@ console.log(show)
 
   return (
     <div>
-      <div>PieTest</div>
+      <h1>Pie Chart</h1>
       <div > 
         <input type="text" name="PrisonState" placeholder='State' onChange={handleChange}/>
         <input type="text" name="dYear" placeholder='Year' onChange={handleChange}/>

@@ -64,6 +64,7 @@ app.get("/test4/:PrisonState/:dYear", (req, res)=> {
         if (err) {
             res.send(err);
         }
+        console.log(data);
         return res.send(data);
     })
 })
@@ -74,10 +75,51 @@ app.get("/crime", (req,res)=>{
         if (err) {
             res.send(err);
         }
+        console.log(data[0]["ctyp"]);
         // console.log(data.length);
         return res.send(data);
     })
 })
+
+app.get("/ageGrp", (req,res)=>{
+    const q = "select distinct agegroup from crime;"
+    db.query(q, (err,data)=>{
+        if (err) {
+            res.send(err);
+        }
+        console.log(data[0]["agegroup"]);
+        // console.log(data.length);
+        return res.send(data);
+    })
+})
+
+app.get("/state", (req,res)=>{
+    const q = "select distinct PrisonState from crime;"
+    db.query(q, (err,data)=>{
+        if (err) {
+            res.send(err);
+        }
+        console.log(data[0]["PrisonState"]);
+        // console.log(data.length);
+        return res.send(data);
+    })
+})
+
+//crime question
+
+app.get("/crime/:ctyp/:agegroup/:PrisonState", (req, res)=>{
+    const q = "select dYear,sum(convicted) as sum from crime where ctyp = ? and agegroup = ? and PrisonState = ? group by(dYear);"
+    const testVal = [req.params.ctyp, req.params.agegroup, req.params.PrisonState];
+    db.query(q,testVal,(err,data)=>{
+        if (err) {
+            res.send(err);
+            // console.log(err);
+        }
+        // console.log(data);
+        res.send(data);
+    });
+})
+
 
 //crime basic question
 app.get("/crime/:PrisonState/:dYear", (req, res)=> {
@@ -99,6 +141,35 @@ app.get("/crime/:PrisonState/:dYear", (req, res)=> {
     })
 })
 
+
+//budget question
+app.get("/year", (req,res)=>{
+    const q = "select distinct dYear from Budget;"
+    db.query(q, (err,data)=>{
+        if (err) {
+            res.send(err);
+        }
+        // console.log(data[0]["PrisonState"]);
+        // console.log(data.length);
+        return res.send(data);
+    })
+})
+
+app.get("/budgetdata/:PrisonState/:dYear", (req,res)=>{
+
+    const q = "select typ, amt from Budget where PrisonState = ? and dYear = ?;"
+    const testVal = [req.params.PrisonState, req.params.dYear];
+    
+    db.query(q, testVal, (err,data)=>{
+        if (err) {
+            res.send(err);
+            console.log(err);
+        }
+        // console.log(data[0]["PrisonState"]);
+        console.log(data);
+        return res.send(data);
+    })
+})
 
 
 app.post("/register", (req, res) => {

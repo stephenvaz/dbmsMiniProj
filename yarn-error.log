@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/stephen03/.nvm/versions/node/v18.8.0/bin/node /Users/stephen03/.node/corepack/yarn/1.22.15/bin/yarn.js add chart.js react chartjs-2
+
+PATH: 
+  /Users/stephen03/.nvm/versions/node/v18.8.0/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/stephen03/Library/Python/3.9/bin:/Users/stephen03/Library/Android/sdk/platform-tools/:$HOME/.pub-cache/bin:/Library/Apple/usr/bin:/Users/stephen03/.nvm/versions/node/v18.8.0/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Users/stephen03/.pub-cache/bin:/Users/stephen03/.pub-cache/bin:/Users/stephen03/Dev/flutter/bin:/Users/stephen03/.spicetify:/usr/local/mysql-8.0.30-macos12-arm64/bin:/Users/stephen03/Dev/flutter/bin:/Users/stephen03/.spicetify:/usr/local/mysql-8.0.30-macos12-arm64/bin:/Users/stephen03/.pub-cache/bin
+
+Yarn version: 
+  1.22.15
+
+Node version: 
+  18.8.0
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/chartjs-2: Not found
+      at params.callback [as _callback] (/Users/stephen03/.node/corepack/yarn/1.22.15/lib/cli.js:66140:18)
+      at self.callback (/Users/stephen03/.node/corepack/yarn/1.22.15/lib/cli.js:140885:22)
+      at Request.emit (node:events:513:28)
+      at Request.<anonymous> (/Users/stephen03/.node/corepack/yarn/1.22.15/lib/cli.js:141857:10)
+      at Request.emit (node:events:513:28)
+      at IncomingMessage.<anonymous> (/Users/stephen03/.node/corepack/yarn/1.22.15/lib/cli.js:141779:12)
+      at Object.onceWrapper (node:events:627:28)
+      at IncomingMessage.emit (node:events:525:35)
+      at endReadableNT (node:internal/streams/readable:1359:12)
+      at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

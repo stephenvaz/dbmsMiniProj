@@ -20,8 +20,9 @@ export default function Header() {
             <a className= "btn" href='/'>Home </a>
             <a className = "btn" href='/GenderStat'>Gender</a>
             <a className = "btn" href='/piechart'>Pie</a>
-            {/* <HeaderButton cName = "btn" link = "crime"/> */}
-            <HeaderButton cName = "btn" link = "login" name = "Login"/>
+            <HeaderButton cName = "btn" link = "crime" name="Crime"/>
+            <HeaderButton cName = "btn" link = "budget" name="Budget"/>
+            <a className='btn' href='/login' style={{float: "right"}}>Login</a>
         </div>
     );
     

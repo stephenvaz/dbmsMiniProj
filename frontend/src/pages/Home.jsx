@@ -24,11 +24,12 @@ const Home = () => {
 
     return (
         <div>
-            <h1>testData</h1>
+            <h2>Indian Prison Statistics</h2>
             <div className="info">
-                {
-                testStore.map(testStore => (
+                {/* {
+                testStore.map((testStore,index) => (
                     <div className='testFetch'>
+                        <t>{index}</t>
                         <t>{testStore.PrisonState}</t>
                         <t>{testStore.dYear}</t>
                         <t>{testStore.typ}</t>
@@ -36,7 +37,24 @@ const Home = () => {
                     </div>
                 )
                 )
-                } 
+                }  */}
+            <div className='container'>
+
+                <button>View Gender Based Distributions</button>
+
+            </div>
+            <div className='container'>
+                <button>Pie Chart Distribution</button>
+                
+            </div>
+            <div className='container'>
+                <button>Graphical Classification of Crimes</button>
+                
+            </div>
+            <div className='container'>
+                <button>Budget View and Update</button>
+            </div>
+           
             </div>
         </div>
     )
