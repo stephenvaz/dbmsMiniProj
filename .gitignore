@@ -1,5 +1,6 @@
 
 .DS_Store
 backend\lib\db.js
+
 frontend\node_modules
 backend\node_modules
