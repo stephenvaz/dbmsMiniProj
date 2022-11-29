@@ -1,8 +1,12 @@
 #root {
-  /* max-width: 1280px; */
+  /* max-width: max-content; */
   /* margin: 0 auto; */
-  padding-left: 2%;
+  /* padding-left: 2%; */
   /* text-align: center; */
+}
+
+.queryContainer {
+  margin: 10px;
 }
 
 /* .logo {

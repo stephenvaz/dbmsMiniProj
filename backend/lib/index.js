@@ -49,9 +49,46 @@ app.get("/test3/:PrisonState/:dYear/:sex", (req, res)=> {
 })
 
 app.get("/test4/:PrisonState/:dYear", (req, res)=> {
+    const state = req.params.PrisonState;
+    const year = req.params.dYear;
     // select sum(noPrisoners), sex as NP from prisoner group by sex;
     // const q = "select sum(noPrisoners) from prisoner where PrisonState = ? and dYear = ?";
-    const q = "select sum(noPrisoners) as npr, sex from prisoner " + (req.params.PrisonState == "All" ? "" : "having PrisonState = `${req.params.PrisonState}` ") + (req.params.dYear == null ? "All" : "having dYear = `${req.params.dYear}` ")
+    // console.log(req.params.PrisonState);
+    // const q = "Select sex, sum(noPrisoners) as npr from Prisoner WHERE PrisonState = 'Goa' and dYear = 2003 GROUP BY sex "
+    // const q = "Select sex, sum(noPrisoners) as npr from Prisoner WHERE PrisonState = '" + req.params.PrisonState + "' and dYear = "+req.params.dYear+" GROUP BY sex "
+    var q = "Select sex, sum(noPrisoners) as npr from Prisoner " + (state != "All" ? "WHERE PrisonState = '" + state + "'" : "") + (year != "All" ? " and dYear = " + year : "") + " GROUP BY SEX"
+    console.log(q)
+    // const testVal = [req.params.PrisonState, req.params.dYear];
+    db.query(q,(err,data)=>{
+        if (err) {
+            res.send(err);
+        }
+        return res.send(data);
+    })
+})
+
+app.get("/crime", (req,res)=>{
+    const q = "select distinct ctyp from crime;"
+    db.query(q, (err,data)=>{
+        if (err) {
+            res.send(err);
+        }
+        // console.log(data.length);
+        return res.send(data);
+    })
+})
+
+//crime basic question
+app.get("/crime/:PrisonState/:dYear", (req, res)=> {
+    const state = req.params.PrisonState;
+    const year = req.params.dYear;
+    // select sum(noPrisoners), sex as NP from prisoner group by sex;
+    // const q = "select sum(noPrisoners) from prisoner where PrisonState = ? and dYear = ?";
+    // console.log(req.params.PrisonState);
+    // const q = "Select sex, sum(noPrisoners) as npr from Prisoner WHERE PrisonState = 'Goa' and dYear = 2003 GROUP BY sex "
+    // const q = "Select sex, sum(noPrisoners) as npr from Prisoner WHERE PrisonState = '" + req.params.PrisonState + "' and dYear = "+req.params.dYear+" GROUP BY sex "
+    var q = "Select sex, sum(noPrisoners) as npr from Prisoner " + (state != "All" ? "WHERE PrisonState = '" + state + "'" : "") + (year != "All" ? " and dYear = " + year : "") + " GROUP BY SEX"
+    console.log(q)
     // const testVal = [req.params.PrisonState, req.params.dYear];
     db.query(q,(err,data)=>{
         if (err) {
