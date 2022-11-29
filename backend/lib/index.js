@@ -3,6 +3,7 @@ import db from './db.js';
 import cors from 'cors';
 const app = express();
 app.use(cors());
+app.use(express.json());
 
 app.listen(6969, () => {
     console.log('Server started on port 6969');
@@ -97,3 +98,48 @@ app.get("/crime/:PrisonState/:dYear", (req, res)=> {
         return res.send(data);
     })
 })
+
+
+
+app.post("/register", (req, res) => {
+    const name = req.body.name;
+    const username = req.body.username;
+    const password = req.body.password;
+
+    console.log(name + " " + username + " " + password);
+    const query = "INSERT INTO User (name, username, password) VALUES (?, ?, ?)";
+    db.query(query, [name, username, password], (err, data) => {
+        if (err) {
+            console.log(err);
+            
+        }
+        return res.send(data);
+        
+    });
+    
+});
+
+app.post("/login", (req, res) => {
+    const username = req.body.username;
+    const password = req.body.password;
+
+    console.log("Login: "+ username + " " + password);
+    const query = "SELECT * FROM user WHERE username = ? AND password = ?";
+    db.query(query, [username, password], (err, data) => {
+        if (err) {
+            res.send({err: err});
+            
+        }
+        if(data.length > 0) {
+            res.send({message: "Login Successful"});
+        }
+        else {
+            res.send({message: "Wrong username/password combination!"});
+        }
+        
+    });
+    
+});
+
+
+export default app;
