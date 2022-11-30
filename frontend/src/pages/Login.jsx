@@ -9,10 +9,11 @@ export default function Login() {
     const [logOrReg, setLog] = useState(true);
     // const [acctCreated, setAcct] = useState(false);
     const [loginSuccess, setLoginMess] = useState("");
-
+    const [regSuccess, setRegMess] = useState("");
     const register = () => {
         axios.post("http://localhost:6969/register", {name: name, username: userName, password: password}).then((response) => {
             console.log(response);
+            setRegMess(response.data.message);
         });
     }
 
@@ -79,7 +80,7 @@ export default function Login() {
                 setLog(true)
                 // console.log("register")
             }} >Login</button>
-            
+            <div>{regSuccess}</div>
             </div>
     );
 // }

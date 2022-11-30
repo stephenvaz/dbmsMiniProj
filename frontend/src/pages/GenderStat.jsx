@@ -14,18 +14,6 @@ const GenderStat = () => {
 
     });
 
-    // useEffect(()=>{
-    //     const fetchData = async () => {
-    //         try {
-    //             const res = await axios.get("http://localhost:6969/test2")
-    //             setTest(res.data)
-    //             console.log(res)
-    //         } catch (error) {
-    //             console.log(error);
-    //         }
-    //     };
-    //     fetchData();
-    // },[]);
     const handleChange = (e) => {
         setTest((prev) => ({...prev, [e.target.name]: e.target.value}))
 

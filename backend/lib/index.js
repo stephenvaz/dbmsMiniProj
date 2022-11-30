@@ -181,10 +181,11 @@ app.post("/register", (req, res) => {
     const query = "INSERT INTO User (name, username, password) VALUES (?, ?, ?)";
     db.query(query, [name, username, password], (err, data) => {
         if (err) {
-            console.log(err);
+            res.send({err: err});
             
         }
-        return res.send(data);
+        console.log(data)
+        res.send({message: "Account Created"});
         
     });
     
@@ -212,5 +213,26 @@ app.post("/login", (req, res) => {
     
 });
 
-
+app.post("/update", (req, res) => {
+    const typ = req.body.typ;
+    const amt = req.body.amt;
+    const PrisonState = req.body.PrisonState;
+    const dYear = req.body.dYear;
+    console.log(typ + " " + amt + " " + PrisonState + " " + dYear);
+    const query = "UPDATE Budget SET amt = ? WHERE typ = ? AND PrisonState = ? AND dYear = ?";
+    db.query(query, [amt, typ, PrisonState, dYear], (err, data) => {
+        if (err) {
+            res.send({err: err});
+            
+        }
+        console.log(data.length);
+        if(data.length > 0) {
+            res.send({message: "Update Successful"});
+        }
+        else {
+            res.send({message: "Update Failed"});
+        }
+        console.log(data);
+    });
+})
 export default app;
